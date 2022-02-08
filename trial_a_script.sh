@@ -4,3 +4,4 @@ do
 echo $i
 done
 awk '{print$2}' file 
+sed '/pattern/d' 
