@@ -1,5 +1,5 @@
 #I am trying github scripting here
-for i in `cat the_file`
+for i in `cat the_files_here`
 do
 echo $i
 done
