@@ -1,4 +1,4 @@
-# C9 Deliverables — squamate complement C9 copy-number, phylogeny & selection study
+# C9   — squamate complement C9 copy-number, phylogeny & selection study
 
 Consolidated, reproducible result set. All files are **copies** of originals under
 `results/v2_ashu_C9A/`, `exonwise_sequence_final/`, `Alignment/`, `Selection_analysis/`, `gene_tree/`,
