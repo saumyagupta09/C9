@@ -1,0 +1,1 @@
+exon-6=213 and exon-8=105 CONFIRMED GENUINE (both Correlophus+kuhli guides agree, canonical splices, tblastn shows real in-frame deletions). exon-10 corrected 220->229 (v3 under-call; clade=229 in all 5 other geckos, clean canonical ORF). 586aa.

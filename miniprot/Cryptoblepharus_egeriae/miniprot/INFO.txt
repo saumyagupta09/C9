@@ -1,0 +1,6 @@
+Whole-chromosome miniprot run.
+Query (input): ../../QUERY_ashu_C9_prot.faa (curated C9 proteins)
+Target (input): genome assembly = /media/ashutosh/disk3/Open_seminar/C9_related/Squamata/Squamata_genomes/genome_dir/Cryptoblepharus_egeriae/GCA_030015325.2_Cryege1_pri_2025_genomic.fna
+Output: Cryptoblepharus_egeriae.gff (gene model, genome coords)
+Command: miniprot -t4 --gff <genome.fa> ashu_C9_prot.fa > Cryptoblepharus_egeriae.gff
+IGV: load the genome assembly above + Cryptoblepharus_egeriae.gff

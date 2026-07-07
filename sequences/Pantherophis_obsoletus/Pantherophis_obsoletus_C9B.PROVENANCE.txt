@@ -1,0 +1,15 @@
+Pantherophis_obsoletus C9B — truncated pseudogene (exon 11 deleted); read-validated + read-through stop.
+
+- C9B = exons 1-10 intact ORF (ATG start, 0 internal stops), but EXON 11 (C-terminal TSP1) is DELETED.
+- SRA-read validation (2026-07-02, Deliverables/sra_blast/): C9B reads are present at exons 8-10 but a
+  distinct C9B exon-11 is absent (only C9A + C9C at exon 11); the exon-11 deletion is GENUINE, not an
+  assembly artifact (unlike Naja/Notechis). Congener P. guttatus retains exon 11.
+- READ-THROUGH STOP: reading past the exon-10 3' end into the downstream intron, the very next codon is
+  an in-frame TAG stop (0 extra aa), at genomic ~11,632,733 (WJSR01000024.1, minus strand). So C9B
+  terminates cleanly = a defined 533-aa C-terminally-truncated product. Terminated CDS:
+  Pantherophis_obsoletus_C9B_readthrough.{cds,pep}.fa (1602 nt / 533 aa, ends in stop).
+
+UPDATE (2026-07-03): the MAIN Pantherophis_obsoletus_C9B.{cds,exons,pep}.fa now carry the terminal TAG
+(appended to exon_10 / CDS) so the kept sequence ends in a proper stop (1602 nt / 533 aa). The separate
+_readthrough files were removed (redundant). C9B is retained in exonwise_sequence_final as a
+meaningful truncated copy (lost exon 11 only).

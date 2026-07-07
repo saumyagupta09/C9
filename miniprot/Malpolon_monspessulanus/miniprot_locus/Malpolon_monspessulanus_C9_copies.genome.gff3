@@ -1,0 +1,27 @@
+##gff-version 3
+OZ184073.1	miniprot	mRNA	285577603	285608491	2779	+	.	ID=Malpolon_monspessulanus_C9A;Rank=1;Identity=0.8816;Positive=0.9245;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Malpolon_monspessulanus_C9A
+OZ184073.1	miniprot	CDS	285577603	285577679	92	+	0	Parent=Malpolon_monspessulanus_C9A;Rank=1;Identity=0.8077;Target=Pantherophis_obsoletus_C9A_1 1 25
+OZ184073.1	miniprot	CDS	285579283	285579376	174	+	1	Parent=Malpolon_monspessulanus_C9A;Rank=1;Identity=0.9355;Target=Pantherophis_obsoletus_C9A_1 26 57
+OZ184073.1	miniprot	CDS	285581117	285581264	219	+	0	Parent=Malpolon_monspessulanus_C9A;Rank=1;Identity=0.8000;Target=Pantherophis_obsoletus_C9A_1 58 106
+OZ184073.1	miniprot	CDS	285583384	285583531	258	+	2	Parent=Malpolon_monspessulanus_C9A;Rank=1;Identity=0.8980;Target=Pantherophis_obsoletus_C9A_1 107 155
+OZ184073.1	miniprot	CDS	285589110	285589248	234	+	1	Parent=Malpolon_monspessulanus_C9A;Rank=1;Identity=0.9130;Target=Pantherophis_obsoletus_C9A_1 156 202
+OZ184073.1	miniprot	CDS	285590653	285590865	302	+	0	Parent=Malpolon_monspessulanus_C9A;Rank=1;Identity=0.8451;Target=Pantherophis_obsoletus_C9A_1 203 273
+OZ184073.1	miniprot	CDS	285592290	285592530	412	+	0	Parent=Malpolon_monspessulanus_C9A;Rank=1;Identity=0.9630;Target=Pantherophis_obsoletus_C9A_1 274 353
+OZ184073.1	miniprot	CDS	285595479	285595604	167	+	2	Parent=Malpolon_monspessulanus_C9A;Rank=1;Identity=0.7857;Target=Pantherophis_obsoletus_C9A_1 354 395
+OZ184073.1	miniprot	CDS	285603130	285603311	274	+	2	Parent=Malpolon_monspessulanus_C9A;Rank=1;Identity=0.9167;Target=Pantherophis_obsoletus_C9A_1 396 456
+OZ184073.1	miniprot	CDS	285605425	285605653	386	+	0	Parent=Malpolon_monspessulanus_C9A;Rank=1;Identity=0.9091;Target=Pantherophis_obsoletus_C9A_1 457 532
+OZ184073.1	miniprot	CDS	285608337	285608491	261	+	2	Parent=Malpolon_monspessulanus_C9A;Rank=1;Identity=0.8400;Target=Pantherophis_obsoletus_C9A_1 533 583
+OZ184073.1	miniprot	stop_codon	285608489	285608491	0	+	0	Parent=Malpolon_monspessulanus_C9A;Rank=1
+OZ184073.1	miniprot	mRNA	285639180	285654497	2364	+	.	ID=Malpolon_monspessulanus_C9B;Rank=1;Identity=0.7479;Positive=0.8336;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Malpolon_monspessulanus_C9B
+OZ184073.1	miniprot	CDS	285639180	285639253	65	+	0	Parent=Malpolon_monspessulanus_C9B;Rank=1;Identity=0.7308;Target=Pantherophis_obsoletus_C9A_1 1 25
+OZ184073.1	miniprot	CDS	285640241	285640334	146	+	1	Parent=Malpolon_monspessulanus_C9B;Rank=1;Identity=0.7742;Target=Pantherophis_obsoletus_C9A_1 26 57
+OZ184073.1	miniprot	CDS	285640941	285641088	261	+	0	Parent=Malpolon_monspessulanus_C9B;Rank=1;Identity=0.9200;Target=Pantherophis_obsoletus_C9A_1 58 106
+OZ184073.1	miniprot	CDS	285642802	285642949	230	+	2	Parent=Malpolon_monspessulanus_C9B;Rank=1;Identity=0.8163;Target=Pantherophis_obsoletus_C9A_1 107 155
+OZ184073.1	miniprot	CDS	285644467	285644605	218	+	1	Parent=Malpolon_monspessulanus_C9B;Rank=1;Identity=0.8478;Target=Pantherophis_obsoletus_C9A_1 156 202
+OZ184073.1	miniprot	CDS	285645997	285646209	191	+	0	Parent=Malpolon_monspessulanus_C9B;Rank=1;Identity=0.5493;Target=Pantherophis_obsoletus_C9A_1 203 273
+OZ184073.1	miniprot	CDS	285648319	285648559	362	+	0	Parent=Malpolon_monspessulanus_C9B;Rank=1;Identity=0.8272;Target=Pantherophis_obsoletus_C9A_1 274 353
+OZ184073.1	miniprot	CDS	285650593	285650718	90	+	2	Parent=Malpolon_monspessulanus_C9B;Rank=1;Identity=0.4524;Target=Pantherophis_obsoletus_C9A_1 354 395
+OZ184073.1	miniprot	CDS	285652025	285652206	214	+	2	Parent=Malpolon_monspessulanus_C9B;Rank=1;Identity=0.7000;Target=Pantherophis_obsoletus_C9A_1 396 456
+OZ184073.1	miniprot	CDS	285653558	285653786	370	+	0	Parent=Malpolon_monspessulanus_C9B;Rank=1;Identity=0.8571;Target=Pantherophis_obsoletus_C9A_1 457 532
+OZ184073.1	miniprot	CDS	285654343	285654497	217	+	2	Parent=Malpolon_monspessulanus_C9B;Rank=1;Identity=0.7000;Target=Pantherophis_obsoletus_C9A_1 533 583
+OZ184073.1	miniprot	stop_codon	285654495	285654497	0	+	0	Parent=Malpolon_monspessulanus_C9B;Rank=1

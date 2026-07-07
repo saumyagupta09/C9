@@ -1,0 +1,27 @@
+##gff-version 3
+CM019149.1	miniprot	mRNA	286384917	286408952	2611	+	.	ID=Naja_naja_C9A;Rank=1;Identity=0.8185;Positive=0.8990;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Naja_naja_C9A
+CM019149.1	miniprot	CDS	286384917	286384993	103	+	0	Parent=Naja_naja_C9A;Rank=1;Identity=0.8462;Target=Pantherophis_obsoletus_C9A_1 1 25
+CM019149.1	miniprot	CDS	286386204	286386297	161	+	1	Parent=Naja_naja_C9A;Rank=1;Identity=0.8710;Target=Pantherophis_obsoletus_C9A_1 26 57
+CM019149.1	miniprot	CDS	286390068	286390215	184	+	0	Parent=Naja_naja_C9A;Rank=1;Identity=0.6600;Target=Pantherophis_obsoletus_C9A_1 58 106
+CM019149.1	miniprot	CDS	286391146	286391293	222	+	2	Parent=Naja_naja_C9A;Rank=1;Identity=0.7755;Target=Pantherophis_obsoletus_C9A_1 107 155
+CM019149.1	miniprot	CDS	286393404	286393542	236	+	1	Parent=Naja_naja_C9A;Rank=1;Identity=0.9130;Target=Pantherophis_obsoletus_C9A_1 156 202
+CM019149.1	miniprot	CDS	286395289	286395501	304	+	0	Parent=Naja_naja_C9A;Rank=1;Identity=0.8169;Target=Pantherophis_obsoletus_C9A_1 203 273
+CM019149.1	miniprot	CDS	286399544	286399784	388	+	0	Parent=Naja_naja_C9A;Rank=1;Identity=0.8889;Target=Pantherophis_obsoletus_C9A_1 274 353
+CM019149.1	miniprot	CDS	286402511	286402639	124	+	2	Parent=Naja_naja_C9A;Rank=1;Identity=0.5581;Target=Pantherophis_obsoletus_C9A_1 354 395
+CM019149.1	miniprot	CDS	286405574	286405755	254	+	2	Parent=Naja_naja_C9A;Rank=1;Identity=0.8333;Target=Pantherophis_obsoletus_C9A_1 396 456
+CM019149.1	miniprot	CDS	286406999	286407227	379	+	0	Parent=Naja_naja_C9A;Rank=1;Identity=0.9091;Target=Pantherophis_obsoletus_C9A_1 457 532
+CM019149.1	miniprot	CDS	286408798	286408952	256	+	2	Parent=Naja_naja_C9A;Rank=1;Identity=0.8400;Target=Pantherophis_obsoletus_C9A_1 533 583
+CM019149.1	miniprot	stop_codon	286408950	286408952	0	+	0	Parent=Naja_naja_C9A;Rank=1
+CM019149.1	miniprot	mRNA	286437941	286456153	2257	+	.	ID=Naja_naja_C9B;Rank=1;Identity=0.7187;Positive=0.8319;Frameshift=3;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Naja_naja_C9B
+CM019149.1	miniprot	CDS	286437941	286438017	87	+	0	Parent=Naja_naja_C9B;Rank=1;Identity=0.7308;Target=Pantherophis_obsoletus_C9A_1 1 25
+CM019149.1	miniprot	CDS	286439096	286439189	142	+	1	Parent=Naja_naja_C9B;Rank=1;Identity=0.7419;Target=Pantherophis_obsoletus_C9A_1 26 57
+CM019149.1	miniprot	CDS	286439792	286439939	256	+	0	Parent=Naja_naja_C9B;Rank=1;Identity=0.8800;Target=Pantherophis_obsoletus_C9A_1 58 106
+CM019149.1	miniprot	CDS	286441735	286441882	245	+	2	Parent=Naja_naja_C9B;Rank=1;Identity=0.8367;Target=Pantherophis_obsoletus_C9A_1 107 155
+CM019149.1	miniprot	CDS	286443480	286443618	212	+	1	Parent=Naja_naja_C9B;Rank=1;Identity=0.8261;Target=Pantherophis_obsoletus_C9A_1 156 202
+CM019149.1	miniprot	CDS	286445328	286445540	177	+	0	Parent=Naja_naja_C9B;Rank=1;Identity=0.5070;Target=Pantherophis_obsoletus_C9A_1 203 273
+CM019149.1	miniprot	CDS	286449863	286450099	288	+	0	Parent=Naja_naja_C9B;Rank=1;Identity=0.7654;Frameshift=2;Target=Pantherophis_obsoletus_C9A_1 274 353
+CM019149.1	miniprot	CDS	286451755	286451880	88	+	2	Parent=Naja_naja_C9B;Rank=1;Identity=0.4286;Target=Pantherophis_obsoletus_C9A_1 354 395
+CM019149.1	miniprot	CDS	286453433	286453614	219	+	2	Parent=Naja_naja_C9B;Rank=1;Identity=0.7000;Target=Pantherophis_obsoletus_C9A_1 396 456
+CM019149.1	miniprot	CDS	286454864	286455091	329	+	0	Parent=Naja_naja_C9B;Rank=1;Identity=0.8182;Frameshift=1;Target=Pantherophis_obsoletus_C9A_1 457 532
+CM019149.1	miniprot	CDS	286455999	286456153	214	+	2	Parent=Naja_naja_C9B;Rank=1;Identity=0.6600;Target=Pantherophis_obsoletus_C9A_1 533 583
+CM019149.1	miniprot	stop_codon	286456151	286456153	0	+	0	Parent=Naja_naja_C9B;Rank=1

@@ -1,0 +1,6 @@
+Anolis_sagrei C9A — kept as a MEANINGFUL TRUNCATED copy (lost exon 11 only).
+- 10 exons, 537 aa, 0 internal stops. The gene lost exon 11 (C-terminal TSP1 module), like A. carolinensis C9A.
+- The CDS/exon_10/peptide terminate at an in-frame TAG stop that lies immediately 3' of the canonical
+  exon-10 donor (genomic NC_090022.1 ~277875143-145, plus strand) = a read-through stop into the intron.
+  This TAG (3 bp) is appended to exon_10 / the CDS so the sequence carries a proper terminal stop.
+- Verified by downstream genome read-through (2026-07-03). Retained in exonwise_sequence_final (analysis set).

@@ -1,0 +1,6 @@
+Whole-chromosome miniprot run.
+Query (input): ../../QUERY_ashu_C9_prot.faa (curated C9 proteins)
+Target (input): genome assembly = /media/ashutosh/disk3/Open_seminar/C9_related/Squamata/Squamata_genomes/genome_dir/Carinascincus_ocellatus/GCA_965280105.1_Cocellatus_unphased.v1_genomic.fna
+Output: Carinascincus_ocellatus.gff (gene model, genome coords)
+Command: miniprot -t4 --gff <genome.fa> ashu_C9_prot.fa > Carinascincus_ocellatus.gff
+IGV: load the genome assembly above + Carinascincus_ocellatus.gff

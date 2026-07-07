@@ -1,0 +1,4 @@
+TRUNCATED copy: exons 1-10 only (537aa, 0 internal stops, clean reading frame).
+Terminal exon-11 GENUINELY LOST (no Cterm remnant in genome; stop codon immediately after exon-10).
+Liver RNA-seq: trace expression, transcript ends at exon-10, no exon10-11 junction.
+Kept for completeness; NOT a complete C9 ORF (missing C-terminal TSP1 domain).

@@ -1,0 +1,40 @@
+##gff-version 3
+JAKOOJ010000008.1	miniprot	mRNA	76590935	76618304	2889	+	.	ID=Arizona_elegans_C9A;Rank=1;Identity=0.9142;Positive=0.9520;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Arizona_elegans_C9A
+JAKOOJ010000008.1	miniprot	CDS	76590935	76591011	105	+	0	Parent=Arizona_elegans_C9A;Rank=1;Identity=0.8462;Target=Pantherophis_obsoletus_C9A_1 1 25
+JAKOOJ010000008.1	miniprot	CDS	76593689	76593782	180	+	1	Parent=Arizona_elegans_C9A;Rank=1;Identity=0.9677;Target=Pantherophis_obsoletus_C9A_1 26 57
+JAKOOJ010000008.1	miniprot	CDS	76597905	76598052	216	+	0	Parent=Arizona_elegans_C9A;Rank=1;Identity=0.7800;Target=Pantherophis_obsoletus_C9A_1 58 106
+JAKOOJ010000008.1	miniprot	CDS	76600305	76600452	253	+	2	Parent=Arizona_elegans_C9A;Rank=1;Identity=0.8776;Target=Pantherophis_obsoletus_C9A_1 107 155
+JAKOOJ010000008.1	miniprot	CDS	76602646	76602784	250	+	1	Parent=Arizona_elegans_C9A;Rank=1;Identity=0.9783;Target=Pantherophis_obsoletus_C9A_1 156 202
+JAKOOJ010000008.1	miniprot	CDS	76604329	76604541	324	+	0	Parent=Arizona_elegans_C9A;Rank=1;Identity=0.8732;Target=Pantherophis_obsoletus_C9A_1 203 273
+JAKOOJ010000008.1	miniprot	CDS	76609179	76609419	401	+	0	Parent=Arizona_elegans_C9A;Rank=1;Identity=0.9506;Target=Pantherophis_obsoletus_C9A_1 274 353
+JAKOOJ010000008.1	miniprot	CDS	76612943	76613068	187	+	2	Parent=Arizona_elegans_C9A;Rank=1;Identity=0.9048;Target=Pantherophis_obsoletus_C9A_1 354 395
+JAKOOJ010000008.1	miniprot	CDS	76614849	76615030	284	+	2	Parent=Arizona_elegans_C9A;Rank=1;Identity=0.9500;Target=Pantherophis_obsoletus_C9A_1 396 456
+JAKOOJ010000008.1	miniprot	CDS	76616365	76616593	395	+	0	Parent=Arizona_elegans_C9A;Rank=1;Identity=0.9221;Target=Pantherophis_obsoletus_C9A_1 457 532
+JAKOOJ010000008.1	miniprot	CDS	76618150	76618304	294	+	2	Parent=Arizona_elegans_C9A;Rank=1;Identity=0.9800;Target=Pantherophis_obsoletus_C9A_1 533 583
+JAKOOJ010000008.1	miniprot	stop_codon	76618302	76618304	0	+	0	Parent=Arizona_elegans_C9A;Rank=1
+JAKOOJ010000008.1	miniprot	mRNA	76625505	76644890	2956	+	.	ID=Arizona_elegans_C9B;Rank=1;Identity=0.9383;Positive=0.9605;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Arizona_elegans_C9B
+JAKOOJ010000008.1	miniprot	CDS	76625505	76625581	108	+	0	Parent=Arizona_elegans_C9B;Rank=1;Identity=0.8846;Target=Pantherophis_obsoletus_C9A_1 1 25
+JAKOOJ010000008.1	miniprot	CDS	76629341	76629434	170	+	1	Parent=Arizona_elegans_C9B;Rank=1;Identity=0.9032;Target=Pantherophis_obsoletus_C9A_1 26 57
+JAKOOJ010000008.1	miniprot	CDS	76631336	76631483	265	+	0	Parent=Arizona_elegans_C9B;Rank=1;Identity=0.9400;Target=Pantherophis_obsoletus_C9A_1 58 106
+JAKOOJ010000008.1	miniprot	CDS	76634614	76634761	274	+	2	Parent=Arizona_elegans_C9B;Rank=1;Identity=0.9796;Target=Pantherophis_obsoletus_C9A_1 107 155
+JAKOOJ010000008.1	miniprot	CDS	76636192	76636330	247	+	1	Parent=Arizona_elegans_C9B;Rank=1;Identity=0.9783;Target=Pantherophis_obsoletus_C9A_1 156 202
+JAKOOJ010000008.1	miniprot	CDS	76636667	76636879	339	+	0	Parent=Arizona_elegans_C9B;Rank=1;Identity=0.9437;Target=Pantherophis_obsoletus_C9A_1 203 273
+JAKOOJ010000008.1	miniprot	CDS	76637908	76638148	407	+	0	Parent=Arizona_elegans_C9B;Rank=1;Identity=0.9630;Target=Pantherophis_obsoletus_C9A_1 274 353
+JAKOOJ010000008.1	miniprot	CDS	76638572	76638697	204	+	2	Parent=Arizona_elegans_C9B;Rank=1;Identity=0.9762;Target=Pantherophis_obsoletus_C9A_1 354 395
+JAKOOJ010000008.1	miniprot	CDS	76641819	76642000	277	+	2	Parent=Arizona_elegans_C9B;Rank=1;Identity=0.9167;Target=Pantherophis_obsoletus_C9A_1 396 456
+JAKOOJ010000008.1	miniprot	CDS	76642763	76642991	396	+	0	Parent=Arizona_elegans_C9B;Rank=1;Identity=0.9351;Target=Pantherophis_obsoletus_C9A_1 457 532
+JAKOOJ010000008.1	miniprot	CDS	76644736	76644890	269	+	2	Parent=Arizona_elegans_C9B;Rank=1;Identity=0.8600;Target=Pantherophis_obsoletus_C9A_1 533 583
+JAKOOJ010000008.1	miniprot	stop_codon	76644888	76644890	0	+	0	Parent=Arizona_elegans_C9B;Rank=1
+JAKOOJ010000008.1	miniprot	mRNA	76665636	76686391	2376	+	.	ID=Arizona_elegans_C9C;Rank=1;Identity=0.7393;Positive=0.8388;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Arizona_elegans_C9C
+JAKOOJ010000008.1	miniprot	CDS	76665636	76665712	115	+	0	Parent=Arizona_elegans_C9C;Rank=1;Identity=0.9615;Target=Pantherophis_obsoletus_C9A_1 1 25
+JAKOOJ010000008.1	miniprot	CDS	76667098	76667191	151	+	1	Parent=Arizona_elegans_C9C;Rank=1;Identity=0.7742;Target=Pantherophis_obsoletus_C9A_1 26 57
+JAKOOJ010000008.1	miniprot	CDS	76668299	76668446	270	+	0	Parent=Arizona_elegans_C9C;Rank=1;Identity=0.9600;Target=Pantherophis_obsoletus_C9A_1 58 106
+JAKOOJ010000008.1	miniprot	CDS	76670259	76670406	247	+	2	Parent=Arizona_elegans_C9C;Rank=1;Identity=0.8571;Target=Pantherophis_obsoletus_C9A_1 107 155
+JAKOOJ010000008.1	miniprot	CDS	76674297	76674435	221	+	1	Parent=Arizona_elegans_C9C;Rank=1;Identity=0.8696;Target=Pantherophis_obsoletus_C9A_1 156 202
+JAKOOJ010000008.1	miniprot	CDS	76676964	76677176	184	+	0	Parent=Arizona_elegans_C9C;Rank=1;Identity=0.5211;Target=Pantherophis_obsoletus_C9A_1 203 273
+JAKOOJ010000008.1	miniprot	CDS	76679381	76679621	358	+	0	Parent=Arizona_elegans_C9C;Rank=1;Identity=0.8395;Target=Pantherophis_obsoletus_C9A_1 274 353
+JAKOOJ010000008.1	miniprot	CDS	76681856	76681981	86	+	2	Parent=Arizona_elegans_C9C;Rank=1;Identity=0.4048;Target=Pantherophis_obsoletus_C9A_1 354 395
+JAKOOJ010000008.1	miniprot	CDS	76683278	76683459	213	+	2	Parent=Arizona_elegans_C9C;Rank=1;Identity=0.7000;Target=Pantherophis_obsoletus_C9A_1 396 456
+JAKOOJ010000008.1	miniprot	CDS	76684597	76684825	335	+	0	Parent=Arizona_elegans_C9C;Rank=1;Identity=0.7532;Target=Pantherophis_obsoletus_C9A_1 457 532
+JAKOOJ010000008.1	miniprot	CDS	76686237	76686391	196	+	2	Parent=Arizona_elegans_C9C;Rank=1;Identity=0.6000;Target=Pantherophis_obsoletus_C9A_1 533 583
+JAKOOJ010000008.1	miniprot	stop_codon	76686389	76686391	0	+	0	Parent=Arizona_elegans_C9C;Rank=1

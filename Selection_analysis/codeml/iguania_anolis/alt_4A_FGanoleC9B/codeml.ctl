@@ -1,0 +1,17 @@
+seqfile = ../iguania_anolis.phy
+treefile = ../alt_4A_FGanoleC9B.tree
+outfile = out.txt
+noisy = 3
+verbose = 1
+runmode = 0
+seqtype = 1
+CodonFreq = 2
+clock = 0
+model = 2
+NSsites = 0
+icode = 0
+fix_kappa = 0
+kappa = 2
+fix_omega = 0
+omega = 0.4
+cleandata = 0

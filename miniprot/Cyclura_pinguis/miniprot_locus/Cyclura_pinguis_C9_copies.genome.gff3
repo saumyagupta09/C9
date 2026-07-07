@@ -1,0 +1,13 @@
+##gff-version 3
+CM059600.1	miniprot	mRNA	329401820	329429568	2374	+	.	ID=Cyclura_pinguis_C9A;Rank=1;Identity=0.7230;Positive=0.8294;Target=Anolis_carolinensis_C9A_1 1 591;Name=Cyclura_pinguis_C9A
+CM059600.1	miniprot	CDS	329401820	329401896	78	+	0	Parent=Cyclura_pinguis_C9A;Rank=1;Identity=0.6538;Target=Anolis_carolinensis_C9A_1 1 25
+CM059600.1	miniprot	CDS	329405029	329405122	153	+	1	Parent=Cyclura_pinguis_C9A;Rank=1;Identity=0.7419;Target=Anolis_carolinensis_C9A_1 26 57
+CM059600.1	miniprot	CDS	329410841	329410985	242	+	0	Parent=Cyclura_pinguis_C9A;Rank=1;Identity=0.8776;Target=Anolis_carolinensis_C9A_1 58 105
+CM059600.1	miniprot	CDS	329413334	329413481	231	+	2	Parent=Cyclura_pinguis_C9A;Rank=1;Identity=0.8367;Target=Anolis_carolinensis_C9A_1 106 154
+CM059600.1	miniprot	CDS	329416124	329416262	246	+	1	Parent=Cyclura_pinguis_C9A;Rank=1;Identity=0.9130;Target=Anolis_carolinensis_C9A_1 155 201
+CM059600.1	miniprot	CDS	329419552	329419782	217	+	0	Parent=Cyclura_pinguis_C9A;Rank=1;Identity=0.6104;Target=Anolis_carolinensis_C9A_1 202 277
+CM059600.1	miniprot	CDS	329421636	329421876	379	+	0	Parent=Cyclura_pinguis_C9A;Rank=1;Identity=0.8395;Target=Anolis_carolinensis_C9A_1 278 357
+CM059600.1	miniprot	CDS	329423897	329424022	76	+	2	Parent=Cyclura_pinguis_C9A;Rank=1;Identity=0.3810;Target=Anolis_carolinensis_C9A_1 358 399
+CM059600.1	miniprot	CDS	329425887	329426068	201	+	2	Parent=Cyclura_pinguis_C9A;Rank=1;Identity=0.6333;Target=Anolis_carolinensis_C9A_1 400 460
+CM059600.1	miniprot	CDS	329427711	329427939	334	+	0	Parent=Cyclura_pinguis_C9A;Rank=1;Identity=0.7403;Target=Anolis_carolinensis_C9A_1 461 536
+CM059600.1	miniprot	CDS	329429405	329429568	217	+	2	Parent=Cyclura_pinguis_C9A;Rank=1;Identity=0.6667;Target=Anolis_carolinensis_C9A_1 537 591

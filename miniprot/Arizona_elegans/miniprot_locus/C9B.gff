@@ -1,0 +1,15 @@
+##gff-version 3
+##PAF	Pantherophis_obsoletus_C9A_1	583	0	583	+	JAKOOJ010000008.1:76621908-76654890	32983	3597	22980	1641	1749	0	AS:i:2599	ms:i:2956	np:i:560	fs:i:0	st:i:0	da:i:0	do:i:0	cg:Z:25M3762V31M1901N49M3133U48M1433V46M336N71M1028N80M426U41M3124U60M762N76M1747U50M	cs:Z::17*agtV:3*gtaA:2*acaA*agR~gt3759ag-g:2*caaR:13*actA:7*agtI:6~gt1901ag:18*gtgE:6*cccS:9*gagG:13*gG~gt3130ag-ga:28*cgcL:19*ggG~gt1430ag-t:31*attT:14~gt336ag:26*tcaT:1*actS:17*attT:20*accI:3~gt1028ag:11*cacQ:48*atcT:18*catQ*gG~gt423ag-gg:18*gatA:22*gV~gt3121ag-tt:2*gtgL:1*cggQ:4*caaK:11*gttA:3*aggK:34~gt762ag:38*cagH:13*aagR:6*ccaS*tttL:15*gA~gt1744ag-gt:6*agcN:5*aacS:6*ggaR:6*cagE:11*gcaS:4*actS:2*ccaT:3
+JAKOOJ010000008.1:76621908-76654890	miniprot	mRNA	3598	22983	2956	+	.	ID=MP000001;Rank=1;Identity=0.9383;Positive=0.9605;Target=Pantherophis_obsoletus_C9A_1 1 583
+JAKOOJ010000008.1:76621908-76654890	miniprot	CDS	3598	3674	108	+	0	Parent=MP000001;Rank=1;Identity=0.8846;Target=Pantherophis_obsoletus_C9A_1 1 25
+JAKOOJ010000008.1:76621908-76654890	miniprot	CDS	7434	7527	170	+	1	Parent=MP000001;Rank=1;Identity=0.9032;Target=Pantherophis_obsoletus_C9A_1 26 57
+JAKOOJ010000008.1:76621908-76654890	miniprot	CDS	9429	9576	265	+	0	Parent=MP000001;Rank=1;Identity=0.9400;Target=Pantherophis_obsoletus_C9A_1 58 106
+JAKOOJ010000008.1:76621908-76654890	miniprot	CDS	12707	12854	274	+	2	Parent=MP000001;Rank=1;Identity=0.9796;Target=Pantherophis_obsoletus_C9A_1 107 155
+JAKOOJ010000008.1:76621908-76654890	miniprot	CDS	14285	14423	247	+	1	Parent=MP000001;Rank=1;Identity=0.9783;Target=Pantherophis_obsoletus_C9A_1 156 202
+JAKOOJ010000008.1:76621908-76654890	miniprot	CDS	14760	14972	339	+	0	Parent=MP000001;Rank=1;Identity=0.9437;Target=Pantherophis_obsoletus_C9A_1 203 273
+JAKOOJ010000008.1:76621908-76654890	miniprot	CDS	16001	16241	407	+	0	Parent=MP000001;Rank=1;Identity=0.9630;Target=Pantherophis_obsoletus_C9A_1 274 353
+JAKOOJ010000008.1:76621908-76654890	miniprot	CDS	16665	16790	204	+	2	Parent=MP000001;Rank=1;Identity=0.9762;Target=Pantherophis_obsoletus_C9A_1 354 395
+JAKOOJ010000008.1:76621908-76654890	miniprot	CDS	19912	20093	277	+	2	Parent=MP000001;Rank=1;Identity=0.9167;Target=Pantherophis_obsoletus_C9A_1 396 456
+JAKOOJ010000008.1:76621908-76654890	miniprot	CDS	20856	21084	396	+	0	Parent=MP000001;Rank=1;Identity=0.9351;Target=Pantherophis_obsoletus_C9A_1 457 532
+JAKOOJ010000008.1:76621908-76654890	miniprot	CDS	22829	22983	269	+	2	Parent=MP000001;Rank=1;Identity=0.8600;Target=Pantherophis_obsoletus_C9A_1 533 583
+JAKOOJ010000008.1:76621908-76654890	miniprot	stop_codon	22981	22983	0	+	0	Parent=MP000001;Rank=1

@@ -1,0 +1,8 @@
+species	Hemorrhois_hippocrepis
+clade	Colubridae
+scaffold	OZ203517.1
+window	OZ203517.1:24438077-24665110
+offset	24438076
+new_seqname	Hemorrhois_hippocrepis_C9locus
+length	227034
+note	genomic_pos = local_pos + offset

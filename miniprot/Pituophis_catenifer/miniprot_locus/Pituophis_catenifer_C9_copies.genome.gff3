@@ -1,0 +1,40 @@
+##gff-version 3
+NW_027256882.1	miniprot	mRNA	274487309	274514001	2878	+	.	ID=Pituophis_catenifer_C9A;Rank=1;Identity=0.9142;Positive=0.9468;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Pituophis_catenifer_C9A
+NW_027256882.1	miniprot	CDS	274487309	274487385	97	+	0	Parent=Pituophis_catenifer_C9A;Rank=1;Identity=0.8077;Target=Pantherophis_obsoletus_C9A_1 1 25
+NW_027256882.1	miniprot	CDS	274490039	274490132	184	+	1	Parent=Pituophis_catenifer_C9A;Rank=1;Identity=1.0000;Target=Pantherophis_obsoletus_C9A_1 26 57
+NW_027256882.1	miniprot	CDS	274493964	274494111	216	+	0	Parent=Pituophis_catenifer_C9A;Rank=1;Identity=0.7800;Target=Pantherophis_obsoletus_C9A_1 58 106
+NW_027256882.1	miniprot	CDS	274496317	274496464	253	+	2	Parent=Pituophis_catenifer_C9A;Rank=1;Identity=0.8776;Target=Pantherophis_obsoletus_C9A_1 107 155
+NW_027256882.1	miniprot	CDS	274498708	274498846	248	+	1	Parent=Pituophis_catenifer_C9A;Rank=1;Identity=0.9783;Target=Pantherophis_obsoletus_C9A_1 156 202
+NW_027256882.1	miniprot	CDS	274500389	274500601	317	+	0	Parent=Pituophis_catenifer_C9A;Rank=1;Identity=0.8592;Target=Pantherophis_obsoletus_C9A_1 203 273
+NW_027256882.1	miniprot	CDS	274504472	274504712	410	+	0	Parent=Pituophis_catenifer_C9A;Rank=1;Identity=0.9753;Target=Pantherophis_obsoletus_C9A_1 274 353
+NW_027256882.1	miniprot	CDS	274508628	274508753	178	+	2	Parent=Pituophis_catenifer_C9A;Rank=1;Identity=0.8571;Target=Pantherophis_obsoletus_C9A_1 354 395
+NW_027256882.1	miniprot	CDS	274510535	274510716	288	+	2	Parent=Pituophis_catenifer_C9A;Rank=1;Identity=0.9667;Target=Pantherophis_obsoletus_C9A_1 396 456
+NW_027256882.1	miniprot	CDS	274512044	274512272	388	+	0	Parent=Pituophis_catenifer_C9A;Rank=1;Identity=0.9091;Target=Pantherophis_obsoletus_C9A_1 457 532
+NW_027256882.1	miniprot	CDS	274513847	274514001	299	+	2	Parent=Pituophis_catenifer_C9A;Rank=1;Identity=1.0000;Target=Pantherophis_obsoletus_C9A_1 533 583
+NW_027256882.1	miniprot	stop_codon	274513999	274514001	0	+	0	Parent=Pituophis_catenifer_C9A;Rank=1
+NW_027256882.1	miniprot	mRNA	274521456	274539589	2985	+	.	ID=Pituophis_catenifer_C9B;Rank=1;Identity=0.9468;Positive=0.9691;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Pituophis_catenifer_C9B
+NW_027256882.1	miniprot	CDS	274521456	274521532	108	+	0	Parent=Pituophis_catenifer_C9B;Rank=1;Identity=0.8846;Target=Pantherophis_obsoletus_C9A_1 1 25
+NW_027256882.1	miniprot	CDS	274523399	274523492	170	+	1	Parent=Pituophis_catenifer_C9B;Rank=1;Identity=0.9032;Target=Pantherophis_obsoletus_C9A_1 26 57
+NW_027256882.1	miniprot	CDS	274525989	274526136	262	+	0	Parent=Pituophis_catenifer_C9B;Rank=1;Identity=0.9200;Target=Pantherophis_obsoletus_C9A_1 58 106
+NW_027256882.1	miniprot	CDS	274529385	274529532	274	+	2	Parent=Pituophis_catenifer_C9B;Rank=1;Identity=0.9796;Target=Pantherophis_obsoletus_C9A_1 107 155
+NW_027256882.1	miniprot	CDS	274530975	274531113	247	+	1	Parent=Pituophis_catenifer_C9B;Rank=1;Identity=0.9783;Target=Pantherophis_obsoletus_C9A_1 156 202
+NW_027256882.1	miniprot	CDS	274531450	274531662	340	+	0	Parent=Pituophis_catenifer_C9B;Rank=1;Identity=0.9437;Target=Pantherophis_obsoletus_C9A_1 203 273
+NW_027256882.1	miniprot	CDS	274532691	274532931	418	+	0	Parent=Pituophis_catenifer_C9B;Rank=1;Identity=0.9877;Target=Pantherophis_obsoletus_C9A_1 274 353
+NW_027256882.1	miniprot	CDS	274533355	274533480	210	+	2	Parent=Pituophis_catenifer_C9B;Rank=1;Identity=1.0000;Target=Pantherophis_obsoletus_C9A_1 354 395
+NW_027256882.1	miniprot	CDS	274536595	274536776	281	+	2	Parent=Pituophis_catenifer_C9B;Rank=1;Identity=0.9333;Target=Pantherophis_obsoletus_C9A_1 396 456
+NW_027256882.1	miniprot	CDS	274537561	274537789	391	+	0	Parent=Pituophis_catenifer_C9B;Rank=1;Identity=0.9091;Target=Pantherophis_obsoletus_C9A_1 457 532
+NW_027256882.1	miniprot	CDS	274539435	274539589	284	+	2	Parent=Pituophis_catenifer_C9B;Rank=1;Identity=0.9400;Target=Pantherophis_obsoletus_C9A_1 533 583
+NW_027256882.1	miniprot	stop_codon	274539587	274539589	0	+	0	Parent=Pituophis_catenifer_C9B;Rank=1
+NW_027256882.1	miniprot	mRNA	274551213	274571828	2376	+	.	ID=Pituophis_catenifer_C9C;Rank=1;Identity=0.7427;Positive=0.8405;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Pituophis_catenifer_C9C
+NW_027256882.1	miniprot	CDS	274551213	274551289	111	+	0	Parent=Pituophis_catenifer_C9C;Rank=1;Identity=0.9231;Target=Pantherophis_obsoletus_C9A_1 1 25
+NW_027256882.1	miniprot	CDS	274553003	274553096	151	+	1	Parent=Pituophis_catenifer_C9C;Rank=1;Identity=0.7742;Target=Pantherophis_obsoletus_C9A_1 26 57
+NW_027256882.1	miniprot	CDS	274554201	274554348	269	+	0	Parent=Pituophis_catenifer_C9C;Rank=1;Identity=0.9600;Target=Pantherophis_obsoletus_C9A_1 58 106
+NW_027256882.1	miniprot	CDS	274556160	274556307	243	+	2	Parent=Pituophis_catenifer_C9C;Rank=1;Identity=0.8571;Target=Pantherophis_obsoletus_C9A_1 107 155
+NW_027256882.1	miniprot	CDS	274560334	274560472	219	+	1	Parent=Pituophis_catenifer_C9C;Rank=1;Identity=0.8696;Target=Pantherophis_obsoletus_C9A_1 156 202
+NW_027256882.1	miniprot	CDS	274562671	274562883	184	+	0	Parent=Pituophis_catenifer_C9C;Rank=1;Identity=0.5211;Target=Pantherophis_obsoletus_C9A_1 203 273
+NW_027256882.1	miniprot	CDS	274565059	274565299	363	+	0	Parent=Pituophis_catenifer_C9C;Rank=1;Identity=0.8519;Target=Pantherophis_obsoletus_C9A_1 274 353
+NW_027256882.1	miniprot	CDS	274567533	274567658	83	+	2	Parent=Pituophis_catenifer_C9C;Rank=1;Identity=0.4048;Target=Pantherophis_obsoletus_C9A_1 354 395
+NW_027256882.1	miniprot	CDS	274568955	274569136	215	+	2	Parent=Pituophis_catenifer_C9C;Rank=1;Identity=0.7000;Target=Pantherophis_obsoletus_C9A_1 396 456
+NW_027256882.1	miniprot	CDS	274570571	274570799	339	+	0	Parent=Pituophis_catenifer_C9C;Rank=1;Identity=0.7662;Target=Pantherophis_obsoletus_C9A_1 457 532
+NW_027256882.1	miniprot	CDS	274571674	274571828	199	+	2	Parent=Pituophis_catenifer_C9C;Rank=1;Identity=0.6200;Target=Pantherophis_obsoletus_C9A_1 533 583
+NW_027256882.1	miniprot	stop_codon	274571826	274571828	0	+	0	Parent=Pituophis_catenifer_C9C;Rank=1

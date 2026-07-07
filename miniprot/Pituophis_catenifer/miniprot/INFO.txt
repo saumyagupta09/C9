@@ -1,0 +1,6 @@
+Whole-chromosome miniprot run.
+Query (input): ../../QUERY_ashu_C9_prot.faa (curated C9 proteins)
+Target (input): genome assembly = /media/ashutosh/disk3/Open_seminar/C9_related/Squamata/Squamata_genomes/genome_dir/Pituophis_catenifer/GCF_029215685.1_rPitCat1.0.hap2_genomic.fna
+Output: Pituophis_catenifer.gff (gene model, genome coords)
+Command: miniprot -t4 --gff <genome.fa> ashu_C9_prot.fa > Pituophis_catenifer.gff
+IGV: load the genome assembly above + Pituophis_catenifer.gff

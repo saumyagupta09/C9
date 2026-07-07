@@ -1,0 +1,1 @@
+corrected exon6=420bp (anguimorph insertion); folder was truncated to 219bp. Elgaria-guided miniprot, clean 646aa ORF.

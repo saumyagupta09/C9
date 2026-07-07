@@ -1,0 +1,90 @@
+species,clade,role,synteny_name,scaffold,start,end,strand,n_exons,orf_status,pct_identity,qcov,curated_affinity,syntenic,locus_id,note
+Acritoscincus_duperreyi,2,Present study,C9A,CM084875.2,16685138,16698176,minus,11,intact_ORF,0.699,0.99,C9A,Y,Acritoscincus_duperreyi_copy1,ok
+Anniella_stebbinsi,4,Present study,C9A,CM119773.1,344580503,344616391,plus,10,intact_ORF,0.628,0.95,C9A,Y,Anniella_stebbinsi_copy1,ok
+Anolis_carolinensis,5,Sharma et al (2022),C9A,NC_085842.1,302130991,302152821,plus,11,intact_ORF_Cterm_truncated(exon11=8bp;TSP1_lost),0.994,1.00,C9B,Y,Anolis_carolinensis_copy1,DAB2-proximal;exon11_8bp_kept;rebuilt_from_NCBI_XM204.4
+Anolis_carolinensis,5,Sharma et al (2022),C9B,NC_085842.1,302155080,302179912,plus,11,intact_ORF,0.997,1.00,C9A,Y,Anolis_carolinensis_copy2,FYB1-proximal;full_11exon;read+NCBI_confirmed(XM205.4)
+Anolis_sagrei,5,Present study,C9A,NC_090022.1,277844722,277875142,plus,10,intact_ORF,0.877,1.00,C9B,Y,Anolis_sagrei_copy1,ok
+Anolis_sagrei,5,Present study,C9B,NC_090022.1,277880934,277911062,plus,11,intact_ORF,0.914,1.00,C9A,Y,Anolis_sagrei_copy2,ok
+Arizona_elegans,7,Present study,C9A,JAKOOJ010000008.1,76590935,76618311,plus,11,intact_ORF,0.890,1.00,C9A,Y,Arizona_elegans_copy1,ok
+Arizona_elegans,7,Present study,C9B,JAKOOJ010000008.1,76625505,76644890,plus,11,intact_ORF,0.938,1.00,C9A,Y,Arizona_elegans_copy2,ok
+Arizona_elegans,7,Present study,C9C,JAKOOJ010000008.1,76665636,76686398,plus,11,intact_ORF,0.935,1.00,C9B,Y,Arizona_elegans_copy3,ok
+Aspidoscelis_tigris,3,Present study,C9A,CM131961.1,63654864,63668018,plus,11,intact_ORF,0.639,0.99,C9A,Y,Aspidoscelis_tigris_copy1,ok
+Bothrops_jararaca,8,Sharma et al (2022),C9A,JAGTXL010020792.1,50468,69835,plus,11,intact_ORF,1.000,1.00,C9A,?,Bothrops_jararaca_copy2,missing_flank
+Bothrops_jararaca,8,Sharma et al (2022),C9B,JAGTXL010020792.1,80376,98047,plus,11,intact_ORF,0.998,1.00,C9B,?,Bothrops_jararaca_copy3,missing_flank
+Bothrops_jararaca,8,Sharma et al (2022),C9_alt1,JAGTXL010003666.1,3318,4259,plus,4,no_model/fragment,-,-,C9B,non-syntenic,Bothrops_jararaca_copy1,non-syntenic_scaffold;missing_flank
+Bradypodion_pumilum,5,Present study,C9A,JAWDJD010000002.1,29297865,29341189,minus,10,disrupted(1_internal_stops),0.729,1.00,C9A,Y,Bradypodion_pumilum_copy1,ok
+Bungarus_multicinctus,9,Present study,C9A,CM042834.1,256284623,256317658,plus,11,intact_ORF,0.947,1.00,C9B,Y,Bungarus_multicinctus_copy1,ok
+Bungarus_multicinctus,9,Present study,C9B,CM042834.1,256345147,256367512,plus,11,intact_ORF,0.947,1.00,C9A,Y,Bungarus_multicinctus_copy2,ok
+Candoia_aspera,6,Present study,C9A,NC_086154.1,246407995,246423846,plus,11,intact_ORF,0.815,1.00,C9A,Y,Candoia_aspera_copy1,ok
+Carinascincus_ocellatus,2,Present study,C9A,OZ258364.1,243638674,243652063,plus,11,intact_ORF,0.708,0.99,C9A,Y,Carinascincus_ocellatus_copy1,ok
+Chrysopelea_ornata,7,Sharma et al (2022),C9A,JAHWGE010677461.1,133,1177,plus,3,no_model/fragment,-,-,C9A,?,Chrysopelea_ornata_copy1,missing_flank
+Chrysopelea_ornata,7,Sharma et al (2022),C9_alt1,JAHWGE011068518.1,58,966,plus,2,partial(no_start),0.867,0.21,C9B,non-syntenic,Chrysopelea_ornata_copy2,non-syntenic_scaffold;missing_flank
+Correlophus_ciliatus,1,Present study,C9A,JBBPXQ010000006.1,20691358,20708343,minus,11,intact_ORF,0.643,0.99,C9A,Y,Correlophus_ciliatus_copy1,ok
+Crotalus_adamanteus,8,Present study,C9A,CM077919.1,265223133,265242511,plus,11,intact_ORF,0.998,1.00,C9B,Y,Crotalus_adamanteus_copy1,ok
+Crotalus_adamanteus,8,Present study,C9B,CM077919.1,265254098,265272494,plus,11,intact_ORF,0.998,1.00,C9A,Y,Crotalus_adamanteus_copy2,ok
+Crotalus_tigris,8,Sharma et al (2022),C9A,NW_024096824.1,2067742,2083748,minus,11,intact_ORF,1.000,1.00,C9B,Y,Crotalus_tigris_copy2,DAB2-proximal;divergent(~85%);genome+NCBI_C9-like(XM039347948)_confirmed;NOT_in_Ashu;chimera_replaced
+Crotalus_tigris,8,Sharma et al (2022),C9B,NW_024096824.1,2037725,2056124,minus,11,intact_ORF,1.000,1.00,C9A,Y,Crotalus_tigris_copy1,ok
+Cryptoblepharus_egeriae,2,Present study,C9A,CM123735.1,217092269,217103558,plus,11,intact_ORF,0.705,1.00,C9A,Y,Cryptoblepharus_egeriae_copy1,ok
+Cyclura_pinguis,5,Present study,C9A,CM059600.1,329401820,329429568,plus,11,intact_ORF,0.747,1.00,C9A,Y,Cyclura_pinguis_copy1,ok
+Dopasia_gracilis,4,Present study,C9A,CM125122.1,23116605,23142940,minus,12,disrupted(39_internal_stops),0.652,0.99,C9A,Y,Dopasia_gracilis_copy1,ok
+Elgaria_multicarinata,4,Present study,C9A,NC_086176.1,98433139,98465014,plus,10,intact_ORF,0.611,0.99,C9A,Y,Elgaria_multicarinata_copy1,ok
+Eublepharis_macularius,1,Present study,C9A,NC_072797.1,24714413,24740427,minus,11,intact_ORF,0.664,0.99,C9A,Y,Eublepharis_macularius_copy1,ok
+Furcifer_pardalis,5,Present study,C9A,CP126896.1,92323512,92351386,plus,11,intact_ORF,0.718,1.00,C9A,Y,Furcifer_pardalis_copy1,ok
+Gambelia_wislizenii,5,Present study,C9A,JAUMIR010000002.1,416257838,416296519,plus,11,intact_ORF,0.807,1.00,C9A,Y,Gambelia_wislizenii_copy1,ok
+Gekko_japonicus,1,Sharma et al (2022),C9A,NW_015172005.1,1831628,1861014,minus,11,intact_ORF,1.000,1.00,C9A,Y,Gekko_japonicus_copy1,ok
+Gekko_kuhli,1,Present study,C9A,CM122939.1,135806411,135829753,plus,11,intact_ORF,0.910,0.97,C9A,Y,Gekko_kuhli_copy1,ok
+Hemicordylus_capensis,2,Present study,C9A,NC_069658.1,27975211,28002116,minus,11,intact_ORF,0.681,1.00,C9A,Y,Hemicordylus_capensis_copy1,ok
+Hemorrhois_hippocrepis,7,Present study,C9A,OZ203517.1,24592707,24615915,minus,11,intact_ORF,0.897,1.00,C9A,Y,Hemorrhois_hippocrepis_copy3,ok
+Hemorrhois_hippocrepis,7,Present study,C9B,OZ203517.1,24556218,24584501,minus,11,intact_ORF,0.885,1.00,C9A,Y,Hemorrhois_hippocrepis_copy2,ok
+Hemorrhois_hippocrepis,7,Present study,C9C,OZ203517.1,24519084,24545853,minus,11,intact_ORF,0.885,1.00,C9B,Y,Hemorrhois_hippocrepis_copy1,ok
+Hydrophis_cyanocinctus,9,Sharma et al (2022),C9A,CM033585.1,308037285,308076346,plus,11,intact_ORF,0.997,1.00,C9B,Y,Hydrophis_cyanocinctus_copy1,ok
+Hydrophis_cyanocinctus,9,Sharma et al (2022),C9B,CM033585.1,308098503,308122422,plus,11,intact_ORF,1.000,1.00,C9A,Y,Hydrophis_cyanocinctus_copy2,ok
+Hydrophis_major,9,Present study,C9A,CM066329.1,355629025,355666379,plus,11,intact_ORF,0.991,1.00,C9B,Y,Hydrophis_major_copy1,ok
+Hydrophis_major,9,Present study,C9B,CM066329.1,355688477,355712284,plus,11,intact_ORF,0.997,1.00,C9A,Y,Hydrophis_major_copy2,ok
+Lacerta_agilis,3,Shared,C9A,NC_046322.1,17725444,17739501,minus,11,intact_ORF,1.000,1.00,C9A,Y,Lacerta_agilis_copy1,ok
+Laticauda_colubrina,9,Sharma et al (2022),C9A,BLBF01000010.1,17548633,17585812,minus,11,intact_ORF,0.964,1.00,C9B,Y,Laticauda_colubrina_copy2,ok
+Laticauda_colubrina,9,Sharma et al (2022),C9B,BLBF01000010.1,17342126,17520438,minus,11,intact_ORF,1.000,1.00,C9A,non-syntenic,Laticauda_colubrina_copy1,ok
+Laudakia_wui,5,Present study,C9A,CM080059.1,22212512,22236597,minus,10,disrupted(1_internal_stops),0.821,1.00,C9A,Y,Laudakia_wui_copy1,ok
+Liasis_olivaceus,6,Present study,C9A,CM061348.1,242161515,242180997,plus,11,intact_ORF,0.919,1.00,C9A,Y,Liasis_olivaceus_copy1,ok
+Malpolon_monspessulanus,7,Present study,C9A,OZ184073.1,285577603,285608491,plus,11,intact_ORF,0.895,1.00,C9A,Y,Malpolon_monspessulanus_copy1,ok
+Malpolon_monspessulanus,7,Present study,C9B,OZ184073.1,285639180,285654504,plus,11,intact_ORF,0.895,1.00,C9A,Y,Malpolon_monspessulanus_copy2,ok
+Masticophis_lateralis,7,Present study,C9A,JAUDYJ010000002.1,262440194,262464251,plus,11,intact_ORF,0.918,1.00,C9A,Y,Masticophis_lateralis_copy1,ok
+Masticophis_lateralis,7,Present study,C9B,JAUDYJ010000002.1,262475923,262503582,plus,11,intact_ORF,0.918,1.00,C9B,Y,Masticophis_lateralis_copy2,ok
+Mediodactylus_kotschyi,1,Present study,C9A,OZ281146.1,22323479,22349511,minus,10,intact_ORF,0.817,0.95,C9A,Y,Mediodactylus_kotschyi_copy1,ok
+Naja_naja,9,Sharma et al (2022),C9A,CM019149.1,286384917,286408952,plus,11,intact_ORF,0.839,1.00,C9B,Y,Naja_naja_copy1,ok
+Naja_naja,9,Sharma et al (2022),C9B,CM019149.1,286437941,286456160,plus,11,disrupted(25_internal_stops),0.979,1.00,C9A,Y,Naja_naja_copy2,full_length_pseudogene(25_internal_stops)
+Naja_naja,9,Sharma et al (2022),C9_alt1,SOZL01000598.1,2521,10491,plus,6,no_model/fragment,-,-,C9A,non-syntenic,Naja_naja_copy3,non-syntenic_scaffold;missing_flank
+Notechis_scutatus,9,Sharma et al (2022),C9A,NW_020716626.1,11106493,11139037,minus,11,intact_ORF,0.997,1.00,C9B,Y,Notechis_scutatus_copy2,ok
+Notechis_scutatus,9,Sharma et al (2022),C9B,NW_020716626.1,11074675,11083118,minus,5,truncated_remnant(exons7-11),0.888,1.00,C9A,Y,Notechis_scutatus_copy1,5prime_truncated;chimeric_11exon_extraction_replaced_by_remnant
+Notechis_scutatus,9,Sharma et al (2022),C9_alt1,NW_020719678.1,1034,6907,minus,6,no_model/fragment,-,-,C9A,non-syntenic,Notechis_scutatus_copy3,non-syntenic_scaffold;missing_flank
+Pantherophis_obsoletus,7,Sharma et al (2022),C9A,WJSR01000024.1,11657227,11682345,minus,11,intact_ORF,0.923,1.00,C9A,Y,Pantherophis_obsoletus_copy3,ok
+Pantherophis_obsoletus,7,Sharma et al (2022),C9B,WJSR01000024.1,11632730,11648332,minus,11,intact_ORF,0.931,1.00,C9A,Y,Pantherophis_obsoletus_copy2,ok
+Pantherophis_obsoletus,7,Sharma et al (2022),C9C,WJSR01000024.1,11591003,11612104,minus,11,intact_ORF,0.931,1.00,C9B,Y,Pantherophis_obsoletus_copy1,ok
+Pantherophis_obsoletus,7,Sharma et al (2022),C9_alt1,WJSR01015476.1,112,4001,minus,3,no_model/fragment,-,-,C9A,non-syntenic,Pantherophis_obsoletus_copy4,non-syntenic_scaffold;missing_flank
+Pantherophis_obsoletus,7,Sharma et al (2022),C9_alt2,WJSR01023848.1,1,1466,minus,3,no_model/fragment,-,-,C9A,non-syntenic,Pantherophis_obsoletus_copy5,non-syntenic_scaffold;missing_flank
+Phrynosoma_blainvillii,5,Present study,C9A,JANUYF010000002.1,34086907,34120443,minus,11,intact_ORF,0.900,1.00,C9A,Y,Phrynosoma_blainvillii_copy1,ok
+Pituophis_catenifer,7,Shared,C9A,NW_027256882.1,274487309,274514008,plus,11,intact_ORF,0.900,1.00,C9A,Y,Pituophis_catenifer_copy1,ok
+Pituophis_catenifer,7,Shared,C9B,NW_027256882.1,274521456,274539589,plus,11,intact_ORF,0.947,1.00,C9A,Y,Pituophis_catenifer_copy2,ok
+Pituophis_catenifer,7,Shared,C9C,NW_027256882.1,274551213,274571835,plus,11,intact_ORF,0.930,1.00,C9B,Y,Pituophis_catenifer_copy3,ok
+Plestiodon_gilberti,2,Present study,C9A,JANXHW010000002.1,19205573,19229130,minus,11,intact_ORF,0.713,1.00,C9A,Y,Plestiodon_gilberti_copy1,ok
+Podarcis_muralis,3,Sharma et al (2022),C9A,NC_041322.1,19611864,19626782,minus,11,disrupted(22_internal_stops),0.999,1.00,C9A,Y,Podarcis_muralis_copy1,ok
+Podarcis_raffonei,3,Present study,C9A,NC_070612.1,18594296,18607323,minus,11,intact_ORF,0.966,1.00,C9A,Y,Podarcis_raffonei_copy1,ok
+Pogona_vitticeps,5,Shared,C9A,NC_132823.1,298121791,298144607,plus,10,intact_ORF,0.997,1.00,C9A,Y,Pogona_vitticeps_copy1,ok
+Protobothrops_mucrosquamatus,8,Sharma et al (2022),C9A,NW_015386198.1,321403,341424,plus,11,intact_ORF,1.000,1.00,C9A,Y,Protobothrops_mucrosquamatus_copy1,ok
+Protobothrops_mucrosquamatus,8,Sharma et al (2022),C9B,NW_015386198.1,349736,355493,plus,11,intact_ORF,0.849,1.00,C9A,Y,Protobothrops_mucrosquamatus_copy2,ok
+Pseudonaja_textilis,9,Sharma et al (2022),C9A,NW_020769310.1,11162575,11189196,minus,11,intact_ORF,0.998,1.00,C9B,Y,Pseudonaja_textilis_copy2,ok
+Pseudonaja_textilis,9,Sharma et al (2022),C9B,NW_020769310.1,11130815,11150378,minus,11,intact_ORF,1.000,1.00,C9A,Y,Pseudonaja_textilis_copy1,ok
+Ptyas_mucosa,7,Sharma et al (2022),C9A,WNWU01000002.1,55857087,55881477,plus,11,intact_ORF,0.985,1.00,C9A,Y,Ptyas_mucosa_copy1,ok
+Ptyas_mucosa,7,Sharma et al (2022),C9B,WNWU01000002.1,55893459,55914863,plus,11,intact_ORF,0.985,1.00,C9B,Y,Ptyas_mucosa_copy2,ok
+Python_bivittatus,6,Sharma et al (2022),C9A,NW_006536677.1,83373,100461,minus,10,partial(no_start),1.000,0.96,C9A,?,Python_bivittatus_copy1,missing_flank
+Rhineura_floridana,3,Present study,C9A,NC_084480.1,28310165,28342316,minus,11,intact_ORF,0.763,0.99,C9A,Y,Rhineura_floridana_copy1,ok
+Sceloporus_undulatus,5,Sharma et al (2022),C9A,NC_056523.1,307798386,307833229,plus,11,intact_ORF,1.000,1.00,C9A,Y,Sceloporus_undulatus_copy1,ok
+Teratoscincus_roborowskii,1,Present study,C9A,CM121144.1,23743415,23770409,minus,10,intact_ORF,0.672,0.95,C9A,Y,Teratoscincus_roborowskii_copy1,ok
+Thamnophis_elegans,7,Sharma et al (2022),C9A,NC_045543.1,127792995,127814515,plus,11,intact_ORF,1.000,1.00,C9A,Y,Thamnophis_elegans_copy1,ok
+Thamnophis_elegans,7,Sharma et al (2022),C9B,NC_045543.1,127825389,127849526,plus,11,intact_ORF,0.791,1.00,C9B,Y,Thamnophis_elegans_copy2,ok
+Vipera_berus,8,Sharma et al (2022),C9A,OZ077558.1,20607734,20631914,minus,11,intact_ORF,0.993,1.00,C9A,Y,Vipera_berus_copy2,ok
+Vipera_berus,8,Sharma et al (2022),C9B,OZ077558.1,20573463,20596712,minus,11,intact_ORF,0.952,1.00,C9A,Y,Vipera_berus_copy1,ok
+Vipera_seoanei,8,Present study,C9A,JBPPCB010000002.1,250344945,250366782,plus,11,intact_ORF,0.969,1.00,C9A,Y,Vipera_seoanei_copy1,ok
+Vipera_seoanei,8,Present study,C9B,JBPPCB010000002.1,250377202,250398892,plus,11,intact_ORF,0.945,1.00,C9A,Y,Vipera_seoanei_copy2,ok
+Xantusia_vigilis,2,Present study,C9A,CM123437.1,30187472,30215504,minus,11,intact_ORF,0.721,1.00,C9A,Y,Xantusia_vigilis_copy1,ok
+Zootoca_vivipara,3,Sharma et al (2022),C9A,NC_083286.1,45990976,46006511,plus,11,intact_ORF,0.993,1.00,C9A,Y,Zootoca_vivipara_copy1,ok

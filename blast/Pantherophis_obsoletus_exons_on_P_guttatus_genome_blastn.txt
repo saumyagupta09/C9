@@ -1,0 +1,715 @@
+RID: 4A9H71HD014	
+Job Title:obsoletus on guttatus				
+Program: BLASTN 
+Database: Genome (CU_Pguttatus_1) Pantherophis guttatus CU_Pguttatus_1 [GCF_029531705.1] chromosomes plus unplaced and unlocalized scaffolds (reference assembly in GCF_029531705.1-RS_2023_10)
+Query #1: Pantherophis_obsoletus_C9A|exon_1 Query ID: lcl|Query_3187079 Length: 77
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Pantherophis guttatus isolate 1 unplaced genomic scaffold,...     Pantherophis... NA              94885      135    384   100%  2e-30 98.70  101283997  NW_026844028.1   
+
+
+Alignments:
+
+>Pantherophis guttatus isolate 1 unplaced genomic scaffold, CU_Pguttatus_1 Super_scaffold_355
+Sequence ID: NW_026844028.1 Length: 101283997
+Range 1: 84786172 to 84786248
+
+Score:135 bits(149), Expect:2e-30, 
+Identities:76/77(99%),  Gaps:0/77(0%), Strand: Plus/Plus
+
+Query  1         ATGTCTTCTTCTTTGCTTCTTATAGGAGTTCTCTGCATTTTAGGAGCAAATAGTTTTGCC  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  84786172  ATGTCTTCTTCTTTGCTTCTTATAGGAGTTCTCTGCATTTTAGGAGCAAATAGTTTTGCC  84786231
+
+Query  61        TCAGTAGGGAAAACAAG  77
+                  ||||||||||||||||
+Sbjct  84786232  ACAGTAGGGAAAACAAG  84786248
+
+
+
+
+Range 2: 84747911 to 84747987
+
+Score:126 bits(139), Expect:1e-27, 
+Identities:74/77(96%),  Gaps:0/77(0%), Strand: Plus/Plus
+
+Query  1         ATGTCTTCTTCTTTGCTTCTTATAGGAGTTCTCTGCATTTTAGGAGCAAATAGTTTTGCC  60
+                 |||||| |||||||| ||||||||||||||||||||||||||| ||||||||||||||||
+Sbjct  84747911  ATGTCTACTTCTTTGTTTCTTATAGGAGTTCTCTGCATTTTAGAAGCAAATAGTTTTGCC  84747970
+
+Query  61        TCAGTAGGGAAAACAAG  77
+                 |||||||||||||||||
+Sbjct  84747971  TCAGTAGGGAAAACAAG  84747987
+
+
+
+
+Range 3: 84805805 to 84805881
+
+Score:122 bits(134), Expect:1e-26, 
+Identities:73/77(95%),  Gaps:0/77(0%), Strand: Plus/Plus
+
+Query  1         ATGTCTTCTTCTTTGCTTCTTATAGGAGTTCTCTGCATTTTAGGAGCAAATAGTTTTGCC  60
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  84805805  ATGTCTTCTTCTTTGCTTCTTATAGGAGTTCTCTGCATTTTAGGAGCAAATGGTTTTGCC  84805864
+
+Query  61        TCAGTAGGGAAAACAAG  77
+                 || | ||||||| ||||
+Sbjct  84805865  TCTGCAGGGAAAGCAAG  84805881
+
+
+
+
+
+Query #2: Pantherophis_obsoletus_C9A|exon_2 Query ID: lcl|Query_3187080 Length: 94
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Pantherophis guttatus isolate 1 unplaced genomic scaffold,...     Pantherophis... NA              94885      157    384   100%  9e-37 96.81  101283997  NW_026844028.1   
+
+
+Alignments:
+
+>Pantherophis guttatus isolate 1 unplaced genomic scaffold, CU_Pguttatus_1 Super_scaffold_355
+Sequence ID: NW_026844028.1 Length: 101283997
+Range 1: 84750362 to 84750455
+
+Score:157 bits(173), Expect:9e-37, 
+Identities:91/94(97%),  Gaps:0/94(0%), Strand: Plus/Plus
+
+Query  1         GGTGACCCGAGAACCTAATGCTCCAGAACCCATTGACTGCTTGCTGACTGCCTGGAGTGA  60
+                 |||||||||| |||||||||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  84750362  GGTGACCCGACAACCTAATGCTCCAGAGCCCATTGACTGCTTGCTGACTGCCTGGAGTGA  84750421
+
+Query  61        TTGGGGGCCATGTATTCCATGCTCAGAAGAAAGA  94
+                 ||||||||||||| ||||||||||||||||||||
+Sbjct  84750422  TTGGGGGCCATGTGTTCCATGCTCAGAAGAAAGA  84750455
+
+
+
+
+Range 2: 84788131 to 84788209
+
+Score:125 bits(138), Expect:2e-27, 
+Identities:75/79(95%),  Gaps:0/79(0%), Strand: Plus/Plus
+
+Query  16        TAATGCTCCAGAACCCATTGACTGCTTGCTGACTGCCTGGAGTGATTGGGGGCCATGTAT  75
+                 |||||||||||| ||||||||||||||||||||| | |||||||||||||||||||||| 
+Sbjct  84788131  TAATGCTCCAGAGCCCATTGACTGCTTGCTGACTACTTGGAGTGATTGGGGGCCATGTAG  84788190
+
+Query  76        TCCATGCTCAGAAGAAAGA  94
+                 |||||||||||||||||||
+Sbjct  84788191  TCCATGCTCAGAAGAAAGA  84788209
+
+
+
+
+Range 3: 84807206 to 84807283
+
+Score:101 bits(111), Expect:6e-20, 
+Identities:69/78(88%),  Gaps:0/78(0%), Strand: Plus/Plus
+
+Query  8         CGAGAACCTAATGCTCCAGAACCCATTGACTGCTTGCTGACTGCCTGGAGTGATTGGGGG  67
+                 || ||||||||||||||||| ||||||||||||||||||||| |||||   |||||||||
+Sbjct  84807206  CGGGAACCTAATGCTCCAGAGCCCATTGACTGCTTGCTGACTACCTGGGACGATTGGGGG  84807265
+
+Query  68        CCATGTATTCCATGCTCA  85
+                 ||||| | ||| ||||||
+Sbjct  84807266  CCATGCAGTCCGTGCTCA  84807283
+
+
+
+
+
+Query #3: Pantherophis_obsoletus_C9A|exon_3 Query ID: lcl|Query_3187081 Length: 148
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Pantherophis guttatus isolate 1 unplaced genomic scaffold,...     Pantherophis... NA              94885      232    603   100%  3e-59 94.59  101283997  NW_026844028.1   
+
+
+Alignments:
+
+>Pantherophis guttatus isolate 1 unplaced genomic scaffold, CU_Pguttatus_1 Super_scaffold_355
+Sequence ID: NW_026844028.1 Length: 101283997
+Range 1: 84753196 to 84753343
+
+Score:232 bits(256), Expect:3e-59, 
+Identities:140/148(95%),  Gaps:0/148(0%), Strand: Plus/Plus
+
+Query  1         CACCGCTCAAGGAGTATTTTGAAGTTTGGACAGTTTGGAGGGAAGCCATGCATTGTGGCT  60
+                 |||||||||||||||||| |||||||||||||||||||||||||||||||||||| ||||
+Sbjct  84753196  CACCGCTCAAGGAGTATTCTGAAGTTTGGACAGTTTGGAGGGAAGCCATGCATTGAGGCT  84753255
+
+Query  61        CTGAGTGATAGAGAGTCCTGTGTGACGACAAGTCTGTGTCCAGATGAGAAAGGTCATTGT  120
+                 |||||||||||||||| ||||| ||| |||||||||||||||||||||||||||||||||
+Sbjct  84753256  CTGAGTGATAGAGAGTACTGTGAGACAACAAGTCTGTGTCCAGATGAGAAAGGTCATTGT  84753315
+
+Query  121       AAAGAACAAGAGTTTGTATGTGAAAATG  148
+                 ||  | ||||||||||||||||||||||
+Sbjct  84753316  AAGAATCAAGAGTTTGTATGTGAAAATG  84753343
+
+
+
+
+Range 2: 84790112 to 84790256
+
+Score:186 bits(205), Expect:4e-45, 
+Identities:128/145(88%),  Gaps:0/145(0%), Strand: Plus/Plus
+
+Query  4         CGCTCAAGGAGTATTTTGAAGTTTGGACAGTTTGGAGGGAAGCCATGCATTGTGGCTCTG  63
+                 ||||||||||||||| ||||||||||||||||||||||||| |||||||||||| |||||
+Sbjct  84790112  CGCTCAAGGAGTATTCTGAAGTTTGGACAGTTTGGAGGGAAACCATGCATTGTGACTCTG  84790171
+
+Query  64        AGTGATAGAGAGTCCTGTGTGACGACAAGTCTGTGTCCAGATGAGAAAGGTCATTGTAAA  123
+                 |||||||||||| |||||| ||| | || || ||| |||||||||| ||||||||||   
+Sbjct  84790172  AGTGATAGAGAGCCCTGTGAGACAAGAACTCCGTGCCCAGATGAGAGAGGTCATTGTGGG  84790231
+
+Query  124       GAACAAGAGTTTGTATGTGAAAATG  148
+                  | |||||||||| |||||||||||
+Sbjct  84790232  AAGCAAGAGTTTGAATGTGAAAATG  84790256
+
+
+
+
+Range 3: 84808401 to 84808547
+
+Score:185 bits(204), Expect:4e-45, 
+Identities:129/147(88%),  Gaps:0/147(0%), Strand: Plus/Plus
+
+Query  2         ACCGCTCAAGGAGTATTTTGAAGTTTGGACAGTTTGGAGGGAAGCCATGCATTGTGGCTC  61
+                 ||||||||||||||||| |||||||||||||||||||||||||||||||||||| ||| |
+Sbjct  84808401  ACCGCTCAAGGAGTATTCTGAAGTTTGGACAGTTTGGAGGGAAGCCATGCATTGAGGCCC  84808460
+
+Query  62        TGAGTGATAGAGAGTCCTGTGTGACGACAAGTCTGTGTCCAGATGAGAAAGGTCATTGTA  121
+                 |||| |||||||||||||||| ||| | || || ||| ||||||| || |||||||||| 
+Sbjct  84808461  TGAGCGATAGAGAGTCCTGTGAGACAAGAACTCCGTGCCCAGATGGGAGAGGTCATTGTG  84808520
+
+Query  122       AAGAACAAGAGTTTGTATGTGAAAATG  148
+                    | |||||||||| |||||||||||
+Sbjct  84808521  GGAAGCAAGAGTTTGAATGTGAAAATG  84808547
+
+
+
+
+
+Query #4: Pantherophis_obsoletus_C9A|exon_4 Query ID: lcl|Query_3187082 Length: 148
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Pantherophis guttatus isolate 1 unplaced genomic scaffold,...     Pantherophis... NA              94885      241    660   100%  5e-62 95.95  101283997  NW_026844028.1   
+
+
+Alignments:
+
+>Pantherophis guttatus isolate 1 unplaced genomic scaffold, CU_Pguttatus_1 Super_scaffold_355
+Sequence ID: NW_026844028.1 Length: 101283997
+Range 1: 84791802 to 84791949
+
+Score:241 bits(266), Expect:5e-62, 
+Identities:142/148(96%),  Gaps:0/148(0%), Strand: Plus/Plus
+
+Query  1         GATATTGTCTAAAGAATAGGCTGGTATGTAACACGGAAAATGACTGTGGTGACTTTTCTG  60
+                 |||||||||||||||||||||||||||||||||| |||||||||||||||||||||||||
+Sbjct  84791802  GATATTGTCTAAAGAATAGGCTGGTATGTAACACAGAAAATGACTGTGGTGACTTTTCTG  84791861
+
+Query  61        ACGAAGATCTGTGTGATGAAACCAAACGCCCACCCTGTGGGGATCGTGATATTGATATAT  120
+                 ||||||||| ||||||||||||||||||||||||||||||| |||||||  ||||| |||
+Sbjct  84791862  ACGAAGATCAGTGTGATGAAACCAAACGCCCACCCTGTGGGAATCGTGAGGTTGATGTAT  84791921
+
+Query  121       CAGAACTTGGAAGAACAGCTGGACAAGG  148
+                 ||||||||||||||||||||||||||||
+Sbjct  84791922  CAGAACTTGGAAGAACAGCTGGACAAGG  84791949
+
+
+
+
+Range 2: 84754626 to 84754773
+
+Score:223 bits(246), Expect:1e-56, 
+Identities:138/148(93%),  Gaps:0/148(0%), Strand: Plus/Plus
+
+Query  1         GATATTGTCTAAAGAATAGGCTGGTATGTAACACGGAAAATGACTGTGGTGACTTTTCTG  60
+                 |||||||||||||||||||||||||||||||||| ||| |||||||||||||||| ||||
+Sbjct  84754626  GATATTGTCTAAAGAATAGGCTGGTATGTAACACAGAAGATGACTGTGGTGACTTCTCTG  84754685
+
+Query  61        ACGAAGATCTGTGTGATGAAACCAAACGCCCACCCTGTGGGGATCGTGATATTGATATAT  120
+                 |||||||||  |||||||||||||| ||||||||||||||| |||||||  |||||||||
+Sbjct  84754686  ACGAAGATCATTGTGATGAAACCAAGCGCCCACCCTGTGGGTATCGTGAAGTTGATATAT  84754745
+
+Query  121       CAGAACTTGGAAGAACAGCTGGACAAGG  148
+                 |||||||||||| |||||||||||||||
+Sbjct  84754746  CAGAACTTGGAAAAACAGCTGGACAAGG  84754773
+
+
+
+
+Range 3: 84810359 to 84810506
+
+Score:196 bits(216), Expect:2e-48, 
+Identities:132/148(89%),  Gaps:0/148(0%), Strand: Plus/Plus
+
+Query  1         GATATTGTCTAAAGAATAGGCTGGTATGTAACACGGAAAATGACTGTGGTGACTTTTCTG  60
+                 ||||||||||||||  |||| |||| |||||||| ||| |||||||||||||||| ||||
+Sbjct  84810359  GATATTGTCTAAAGGGTAGGTTGGTGTGTAACACAGAAGATGACTGTGGTGACTTCTCTG  84810418
+
+Query  61        ACGAAGATCTGTGTGATGAAACCAAACGCCCACCCTGTGGGGATCGTGATATTGATATAT  120
+                 ||||||||   |||||||||||||||||||||||||||||||||||||  || ||  |||
+Sbjct  84810419  ACGAAGATAATTGTGATGAAACCAAACGCCCACCCTGTGGGGATCGTGTCATAGACGTAT  84810478
+
+Query  121       CAGAACTTGGAAGAACAGCTGGACAAGG  148
+                 |||| |||||||||||||||||||||||
+Sbjct  84810479  CAGAGCTTGGAAGAACAGCTGGACAAGG  84810506
+
+
+
+
+
+Query #5: Pantherophis_obsoletus_C9A|exon_5 Query ID: lcl|Query_3187083 Length: 139
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Pantherophis guttatus isolate 1 unplaced genomic scaffold,...     Pantherophis... NA              94885      215    413   100%  2e-54 94.24  101283997  NW_026844028.1   
+
+
+Alignments:
+
+>Pantherophis guttatus isolate 1 unplaced genomic scaffold, CU_Pguttatus_1 Super_scaffold_355
+Sequence ID: NW_026844028.1 Length: 101283997
+Range 1: 84758849 to 84758987
+
+Score:215 bits(238), Expect:2e-54, 
+Identities:131/139(94%),  Gaps:0/139(0%), Strand: Plus/Plus
+
+Query  1         TGTGAATGTGCTGGGAATGACACCGGCTCAAACTGCATTTCAAAATGAGTTCTACAATGG  60
+                 |||||||||||||||||||  ||||||||||||||||||||||||| |||||||||||||
+Sbjct  84758849  TGTGAATGTGCTGGGAATGTTACCGGCTCAAACTGCATTTCAAAATAAGTTCTACAATGG  84758908
+
+Query  61        TATCTGTGACAGAGTCCGTGATGGGAACACGGCGACTTATTACCGCAAGCCATGGAATAC  120
+                  ||||||||||||||||||||||||||||| || | ||||||||||||||||||||||||
+Sbjct  84758909  CATCTGTGACAGAGTCCGTGATGGGAACACAGCCATTTATTACCGCAAGCCATGGAATAC  84758968
+
+Query  121       GGCTGTCCTCAGTTATGAC  139
+                 ||||||||||| |||||||
+Sbjct  84758969  GGCTGTCCTCAATTATGAC  84758987
+
+
+
+
+Range 2: 84814217 to 84814350
+
+Score:197 bits(218), Expect:5e-49, 
+Identities:124/134(93%),  Gaps:0/134(0%), Strand: Plus/Plus
+
+Query  5         AATGTGCTGGGAATGACACCGGCTCAAACTGCATTTCAAAATGAGTTCTACAATGGTATC  64
+                 |||||||||||||||| ||| |||||||   ||||| | ||||||||||||||||| |||
+Sbjct  84814217  AATGTGCTGGGAATGAAACCAGCTCAAAAACCATTTTACAATGAGTTCTACAATGGCATC  84814276
+
+Query  65        TGTGACAGAGTCCGTGATGGGAACACGGCGACTTATTACCGCAAGCCATGGAATACGGCT  124
+                 |||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  84814277  TGTGACAGAGTCCGGGATGGGAACACGGCGACTTATTACCGCAAGCCATGGAATACGGCT  84814336
+
+Query  125       GTCCTCAGTTATGA  138
+                  |||||||||||||
+Sbjct  84814337  TTCCTCAGTTATGA  84814350
+
+
+
+
+
+Query #6: Pantherophis_obsoletus_C9A|exon_6 Query ID: lcl|Query_3187084 Length: 213
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Pantherophis guttatus isolate 1 unplaced genomic scaffold,...     Pantherophis... NA              94885      304    460   100%  8e-81 91.55  101283997  NW_026844028.1   
+
+
+Alignments:
+
+>Pantherophis guttatus isolate 1 unplaced genomic scaffold, CU_Pguttatus_1 Super_scaffold_355
+Sequence ID: NW_026844028.1 Length: 101283997
+Range 1: 84760522 to 84760734
+
+Score:304 bits(336), Expect:8e-81, 
+Identities:195/213(92%),  Gaps:0/213(0%), Strand: Plus/Plus
+
+Query  1         ACAAGAGGAGACAAACGCTTTACACATGAATTCTACAGTGACCAAGCATCAACAATTAAA  60
+                 ||||||||||||||||  ||||||  |||||||||||||||||||| |||||||||||||
+Sbjct  84760522  ACAAGAGGAGACAAACATTTTACAAGTGAATTCTACAGTGACCAAGTATCAACAATTAAA  84760581
+
+Query  61        GAAATATTCAAAACAAAAACACAGTCTTTTGATGCAAACTTGTCTGTTAAACTGAAACCA  120
+                 |||||||||||||||||| ||||| |||||||||  ||||||||||||||||||||||| 
+Sbjct  84760582  GAAATATTCAAAACAAAATCACAGACTTTTGATGTGAACTTGTCTGTTAAACTGAAACCG  84760641
+
+Query  121       ACTGAGAACGATATATCAGCTACTGTTGGGGGAGGCTTCAATGCTGGCAGATCATCCAAC  180
+                 ||||||  | || |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  84760642  ACTGAGTCCAATGTATCAGCTACTGTTGGGGGAGGCTTCAATGCTGGCAGATCATCCAAC  84760701
+
+Query  181       ATGAGTGAATTCTTGAAAAACACCAAAGGAACG  213
+                 |||| | |||||||||||| |||||||| ||||
+Sbjct  84760702  ATGAATAAATTCTTGAAAAGCACCAAAGAAACG  84760734
+
+
+
+
+Range 2: 84816935 to 84817145
+
+Score:156 bits(172), Expect:3e-36, 
+Identities:161/211(76%),  Gaps:0/211(0%), Strand: Plus/Plus
+
+Query  1         ACAAGAGGAGACAAACGCTTTACACATGAATTCTACAGTGACCAAGCATCAACAATTAAA  60
+                 |||||||| ||||||    |||||  |||||||||||| ||||||||||||||||| |||
+Sbjct  84816935  ACAAGAGGTGACAAAAAAATTACAAGTGAATTCTACAGCGACCAAGCATCAACAATGAAA  84816994
+
+Query  61        GAAATATTCAAAACAAAAACACAGTCTTTTGATGCAAACTTGTCTGTTAAACTGAAACCA  120
+                  ||||||||||||||||| |||| ||| | ||||| | ||| ||| || ||||| || ||
+Sbjct  84816995  CAAATATTCAAAACAAAATCACACTCTCTAGATGCGAGCTTCTCTCTTCAACTGCAATCA  84817054
+
+Query  121       ACTGAGAACGATATATCAGCTACTGTTGGGGGAGGCTTCAATGCTGGCAGATCATCCAAC  180
+                 |||  |  |  | |||||| |    ||| |  | || | |||  |  || ||||||||||
+Sbjct  84817055  ACTTCGTTCCCTCTATCAGGTGGCTTTGAGACAAGCGTAAATTTTTCCAAATCATCCAAC  84817114
+
+Query  181       ATGAGTGAATTCTTGAAAAACACCAAAGGAA  211
+                  ||||||| |||||  | || ||||||||||
+Sbjct  84817115  CTGAGTGACTTCTTAGAGAAAACCAAAGGAA  84817145
+
+
+
+
+
+Query #7: Pantherophis_obsoletus_C9A|exon_7 Query ID: lcl|Query_3187085 Length: 241
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Pantherophis guttatus isolate 1 unplaced genomic scaffold,...     Pantherophis... NA              94885      404    739   100%  1e-110 97.10  101283997  NW_026844028.1   
+
+
+Alignments:
+
+>Pantherophis guttatus isolate 1 unplaced genomic scaffold, CU_Pguttatus_1 Super_scaffold_355
+Sequence ID: NW_026844028.1 Length: 101283997
+Range 1: 84764659 to 84764899
+
+Score:404 bits(447), Expect:1e-110, 
+Identities:234/241(97%),  Gaps:0/241(0%), Strand: Plus/Plus
+
+Query  1         AATTCCGTCTATTTACATGTCAAATCTAATATACAACTGGGAACTTTCCAAATGCGAAAT  60
+                 |||||| ||| |||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  84764659  AATTCCATCTTTTTACATGTCAAATCTAATATACAACTGGGAACTTTCCAAATGCGAAAT  84764718
+
+Query  61        CGTGATTTGCGCTTGAGTGAGACATTCCTGGAAGAACTAACGTTTTTGCCAAGTACCTAT  120
+                 ||||||||||||||||||||||||||||||||||| |||| |||||||||||||||||||
+Sbjct  84764719  CGTGATTTGCGCTTGAGTGAGACATTCCTGGAAGACCTAAAGTTTTTGCCAAGTACCTAT  84764778
+
+Query  121       GAGAAGGGAGAGTATTTTAAATTTCTTGAAACATATGGAACTCATTATTCCCGGAGAGGA  180
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  84764779  GAGAAGGGAGAGTATTTTAAATTTCTTGAAACATATGGAACTCATTATTCCCGGAGAGGA  84764838
+
+Query  181       ACCGTTGGAGGAAAATATGAGCTAATATATGTGTTGGATAACCAAACTCTTTCATCACAG  240
+                 | ||||||||||||||||||||||||||||||||||||||| |||| |||||||||||||
+Sbjct  84764839  AACGTTGGAGGAAAATATGAGCTAATATATGTGTTGGATAAACAAATTCTTTCATCACAG  84764898
+
+Query  241       G  241
+                 |
+Sbjct  84764899  G  84764899
+
+
+
+
+Range 2: 84819263 to 84819492
+
+Score:334 bits(370), Expect:5e-90, 
+Identities:212/230(92%),  Gaps:0/230(0%), Strand: Plus/Plus
+
+Query  10        TATTTACATGTCAAATCTAATATACAACTGGGAACTTTCCAAATGCGAAATCGTGATTTG  69
+                 |||||||||||||||||||||||||||||||||||||||||| ||||||| ||  |||||
+Sbjct  84819263  TATTTACATGTCAAATCTAATATACAACTGGGAACTTTCCAATTGCGAAAACGCAATTTG  84819322
+
+Query  70        CGCTTGAGTGAGACATTCCTGGAAGAACTAACGTTTTTGCCAAGTACCTATGAGAAGGGA  129
+                 |||||||||||||||||||||||||| |||| | | ||||| ||||||||||||||||||
+Sbjct  84819323  CGCTTGAGTGAGACATTCCTGGAAGATCTAAAGATGTTGCCCAGTACCTATGAGAAGGGA  84819382
+
+Query  130       GAGTATTTTAAATTTCTTGAAACATATGGAACTCATTATTCCCGGAGAGGAACCGTTGGA  189
+                 |||||||||| |||||| ||||||||||||||||||||||| | |||||||||| |||||
+Sbjct  84819383  GAGTATTTTATATTTCTGGAAACATATGGAACTCATTATTCACAGAGAGGAACCATTGGA  84819442
+
+Query  190       GGAAAATATGAGCTAATATATGTGTTGGATAACCAAACTCTTTCATCACA  239
+                 |||||||||||||||||||||||||||||||||| |||| |  |||||||
+Sbjct  84819443  GGAAAATATGAGCTAATATATGTGTTGGATAACCGAACTATGACATCACA  84819492
+
+
+
+
+
+Query #8: Pantherophis_obsoletus_C9A|exon_8 Query ID: lcl|Query_3187086 Length: 126
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Pantherophis guttatus isolate 1 unplaced genomic scaffold,...     Pantherophis... NA              94885      188    188   98%   2e-46 93.55  101283997  NW_026844028.1   
+
+
+Alignments:
+
+>Pantherophis guttatus isolate 1 unplaced genomic scaffold, CU_Pguttatus_1 Super_scaffold_355
+Sequence ID: NW_026844028.1 Length: 101283997
+Range 1: 84768848 to 84768971
+
+Score:188 bits(208), Expect:2e-46, 
+Identities:116/124(94%),  Gaps:0/124(0%), Strand: Plus/Plus
+
+Query  2         GTTCACTGCAGAGGATGTAAACGGATGCTTAGGCTTTAATTTAGGAATTACTATTGCCGC  61
+                 ||||||||||||||||||||||| |||||||||||||||||||||||||  |||| | ||
+Sbjct  84768848  GTTCACTGCAGAGGATGTAAACGAATGCTTAGGCTTTAATTTAGGAATTGGTATTACTGC  84768907
+
+Query  62        AGAAGTTGCAGAAGCCACAGCGGAGATTAAAGCTAAACAATGTAAAACCAGTGGATTTAA  121
+                 |||  |||||||||||||||||||||||||||||||||||||||||||| ||||||||||
+Sbjct  84768908  AGATATTGCAGAAGCCACAGCGGAGATTAAAGCTAAACAATGTAAAACCGGTGGATTTAA  84768967
+
+Query  122       AAGT  125
+                 ||||
+Sbjct  84768968  AAGT  84768971
+
+
+
+
+
+Query #9: Pantherophis_obsoletus_C9A|exon_9 Query ID: lcl|Query_3187087 Length: 182
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Pantherophis guttatus isolate 1 unplaced genomic scaffold,...     Pantherophis... NA              94885      284    481   97%   6e-75 95.48  101283997  NW_026844028.1   
+
+
+Alignments:
+
+>Pantherophis guttatus isolate 1 unplaced genomic scaffold, CU_Pguttatus_1 Super_scaffold_355
+Sequence ID: NW_026844028.1 Length: 101283997
+Range 1: 84770744 to 84770920
+
+Score:284 bits(314), Expect:6e-75, 
+Identities:169/177(95%),  Gaps:0/177(0%), Strand: Plus/Plus
+
+Query  6         GAACTGAGACAGAGTGGGGTTATCAAAGATGTAGTCTCTCTGATTCAAGGTGGGACAACA  65
+                 |||||||||| |||||||||||||  ||||||||||||||||||||||||||||||||||
+Sbjct  84770744  GAACTGAGACGGAGTGGGGTTATCCGAGATGTAGTCTCTCTGATTCAAGGTGGGACAACA  84770803
+
+Query  66        GCTACCTTAACAAAGTTGAATGAATTGCTTTCATCAAATGCCAGGCTAATTGATGTAGAA  125
+                 ||||||||||||| |||||| |||||||||||||||||| || |||||||||||||||||
+Sbjct  84770804  GCTACCTTAACAAGGTTGAAAGAATTGCTTTCATCAAATCCCTGGCTAATTGATGTAGAA  84770863
+
+Query  126       CACTATGTCGAATGGGCTGCTACACTACCTCAAGCTCCTGTAGTGATAAGACAAGAG  182
+                 |||||||| ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  84770864  CACTATGTTGAATGGGCTGCTACACTACCTCAAGCTCCTGTAGTGATAAGACAAGAG  84770920
+
+
+
+
+Range 2: 84823166 to 84823326
+
+Score:196 bits(217), Expect:2e-48, 
+Identities:140/161(87%),  Gaps:0/161(0%), Strand: Plus/Plus
+
+Query  22        GGGTTATCAAAGATGTAGTCTCTCTGATTCAAGGTGGGACAACAGCTACCTTAACAAAGT  81
+                 || ||||| |||||||||||||||||||||||||||||||||||||||| ||||||||||
+Sbjct  84823166  GGATTATCCAAGATGTAGTCTCTCTGATTCAAGGTGGGACAACAGCTACTTTAACAAAGT  84823225
+
+Query  82        TGAATGAATTGCTTTCATCAAATGCCAGGCTAATTGATGTAGAACACTATGTCGAATGGG  141
+                 |||||||| ||||||| ||||||| ||    | | ||||| ||||| || || |||||||
+Sbjct  84823226  TGAATGAAATGCTTTCTTCAAATGTCAATTCAGTCGATGTCGAACAGTACGTTGAATGGG  84823285
+
+Query  142       CTGCTACACTACCTCAAGCTCCTGTAGTGATAAGACAAGAG  182
+                 |||||||| ||||||||||||||| |||||| | |||| ||
+Sbjct  84823286  CTGCTACATTACCTCAAGCTCCTGCAGTGATCAAACAACAG  84823326
+
+
+
+
+
+Query #10: Pantherophis_obsoletus_C9A|exon_10 Query ID: lcl|Query_3187088 Length: 229
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+Pantherophis guttatus isolate 1 unplaced genomic scaffold,...     Pantherophis... NA              94885      387    1037  100%  9e-106 97.38  101283997  NW_026844028.1   
+
+
+Alignments:
+
+>Pantherophis guttatus isolate 1 unplaced genomic scaffold, CU_Pguttatus_1 Super_scaffold_355
+Sequence ID: NW_026844028.1 Length: 101283997
+Range 1: 84776713 to 84776941
+
+Score:387 bits(428), Expect:9e-106, 
+Identities:223/229(97%),  Gaps:0/229(0%), Strand: Plus/Plus
+
+Query  1         TTAACCCCAATTTCGGAACTTGTACCACTGAAAATCCCAGACTCCCGAACAAAGAAAGAA  60
+                 |||||||||||||| |||||||||||||||||||||| ||||||||||||||||||||||
+Sbjct  84776713  TTAACCCCAATTTCAGAACTTGTACCACTGAAAATCCGAGACTCCCGAACAAAGAAAGAA  84776772
+
+Query  61        AATCTGGACAGAGCTGTAGAGGATTATGTGGCTGAATACAGTGTATGCAAATGCCAGCCT  120
+                 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  84776773  AATCTGGACAGAGCTGTAGAGGATTATGTGGCTGAATACAGTGTATGCAAATGCCAGCCT  84776832
+
+Query  121       TGTCTACATGGTGGGACGGCGATGCTGATAGAAGGGAAGTGTGAATGTACCTGCACTCCA  180
+                 ||||||||||||||||||||||||||||||||||||||||||||||||  ||||||||||
+Sbjct  84776833  TGTCTACATGGTGGGACGGCGATGCTGATAGAAGGGAAGTGTGAATGTGTCTGCACTCCA  84776892
+
+Query  181       TTTTACAAGGGAGACGCCTGTGAAATACCCAAGTCAACTTTTGTACCAG  229
+                 ||||||||||||||||||||||||||| ||||||||| |||||||||||
+Sbjct  84776893  TTTTACAAGGGAGACGCCTGTGAAATAGCCAAGTCAATTTTTGTACCAG  84776941
+
+
+
+
+Range 2: 84793159 to 84793387
+
+Score:364 bits(403), Expect:1e-98, 
+Identities:218/229(95%),  Gaps:0/229(0%), Strand: Plus/Plus
+
+Query  1         TTAACCCCAATTTCGGAACTTGTACCACTGAAAATCCCAGACTCCCGAACAAAGAAAGAA  60
+                 |||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||
+Sbjct  84793159  TTAACCCCAATTTCGGAACTTGTACCGCTGAAAATCCCAGACTCCCGAACAAAGAAAGAA  84793218
+
+Query  61        AATCTGGACAGAGCTGTAGAGGATTATGTGGCTGAATACAGTGTATGCAAATGCCAGCCT  120
+                 ||||||||||||||||||||||||||||||||||||||||  ||||||||||||||||||
+Sbjct  84793219  AATCTGGACAGAGCTGTAGAGGATTATGTGGCTGAATACAACGTATGCAAATGCCAGCCT  84793278
+
+Query  121       TGTCTACATGGTGGGACGGCGATGCTGATAGAAGGGAAGTGTGAATGTACCTGCACTCCA  180
+                 ||||||||||||||||| ||||||||||||||||||| |||||||||  |||||||| ||
+Sbjct  84793279  TGTCTACATGGTGGGACAGCGATGCTGATAGAAGGGAGGTGTGAATGCGCCTGCACTTCA  84793338
+
+Query  181       TTTTACAAGGGAGACGCCTGTGAAATACCCAAGTCAACTTTTGTACCAG  229
+                  ||||||||||||||||||||||||||||||||||||||||  ||||||
+Sbjct  84793339  CTTTACAAGGGAGACGCCTGTGAAATACCCAAGTCAACTTTCATACCAG  84793387
+
+
+
+
+Range 3: 84824465 to 84824669
+
+Score:285 bits(315), Expect:8e-75, 
+Identities:186/205(91%),  Gaps:0/205(0%), Strand: Plus/Plus
+
+Query  5         CCCCAATTTCGGAACTTGTACCACTGAAAATCCCAGACTCCCGAACAAAGAAAGAAAATC  64
+                 |||||||||| |||||| | |||||||| ||||||||||||||||  ||||||| |||||
+Sbjct  84824465  CCCCAATTTCTGAACTTATCCCACTGAATATCCCAGACTCCCGAATGAAGAAAGTAAATC  84824524
+
+Query  65        TGGACAGAGCTGTAGAGGATTATGTGGCTGAATACAGTGTATGCAAATGCCAGCCTTGTC  124
+                 ||||||||||||||||||||||||||||||||||||  ||||| |||||| | |||||||
+Sbjct  84824525  TGGACAGAGCTGTAGAGGATTATGTGGCTGAATACAACGTATGTAAATGCAAACCTTGTC  84824584
+
+Query  125       TACATGGTGGGACGGCGATGCTGATAGAAGGGAAGTGTGAATGTACCTGCACTCCATTTT  184
+                 ||||||||||||||| ||||||| |||| || |||||||||||  |||||||||||||||
+Sbjct  84824585  TACATGGTGGGACGGTGATGCTGCTAGACGGAAAGTGTGAATGCGCCTGCACTCCATTTT  84824644
+
+Query  185       ACAAGGGAGACGCCTGTGAAATACC  209
+                 |||||||||||| ||||||||||||
+Sbjct  84824645  ACAAGGGAGACGGCTGTGAAATACC  84824669
+
+
+
+
+
+Query #11: Pantherophis_obsoletus_C9A|exon_11 Query ID: lcl|Query_3187089 Length: 155
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Pantherophis guttatus isolate 1 unplaced genomic scaffold,...     Pantherophis... NA              94885      253    618   100%  9e-66 96.13  101283997  NW_026844028.1   
+Pantherophis guttatus isolate 1 unplaced genomic scaffold,...     Pantherophis... NA              94885      47.3   47.3  25%   0.002 86.84  101532744  NW_026844027.1   
+
+
+Alignments:
+
+>Pantherophis guttatus isolate 1 unplaced genomic scaffold, CU_Pguttatus_1 Super_scaffold_355
+Sequence ID: NW_026844028.1 Length: 101283997
+Range 1: 84778498 to 84778652
+
+Score:253 bits(280), Expect:9e-66, 
+Identities:149/155(96%),  Gaps:0/155(0%), Strand: Plus/Plus
+
+Query  1         CTCAAACTGCCATTGATGGGAACTGGAACTGCTGGTCTAGCTGGTCCACGTGTCAGAATA  60
+                 ||||||||||||||||||||||||||||||||||||||| ||||||||| ||||  ||||
+Sbjct  84778498  CTCAAACTGCCATTGATGGGAACTGGAACTGCTGGTCTAACTGGTCCACATGTCGTAATA  84778557
+
+Query  61        GAGAACGTCAGCGAACAAGAGAGTGTAATAATCCTGCACCTGGATCTGGGGGCAAATCAT  120
+                 ||||||||||||||||||||||||||||||||||||||||| ||||||||||||||||||
+Sbjct  84778558  GAGAACGTCAGCGAACAAGAGAGTGTAATAATCCTGCACCTAGATCTGGGGGCAAATCAT  84778617
+
+Query  121       GTCCTGGAACAAGTGTAGAAACAGGCCATTGTTAA  155
+                 |||||||||||||||||||| ||||||||||||||
+Sbjct  84778618  GTCCTGGAACAAGTGTAGAACCAGGCCATTGTTAA  84778652
+
+
+
+
+Range 2: 84794996 to 84795149
+
+Score:224 bits(248), Expect:4e-57, 
+Identities:142/154(92%),  Gaps:0/154(0%), Strand: Plus/Plus
+
+Query  2         TCAAACTGCCATTGATGGGAACTGGAACTGCTGGTCTAGCTGGTCCACGTGTCAGAATAG  61
+                 |||||||||||||||||||| |||||||||||||||||  |||||||| ||||||||| |
+Sbjct  84794996  TCAAACTGCCATTGATGGGAGCTGGAACTGCTGGTCTAAGTGGTCCACATGTCAGAATGG  84795055
+
+Query  62        AGAACGTCAGCGAACAAGAGAGTGTAATAATCCTGCACCTGGATCTGGGGGCAAATCATG  121
+                 |||||||| |||||||||  ||||||||||||||||||||||||||||||||||| ||||
+Sbjct  84795056  AGAACGTCTGCGAACAAGGCAGTGTAATAATCCTGCACCTGGATCTGGGGGCAAAGCATG  84795115
+
+Query  122       TCCTGGAACAAGTGTAGAAACAGGCCATTGTTAA  155
+                 ||||||||||| |||||||  |||||||||||||
+Sbjct  84795116  TCCTGGAACAACTGTAGAACTAGGCCATTGTTAA  84795149
+
+
+
+
+Range 3: 84826110 to 84826256
+
+Score:140 bits(154), Expect:1e-31, 
+Identities:119/147(81%),  Gaps:0/147(0%), Strand: Plus/Plus
+
+Query  9         GCCATTGATGGGAACTGGAACTGCTGGTCTAGCTGGTCCACGTGTCAGAATAGAGAACGT  68
+                 ||| || |||||| ||||| ||||||||||| ||||||||| |||||| |  || |||| 
+Sbjct  84826110  GCCGTTCATGGGAGCTGGAGCTGCTGGTCTAACTGGTCCACCTGTCAGCAAGGACAACGC  84826169
+
+Query  69        CAGCGAACAAGAGAGTGTAATAATCCTGCACCTGGATCTGGGGGCAAATCATGTCCTGGA  128
+                 | |||||||||| | ||| |||||||||| ||||||| | ||||||| ||||| ||||||
+Sbjct  84826170  CGGCGAACAAGAAAATGTGATAATCCTGCCCCTGGATATAGGGGCAAGTCATGCCCTGGA  84826229
+
+Query  129       ACAAGTGTAGAAACAGGCCATTGTTAA  155
+                  |||     ||| ||||| ||||||||
+Sbjct  84826230  GCAAACTCGGAACCAGGCTATTGTTAA  84826256
+
+
+
+
+>Pantherophis guttatus isolate 1 unplaced genomic scaffold, CU_Pguttatus_1 Super_scaffold_354
+Sequence ID: NW_026844027.1 Length: 101532744
+Range 1: 54612091 to 54612128
+
+Score:47.3 bits(51), Expect:0.002, 
+Identities:33/38(87%),  Gaps:0/38(0%), Strand: Plus/Minus
+
+Query  12        ATTGATGGGAACTGGAACTGCTGGTCTAGCTGGTCCAC  49
+                 || ||||| ||||||| ||||||||| |||||| ||||
+Sbjct  54612128  ATAGATGGAAACTGGAGCTGCTGGTCCAGCTGGACCAC  54612091
+
+
+
+
+
+
+
+		
+
+

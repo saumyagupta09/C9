@@ -1,0 +1,8 @@
+species	Plestiodon_gilberti
+clade	Scincoidea
+scaffold	JANXHW010000002.1
+window	JANXHW010000002.1:19136030-19268197
+offset	19136029
+new_seqname	Plestiodon_gilberti_C9locus
+length	132168
+note	genomic_pos = local_pos + offset

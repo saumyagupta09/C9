@@ -1,0 +1,27 @@
+##gff-version 3
+CM066329.1	miniprot	mRNA	355629022	355666379	2668	+	.	ID=Hydrophis_major_C9A;Rank=1;Identity=0.8408;Positive=0.8938;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Hydrophis_major_C9A
+CM066329.1	miniprot	CDS	355629022	355629098	96	+	0	Parent=Hydrophis_major_C9A;Rank=1;Identity=0.8077;Target=Pantherophis_obsoletus_C9A_1 1 25
+CM066329.1	miniprot	CDS	355630294	355630387	152	+	1	Parent=Hydrophis_major_C9A;Rank=1;Identity=0.8387;Target=Pantherophis_obsoletus_C9A_1 26 57
+CM066329.1	miniprot	CDS	355636440	355636587	212	+	0	Parent=Hydrophis_major_C9A;Rank=1;Identity=0.7400;Target=Pantherophis_obsoletus_C9A_1 58 106
+CM066329.1	miniprot	CDS	355637507	355637654	258	+	2	Parent=Hydrophis_major_C9A;Rank=1;Identity=0.8980;Target=Pantherophis_obsoletus_C9A_1 107 155
+CM066329.1	miniprot	CDS	355641381	355641519	234	+	1	Parent=Hydrophis_major_C9A;Rank=1;Identity=0.9130;Target=Pantherophis_obsoletus_C9A_1 156 202
+CM066329.1	miniprot	CDS	355643442	355643654	285	+	0	Parent=Hydrophis_major_C9A;Rank=1;Identity=0.8028;Target=Pantherophis_obsoletus_C9A_1 203 273
+CM066329.1	miniprot	CDS	355654651	355654891	396	+	0	Parent=Hydrophis_major_C9A;Rank=1;Identity=0.9136;Target=Pantherophis_obsoletus_C9A_1 274 353
+CM066329.1	miniprot	CDS	355661418	355661546	145	+	2	Parent=Hydrophis_major_C9A;Rank=1;Identity=0.6977;Target=Pantherophis_obsoletus_C9A_1 354 395
+CM066329.1	miniprot	CDS	355663211	355663392	256	+	2	Parent=Hydrophis_major_C9A;Rank=1;Identity=0.8167;Target=Pantherophis_obsoletus_C9A_1 396 456
+CM066329.1	miniprot	CDS	355664489	355664717	361	+	0	Parent=Hydrophis_major_C9A;Rank=1;Identity=0.8571;Target=Pantherophis_obsoletus_C9A_1 457 532
+CM066329.1	miniprot	CDS	355666225	355666379	273	+	2	Parent=Hydrophis_major_C9A;Rank=1;Identity=0.9000;Target=Pantherophis_obsoletus_C9A_1 533 583
+CM066329.1	miniprot	stop_codon	355666377	355666379	0	+	0	Parent=Hydrophis_major_C9A;Rank=1
+CM066329.1	miniprot	mRNA	355688477	355712284	2358	+	.	ID=Hydrophis_major_C9B;Rank=1;Identity=0.7307;Positive=0.8370;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Hydrophis_major_C9B
+CM066329.1	miniprot	CDS	355688477	355688553	100	+	0	Parent=Hydrophis_major_C9B;Rank=1;Identity=0.8077;Target=Pantherophis_obsoletus_C9A_1 1 25
+CM066329.1	miniprot	CDS	355689616	355689709	147	+	1	Parent=Hydrophis_major_C9B;Rank=1;Identity=0.7742;Target=Pantherophis_obsoletus_C9A_1 26 57
+CM066329.1	miniprot	CDS	355690329	355690476	258	+	0	Parent=Hydrophis_major_C9B;Rank=1;Identity=0.9000;Target=Pantherophis_obsoletus_C9A_1 58 106
+CM066329.1	miniprot	CDS	355691968	355692115	247	+	2	Parent=Hydrophis_major_C9B;Rank=1;Identity=0.8571;Target=Pantherophis_obsoletus_C9A_1 107 155
+CM066329.1	miniprot	CDS	355693671	355693809	214	+	1	Parent=Hydrophis_major_C9B;Rank=1;Identity=0.8261;Target=Pantherophis_obsoletus_C9A_1 156 202
+CM066329.1	miniprot	CDS	355695245	355695457	175	+	0	Parent=Hydrophis_major_C9B;Rank=1;Identity=0.5070;Target=Pantherophis_obsoletus_C9A_1 203 273
+CM066329.1	miniprot	CDS	355699497	355699737	360	+	0	Parent=Hydrophis_major_C9B;Rank=1;Identity=0.8272;Target=Pantherophis_obsoletus_C9A_1 274 353
+CM066329.1	miniprot	CDS	355701926	355702051	85	+	2	Parent=Hydrophis_major_C9B;Rank=1;Identity=0.4286;Target=Pantherophis_obsoletus_C9A_1 354 395
+CM066329.1	miniprot	CDS	355709588	355709769	222	+	2	Parent=Hydrophis_major_C9B;Rank=1;Identity=0.7000;Target=Pantherophis_obsoletus_C9A_1 396 456
+CM066329.1	miniprot	CDS	355710981	355711209	332	+	0	Parent=Hydrophis_major_C9B;Rank=1;Identity=0.7662;Target=Pantherophis_obsoletus_C9A_1 457 532
+CM066329.1	miniprot	CDS	355712130	355712284	218	+	2	Parent=Hydrophis_major_C9B;Rank=1;Identity=0.6800;Target=Pantherophis_obsoletus_C9A_1 533 583
+CM066329.1	miniprot	stop_codon	355712282	355712284	0	+	0	Parent=Hydrophis_major_C9B;Rank=1

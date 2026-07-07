@@ -1,0 +1,83 @@
+clade,species,copy,copy_id,cds_len_nt,protein_aa,n_exons,ORF_status,has_RNAseq,RNAseq_tissue,RNAseq_status_per_copy,RNAseq_seq_exact_match
+Gekkota,Correlophus_ciliatus,C9A,Correlophus_ciliatus_C9A,1830,609,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=167325; locus_cov=1.00,"CONFIRMED_exact (pid=99.24%,cov=1.004)"
+Gekkota,Eublepharis_macularius,C9A,Eublepharis_macularius_C9A,1794,597,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=99263; locus_cov=1.00,"CONFIRMED_exact (pid=99.23%,cov=1.007)"
+Gekkota,Gekko_japonicus,C9A,Gekko_japonicus_C9A,1785,594,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Gekkota,Gekko_kuhli,C9A,Gekko_kuhli_C9A,1785,594,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Gekkota,Mediodactylus_kotschyi,C9A,Mediodactylus_kotschyi_C9A,1761,586,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Gekkota,Teratoscincus_roborowskii,C9A,Teratoscincus_roborowskii_C9A,1827,608,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Scincoidea,Acritoscincus_duperreyi,C9A,Acritoscincus_duperreyi_C9A,1794,597,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=58254; locus_cov=1.00,—
+Scincoidea,Carinascincus_ocellatus,C9A,Carinascincus_ocellatus_C9A,1761,586,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=547206; locus_cov=1.00,"CONFIRMED_exact (pid=99.66%,cov=1.000)"
+Scincoidea,Cryptoblepharus_egeriae,C9A,Cryptoblepharus_egeriae_C9A,1770,589,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=1656371; locus_cov=1.00,"CONFIRMED_exact (pid=99.72%,cov=1.000)"
+Scincoidea,Hemicordylus_capensis,C9A,Hemicordylus_capensis_C9A,1785,594,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=270; locus_cov=0.98,—
+Scincoidea,Plestiodon_gilberti,C9A,Plestiodon_gilberti_C9A,1779,592,11,intact (ATG start / stop / 0 internal),yes,liver;lung,intact; reads=29356; locus_cov=1.00,—
+Scincoidea,Xantusia_vigilis,C9A,Xantusia_vigilis_C9A,1752,583,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=83714; locus_cov=1.00,—
+Lacertoidea,Aspidoscelis_tigris,C9A,Aspidoscelis_tigris_C9A,1761,586,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=6505; locus_cov=0.99,—
+Lacertoidea,Lacerta_agilis,C9A,Lacerta_agilis_C9A,1770,589,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Lacertoidea,Podarcis_muralis,C9A,Podarcis_muralis_C9A,1770,589,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Lacertoidea,Podarcis_raffonei,C9A,Podarcis_raffonei_C9A,1770,589,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Lacertoidea,Rhineura_floridana,C9A,Rhineura_floridana_C9A,1755,584,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=1203234; locus_cov=1.00,"CONFIRMED_exact (pid=99.83%,cov=1.015)"
+Lacertoidea,Zootoca_vivipara,C9A,Zootoca_vivipara_C9A,1770,589,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=81123; locus_cov=1.00,"CONFIRMED_exact (pid=99.49%,cov=1.000)"
+Anguimorpha,Anniella_stebbinsi,C9A,Anniella_stebbinsi_C9A,1941,646,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Anguimorpha,Elgaria_multicarinata,C9A,Elgaria_multicarinata_C9A,1878,625,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=63757; locus_cov=1.00,"CONFIRMED_partial(clean,low-cov) (pid=99.93%,cov=0.811)"
+Iguania,Anolis_carolinensis,C9A,Anolis_carolinensis_C9A,1617,538,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=66; locus_cov=0.70,"CONFIRMED_partial(clean,low-cov) (pid=96.69%,cov=0.636)"
+Iguania,Anolis_carolinensis,C9B,Anolis_carolinensis_C9B,1776,591,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=162125; locus_cov=1.00,"CONFIRMED_exact (pid=99.61%,cov=1.000)"
+Iguania,Anolis_sagrei,C9A,Anolis_sagrei_C9A,1611,537,10,DEGRADED (ATG; no-stop; 0 internal stops),no,,NA,NA
+Iguania,Anolis_sagrei,C9B,Anolis_sagrei_C9B,1773,590,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Iguania,Bradypodion_pumilum,C9A,Bradypodion_pumilum_C9A,1797,598,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Iguania,Cyclura_pinguis,C9A,Cyclura_pinguis_C9A,1785,594,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Iguania,Furcifer_pardalis,C9A,Furcifer_pardalis_C9A,1791,596,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Iguania,Gambelia_wislizenii,C9A,Gambelia_wislizenii_C9A,1776,591,11,intact (ATG start / stop / 0 internal),yes,liver;lung,intact; reads=118406; locus_cov=1.00,—
+Iguania,Laudakia_wui,C9A,Laudakia_wui_C9A,1776,591,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Iguania,Phrynosoma_blainvillii,C9A,Phrynosoma_blainvillii_C9A,1779,592,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=113983; locus_cov=1.00,—
+Iguania,Pogona_vitticeps,C9A,Pogona_vitticeps_C9A,1800,599,11,intact (ATG start / stop / 0 internal),yes,lung,intact; reads=14476; locus_cov=0.91,—
+Iguania,Sceloporus_undulatus,C9A,Sceloporus_undulatus_C9A,1776,591,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=203093; locus_cov=1.00,"CONFIRMED_exact (pid=99.61%,cov=1.000)"
+Boidae/Pythonidae,Candoia_aspera,C9A,Candoia_aspera_C9A,1752,583,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=114671; locus_cov=1.00,"CONFIRMED_exact (pid=100.00%,cov=1.000)"
+Boidae/Pythonidae,Liasis_olivaceus,C9A,Liasis_olivaceus_C9A,1749,582,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Boidae/Pythonidae,Python_bivittatus,C9A,Python_bivittatus_C9A,1749,582,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=2157; locus_cov=1.00,—
+Colubridae,Arizona_elegans,C9A,Arizona_elegans_C9A,1752,583,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=9196; locus_cov=1.00,—
+Colubridae,Arizona_elegans,C9B,Arizona_elegans_C9B,1752,583,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=15; locus_cov=0.24,—
+Colubridae,Arizona_elegans,C9C,Arizona_elegans_C9C,1752,583,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=50; locus_cov=0.58,—
+Colubridae,Chrysopelea_ornata,C9A,Chrysopelea_ornata_C9A,1755,584,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Colubridae,Hemorrhois_hippocrepis,C9A,Hemorrhois_hippocrepis_C9A,1752,583,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=139661; locus_cov=1.00,"CONFIRMED_exact (pid=99.72%,cov=1.008)"
+Colubridae,Hemorrhois_hippocrepis,C9B,Hemorrhois_hippocrepis_C9B,1749,582,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=4290; locus_cov=0.93,"CHIMERIC_consensus:NOT_rnaseq-confirmable(genome/NCBI-validated) (pid=NA%,cov=NA)"
+Colubridae,Hemorrhois_hippocrepis,C9C,Hemorrhois_hippocrepis_C9C,1752,583,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=106; locus_cov=0.93,"CONFIRMED_partial(minor-mix) (pid=98.99%,cov=0.902)"
+Colubridae,Malpolon_monspessulanus,C9A,Malpolon_monspessulanus_C9A,1752,583,11,intact (ATG start / stop / 0 internal),yes,liver;lung,intact; reads=331136; locus_cov=0.90,—
+Colubridae,Malpolon_monspessulanus,C9B,Malpolon_monspessulanus_C9B,1749,582,11,intact (ATG start / stop / 0 internal),yes,liver;lung,intact; reads=1052; locus_cov=0.90,—
+Colubridae,Masticophis_lateralis,C9A,Masticophis_lateralis_C9A,1752,583,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=32178; locus_cov=0.04,—
+Colubridae,Masticophis_lateralis,C9B,Masticophis_lateralis_C9B,1743,580,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=20; locus_cov=0.04,—
+Colubridae,Pantherophis_obsoletus,C9A,Pantherophis_obsoletus_C9A,1752,583,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Colubridae,Pantherophis_obsoletus,C9B,Pantherophis_obsoletus_C9B,1596,532,10,"DEGRADED (ATG; C-terminal truncation, exon 11 lost; in-frame TAG stop immediately downstream of exon 10 [intronic ~11,632,733]; 0 internal stops)",no,,NA,NA
+Colubridae,Pantherophis_obsoletus,C9C,Pantherophis_obsoletus_C9C,1752,583,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Colubridae,Pituophis_catenifer,C9A,Pituophis_catenifer_C9A,1752,583,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=71838; locus_cov=1.00,—
+Colubridae,Pituophis_catenifer,C9B,Pituophis_catenifer_C9B,1752,583,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=5293; locus_cov=0.62,—
+Colubridae,Pituophis_catenifer,C9C,Pituophis_catenifer_C9C,1752,583,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=20; locus_cov=0.10,—
+Colubridae,Ptyas_mucosa,C9A,Ptyas_mucosa_C9A,1752,583,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Colubridae,Ptyas_mucosa,C9B,Ptyas_mucosa_C9B,1746,581,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Colubridae,Thamnophis_elegans,C9A,Thamnophis_elegans_C9A,1752,583,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=563437; locus_cov=1.00,"CONFIRMED_exact (pid=98.63%,cov=1.000)"
+Colubridae,Thamnophis_elegans,C9B,Thamnophis_elegans_C9B,1746,581,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=3207; locus_cov=1.00,"CHIMERIC_consensus:NOT_rnaseq-confirmable(genome/NCBI-validated) (pid=NA%,cov=NA)"
+Viperidae,Bothrops_jararaca,C9A,Bothrops_jararaca_C9A,1752,583,11,intact (ATG start / stop / 0 internal),yes,liver;lung,intact; reads=0; locus_cov=0.00,—
+Viperidae,Bothrops_jararaca,C9B,Bothrops_jararaca_C9B,1752,583,11,intact (ATG start / stop / 0 internal),yes,liver;lung,intact; reads=0; locus_cov=0.00,—
+Viperidae,Crotalus_adamanteus,C9A,Crotalus_adamanteus_C9A,1752,583,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=104029; locus_cov=1.00,"CONFIRMED_exact (pid=99.77%,cov=1.000)"
+Viperidae,Crotalus_adamanteus,C9B,Crotalus_adamanteus_C9B,1752,583,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=839; locus_cov=0.64,"CHIMERIC_consensus:NOT_rnaseq-confirmable(genome/NCBI-validated) (pid=91.33%,cov=0.467)"
+Viperidae,Crotalus_tigris,C9A,Crotalus_tigris_C9A,1752,583,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=40783; locus_cov=1.00,"CONFIRMED_exact (pid=99.89%,cov=1.010)"
+Viperidae,Crotalus_tigris,C9B,Crotalus_tigris_C9B,1752,583,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=175; locus_cov=0.66,"CHIMERIC_consensus:NOT_rnaseq-confirmable(genome/NCBI-validated) (pid=NA%,cov=NA)"
+Viperidae,Protobothrops_mucrosquamatus,C9A,Protobothrops_mucrosquamatus_C9A,1752,583,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Viperidae,Protobothrops_mucrosquamatus,C9B,Protobothrops_mucrosquamatus_C9B_remnant,690,229,4,DEGRADED (noATG; stop; 0 internal stops),no,,NA,NA
+Viperidae,Vipera_berus,C9A,Vipera_berus_C9A,1752,583,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Viperidae,Vipera_berus,C9B,Vipera_berus_C9B,1752,583,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Viperidae,Vipera_seoanei,C9A,Vipera_seoanei_C9A,1752,583,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Viperidae,Vipera_seoanei,C9B,Vipera_seoanei_C9B,1752,583,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Elapidae,Bungarus_multicinctus,C9A,Bungarus_multicinctus_C9A,1755,584,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=1580; locus_cov=0.49,—
+Elapidae,Bungarus_multicinctus,C9B,Bungarus_multicinctus_C9B,1752,583,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=76; locus_cov=0.45,—
+Elapidae,Hydrophis_cyanocinctus,C9A,Hydrophis_cyanocinctus_C9A,1752,583,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Elapidae,Hydrophis_cyanocinctus,C9B,Hydrophis_cyanocinctus_C9B,1752,583,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Elapidae,Hydrophis_major,C9A,Hydrophis_major_C9A,1752,583,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Elapidae,Hydrophis_major,C9B,Hydrophis_major_C9B,1752,583,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Elapidae,Laticauda_colubrina,C9A,Laticauda_colubrina_C9A,1752,583,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Elapidae,Laticauda_colubrina,C9B,Laticauda_colubrina_C9B,1752,583,11,intact (ATG start / stop / 0 internal),no,,NA,NA
+Elapidae,Naja_naja,C9A,Naja_naja_C9A,1755,584,11,intact (ATG start / stop / 0 internal),yes,liver;lung,intact; reads=128227; locus_cov=1.00,—
+Elapidae,Naja_naja,C9B,Naja_naja_C9B,1752,583,11,intact (ATG start / stop / 0 internal),yes,liver;lung,intact; reads=76; locus_cov=0.32,—
+Elapidae,Notechis_scutatus,C9A,Notechis_scutatus_C9A,1755,584,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=218517; locus_cov=1.00,"CONFIRMED_exact (pid=99.15%,cov=1.010)"
+Elapidae,Notechis_scutatus,C9B,Notechis_scutatus_C9B,1752,583,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=104; locus_cov=0.97,—
+Elapidae,Pseudonaja_textilis,C9A,Pseudonaja_textilis_C9A,1755,584,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=197275; locus_cov=1.00,"CONFIRMED_exact (pid=99.26%,cov=1.007)"
+Elapidae,Pseudonaja_textilis,C9B,Pseudonaja_textilis_C9B,1752,583,11,intact (ATG start / stop / 0 internal),yes,liver,intact; reads=267; locus_cov=0.75,"CHIMERIC_consensus:NOT_rnaseq-confirmable(genome/NCBI-validated) (pid=96.18%,cov=0.732)"

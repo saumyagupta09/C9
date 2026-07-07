@@ -1,0 +1,49 @@
+==================================================
+file name: all_finalized_cds.fa     
+sequences:            82
+total length:     142429 bp  (142429 bp excl N/X-runs)
+GC level:         43.47 %
+bases masked:        326 bp ( 0.23 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:                0            0 bp    0.00 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:                0            0 bp    0.00 %
+      LINE1           0            0 bp    0.00 %
+      LINE2           0            0 bp    0.00 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:         0            0 bp    0.00 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI      0            0 bp    0.00 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:         0            0 bp    0.00 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:         0            0 bp    0.00 %
+
+Total interspersed repeats:        0 bp    0.00 %
+
+
+Small RNA:            0            0 bp    0.00 %
+
+Satellites:           0            0 bp    0.00 %
+Simple repeats:       2           74 bp    0.05 %
+Low complexity:       5          252 bp    0.18 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo sapiens  
+RepeatMasker version 4.2.4 , default mode                                         
+run with rmblastn version 2.17.1+
+FamDB: CONS-Dfam_4.0

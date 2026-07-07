@@ -1,0 +1,15 @@
+**Table 3.1. Summary of selection analyses of C9 paralogues across Squamata**
+
+| Evolutionary hypothesis | Foreground lineage / paralogue | Background | RELAX (K, p) | codeml (ωFG, ωBG, p) | aBSREL | Biological interpretation |
+|---|---|---|---|---|---|---|
+| Evolution of ancestral snake C9A (Boidae/Pythonidae) | Boidae/Pythonidae C9A | Remaining snake C9A | 0.97, 0.87 | 0.59, 0.67, 0.38 | None | Retained ancestral selective regime. |
+| Evolution of ancestral snake C9A (Colubridae) | Colubrid C9A | Remaining snake C9A | 0.78, 0.045 | 0.53, 0.71, 0.023 | 1 significant branch (Chrysopelea C9A) | Relaxation of selective constraint. |
+| Evolution of ancestral snake C9A (Viperidae) | Viperid C9A | Remaining snake C9A | 0.88, 0.41 | 0.51, 0.68, 0.077 | None | Conserved selective regime. |
+| Evolution of ancestral snake C9A (Elapidae) | Elapid C9A | Remaining snake C9A | 1.73, 3.9 × 10⁻⁵ | 1.02, 0.55, 1.3 × 10⁻⁶ | 2 significant branches (Naja C9A, Laticauda C9A) | Lineage-specific adaptive evolution in elapid C9A. |
+| Evolution of duplicated paralogue | All snake C9B | All snake C9A | 0.81, 0.019 | 0.48, 0.68, 2.8 × 10⁻⁴ | 2 significant branches (Laticauda C9B, Hemorrhois C9B) | Relaxation of selective constraint following duplication. |
+| Evolution of colubrid-specific paralogue | All C9C | C9A + C9B | 0.89, 0.50 | 0.63, 0.52, 0.28 | None | Functional constraint maintained after triplication. |
+| Independent Anolis duplication (derived copy) | Anolis C9B | Other iguanian C9A | 1.20, 0.57 | 0.40, 0.32, 0.28 | None | No evidence of altered selective constraint. |
+| Independent Anolis duplication (ancestral-position copy) | Anolis C9A | Other iguanian C9A | 0.62, 0.43 | 0.54, 0.31, 6.8 × 10⁻⁴ | None | Increased evolutionary rate without altered selection intensity. |
+| Site-specific selection (all datasets) | Snake C9A, duplicated-snake, colubrid alignments | — | — | — | MEME / FEL (see Fig. 3.4) | Positive selection concentrated within the MACPF pore-forming domain. |
+
+RELAX: relaxation K<1 / intensification K>1. codeml: two-ratio foreground vs background dN/dS (ω). aBSREL: branch-level episodic positive selection. Site-level (MEME/FEL) detailed in Fig. 3.4.

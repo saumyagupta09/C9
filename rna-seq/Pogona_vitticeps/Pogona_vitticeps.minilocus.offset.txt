@@ -1,0 +1,8 @@
+species	Pogona_vitticeps
+clade	Iguania
+scaffold	NC_132823.1
+window	NC_132823.1:298071659-298220818
+offset	298071658
+new_seqname	Pogona_vitticeps_C9locus
+length	149160
+note	genomic_pos = local_pos + offset

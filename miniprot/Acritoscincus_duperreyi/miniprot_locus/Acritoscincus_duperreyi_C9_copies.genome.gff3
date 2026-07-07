@@ -1,0 +1,13 @@
+##gff-version 3
+CM084875.2	miniprot	mRNA	16685141	16699298	1983	-	.	ID=Acritoscincus_duperreyi_C9A;Rank=1;Identity=0.5812;Positive=0.7538;Target=Anolis_carolinensis_C9A_1 1 587;Name=Acritoscincus_duperreyi_C9A
+CM084875.2	miniprot	CDS	16699222	16699298	42	-	0	Parent=Acritoscincus_duperreyi_C9A;Rank=1;Identity=0.4231;Target=Anolis_carolinensis_C9A_1 1 25
+CM084875.2	miniprot	CDS	16698078	16698171	137	-	1	Parent=Acritoscincus_duperreyi_C9A;Rank=1;Identity=0.6774;Target=Anolis_carolinensis_C9A_1 26 57
+CM084875.2	miniprot	CDS	16697341	16697485	203	-	0	Parent=Acritoscincus_duperreyi_C9A;Rank=1;Identity=0.6939;Target=Anolis_carolinensis_C9A_1 58 105
+CM084875.2	miniprot	CDS	16696779	16696932	176	-	2	Parent=Acritoscincus_duperreyi_C9A;Rank=1;Identity=0.6471;Target=Anolis_carolinensis_C9A_1 106 154
+CM084875.2	miniprot	CDS	16695000	16695138	232	-	1	Parent=Acritoscincus_duperreyi_C9A;Rank=1;Identity=0.8478;Target=Anolis_carolinensis_C9A_1 155 201
+CM084875.2	miniprot	CDS	16692733	16692984	147	-	0	Parent=Acritoscincus_duperreyi_C9A;Rank=1;Identity=0.3452;Target=Anolis_carolinensis_C9A_1 202 277
+CM084875.2	miniprot	CDS	16691113	16691353	308	-	0	Parent=Acritoscincus_duperreyi_C9A;Rank=1;Identity=0.6790;Target=Anolis_carolinensis_C9A_1 278 357
+CM084875.2	miniprot	CDS	16689512	16689634	67	-	2	Parent=Acritoscincus_duperreyi_C9A;Rank=1;Identity=0.3095;Target=Anolis_carolinensis_C9A_1 358 399
+CM084875.2	miniprot	CDS	16687768	16687949	172	-	2	Parent=Acritoscincus_duperreyi_C9A;Rank=1;Identity=0.5167;Target=Anolis_carolinensis_C9A_1 400 460
+CM084875.2	miniprot	CDS	16686946	16687174	291	-	0	Parent=Acritoscincus_duperreyi_C9A;Rank=1;Identity=0.6494;Target=Anolis_carolinensis_C9A_1 461 536
+CM084875.2	miniprot	CDS	16685141	16685292	208	-	2	Parent=Acritoscincus_duperreyi_C9A;Rank=1;Identity=0.6200;Target=Anolis_carolinensis_C9A_1 537 587

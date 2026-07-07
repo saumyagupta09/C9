@@ -1,0 +1,40 @@
+##gff-version 3
+OZ203517.1	miniprot	mRNA	24592714	24615915	2827	-	.	ID=Hemorrhois_hippocrepis_C9A;Rank=1;Identity=0.8954;Positive=0.9383;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Hemorrhois_hippocrepis_C9A
+OZ203517.1	miniprot	CDS	24615839	24615915	97	-	0	Parent=Hemorrhois_hippocrepis_C9A;Rank=1;Identity=0.8077;Target=Pantherophis_obsoletus_C9A_1 1 25
+OZ203517.1	miniprot	CDS	24612581	24612674	177	-	1	Parent=Hemorrhois_hippocrepis_C9A;Rank=1;Identity=0.9677;Target=Pantherophis_obsoletus_C9A_1 26 57
+OZ203517.1	miniprot	CDS	24610638	24610785	218	-	0	Parent=Hemorrhois_hippocrepis_C9A;Rank=1;Identity=0.7800;Target=Pantherophis_obsoletus_C9A_1 58 106
+OZ203517.1	miniprot	CDS	24609376	24609523	262	-	2	Parent=Hemorrhois_hippocrepis_C9A;Rank=1;Identity=0.8980;Target=Pantherophis_obsoletus_C9A_1 107 155
+OZ203517.1	miniprot	CDS	24606998	24607136	242	-	1	Parent=Hemorrhois_hippocrepis_C9A;Rank=1;Identity=0.9565;Target=Pantherophis_obsoletus_C9A_1 156 202
+OZ203517.1	miniprot	CDS	24605684	24605896	320	-	0	Parent=Hemorrhois_hippocrepis_C9A;Rank=1;Identity=0.8732;Target=Pantherophis_obsoletus_C9A_1 203 273
+OZ203517.1	miniprot	CDS	24602578	24602818	395	-	0	Parent=Hemorrhois_hippocrepis_C9A;Rank=1;Identity=0.9259;Target=Pantherophis_obsoletus_C9A_1 274 353
+OZ203517.1	miniprot	CDS	24599248	24599373	171	-	2	Parent=Hemorrhois_hippocrepis_C9A;Rank=1;Identity=0.8095;Target=Pantherophis_obsoletus_C9A_1 354 395
+OZ203517.1	miniprot	CDS	24596538	24596719	288	-	2	Parent=Hemorrhois_hippocrepis_C9A;Rank=1;Identity=0.9667;Target=Pantherophis_obsoletus_C9A_1 396 456
+OZ203517.1	miniprot	CDS	24594971	24595199	385	-	0	Parent=Hemorrhois_hippocrepis_C9A;Rank=1;Identity=0.9091;Target=Pantherophis_obsoletus_C9A_1 457 532
+OZ203517.1	miniprot	CDS	24592714	24592868	272	-	2	Parent=Hemorrhois_hippocrepis_C9A;Rank=1;Identity=0.9000;Target=Pantherophis_obsoletus_C9A_1 533 583
+OZ203517.1	miniprot	stop_codon	24592714	24592716	0	-	0	Parent=Hemorrhois_hippocrepis_C9A;Rank=1
+OZ203517.1	miniprot	mRNA	24556225	24584501	2790	-	.	ID=Hemorrhois_hippocrepis_C9B;Rank=1;Identity=0.8885;Positive=0.9262;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Hemorrhois_hippocrepis_C9B
+OZ203517.1	miniprot	CDS	24584425	24584501	97	-	0	Parent=Hemorrhois_hippocrepis_C9B;Rank=1;Identity=0.8077;Target=Pantherophis_obsoletus_C9A_1 1 25
+OZ203517.1	miniprot	CDS	24581442	24581535	154	-	1	Parent=Hemorrhois_hippocrepis_C9B;Rank=1;Identity=0.8387;Target=Pantherophis_obsoletus_C9A_1 26 57
+OZ203517.1	miniprot	CDS	24578448	24578595	256	-	0	Parent=Hemorrhois_hippocrepis_C9B;Rank=1;Identity=0.9000;Target=Pantherophis_obsoletus_C9A_1 58 106
+OZ203517.1	miniprot	CDS	24576865	24577012	265	-	2	Parent=Hemorrhois_hippocrepis_C9B;Rank=1;Identity=0.9184;Target=Pantherophis_obsoletus_C9A_1 107 155
+OZ203517.1	miniprot	CDS	24574292	24574430	242	-	1	Parent=Hemorrhois_hippocrepis_C9B;Rank=1;Identity=0.9565;Target=Pantherophis_obsoletus_C9A_1 156 202
+OZ203517.1	miniprot	CDS	24571763	24571975	295	-	0	Parent=Hemorrhois_hippocrepis_C9B;Rank=1;Identity=0.8310;Target=Pantherophis_obsoletus_C9A_1 203 273
+OZ203517.1	miniprot	CDS	24565995	24566235	414	-	0	Parent=Hemorrhois_hippocrepis_C9B;Rank=1;Identity=0.9753;Target=Pantherophis_obsoletus_C9A_1 274 353
+OZ203517.1	miniprot	CDS	24565435	24565560	162	-	2	Parent=Hemorrhois_hippocrepis_C9B;Rank=1;Identity=0.7857;Target=Pantherophis_obsoletus_C9A_1 354 395
+OZ203517.1	miniprot	CDS	24560476	24560654	254	-	2	Parent=Hemorrhois_hippocrepis_C9B;Rank=1;Identity=0.9000;Target=Pantherophis_obsoletus_C9A_1 396 456
+OZ203517.1	miniprot	CDS	24559428	24559656	391	-	0	Parent=Hemorrhois_hippocrepis_C9B;Rank=1;Identity=0.9091;Target=Pantherophis_obsoletus_C9A_1 457 532
+OZ203517.1	miniprot	CDS	24556225	24556379	260	-	2	Parent=Hemorrhois_hippocrepis_C9B;Rank=1;Identity=0.8400;Target=Pantherophis_obsoletus_C9A_1 533 583
+OZ203517.1	miniprot	stop_codon	24556225	24556227	0	-	0	Parent=Hemorrhois_hippocrepis_C9B;Rank=1
+OZ203517.1	miniprot	mRNA	24519084	24545853	2333	-	.	ID=Hemorrhois_hippocrepis_C9C;Rank=1;Identity=0.7221;Positive=0.8370;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Hemorrhois_hippocrepis_C9C
+OZ203517.1	miniprot	CDS	24545777	24545853	114	-	0	Parent=Hemorrhois_hippocrepis_C9C;Rank=1;Identity=0.9231;Target=Pantherophis_obsoletus_C9A_1 1 25
+OZ203517.1	miniprot	CDS	24544199	24544292	142	-	1	Parent=Hemorrhois_hippocrepis_C9C;Rank=1;Identity=0.7419;Target=Pantherophis_obsoletus_C9A_1 26 57
+OZ203517.1	miniprot	CDS	24541584	24541731	268	-	0	Parent=Hemorrhois_hippocrepis_C9C;Rank=1;Identity=0.9400;Target=Pantherophis_obsoletus_C9A_1 58 106
+OZ203517.1	miniprot	CDS	24539996	24540143	235	-	2	Parent=Hemorrhois_hippocrepis_C9C;Rank=1;Identity=0.8163;Target=Pantherophis_obsoletus_C9A_1 107 155
+OZ203517.1	miniprot	CDS	24532366	24532504	208	-	1	Parent=Hemorrhois_hippocrepis_C9C;Rank=1;Identity=0.7826;Target=Pantherophis_obsoletus_C9A_1 156 202
+OZ203517.1	miniprot	CDS	24528783	24528995	180	-	0	Parent=Hemorrhois_hippocrepis_C9C;Rank=1;Identity=0.5211;Target=Pantherophis_obsoletus_C9A_1 203 273
+OZ203517.1	miniprot	CDS	24525992	24526232	363	-	0	Parent=Hemorrhois_hippocrepis_C9C;Rank=1;Identity=0.8519;Target=Pantherophis_obsoletus_C9A_1 274 353
+OZ203517.1	miniprot	CDS	24523325	24523450	83	-	2	Parent=Hemorrhois_hippocrepis_C9C;Rank=1;Identity=0.3810;Target=Pantherophis_obsoletus_C9A_1 354 395
+OZ203517.1	miniprot	CDS	24521858	24522039	208	-	2	Parent=Hemorrhois_hippocrepis_C9C;Rank=1;Identity=0.6833;Target=Pantherophis_obsoletus_C9A_1 396 456
+OZ203517.1	miniprot	CDS	24520482	24520710	331	-	0	Parent=Hemorrhois_hippocrepis_C9C;Rank=1;Identity=0.7532;Target=Pantherophis_obsoletus_C9A_1 457 532
+OZ203517.1	miniprot	CDS	24519084	24519238	201	-	2	Parent=Hemorrhois_hippocrepis_C9C;Rank=1;Identity=0.6000;Target=Pantherophis_obsoletus_C9A_1 533 583
+OZ203517.1	miniprot	stop_codon	24519084	24519086	0	-	0	Parent=Hemorrhois_hippocrepis_C9C;Rank=1

@@ -1,0 +1,6 @@
+Whole-chromosome miniprot run.
+Query (input): ../../QUERY_ashu_C9_prot.faa (curated C9 proteins)
+Target (input): genome assembly = /media/ashutosh/disk3/Open_seminar/C9_related/Squamata/Squamata_genomes/_new_downloads/Gekko_japonicus/GCF_001447785.1_Gekko_japonicus_V1.1_genomic.fna
+Output: Gekko_japonicus.gff (gene model, genome coords)
+Command: miniprot -t4 --gff <genome.fa> ashu_C9_prot.fa > Gekko_japonicus.gff
+IGV: load the genome assembly above + Gekko_japonicus.gff

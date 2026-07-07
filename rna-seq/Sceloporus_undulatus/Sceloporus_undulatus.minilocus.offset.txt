@@ -1,0 +1,8 @@
+species	Sceloporus_undulatus
+clade	Iguania
+scaffold	NC_056523.1
+window	NC_056523.1:307745583-307913203
+offset	307745582
+new_seqname	Sceloporus_undulatus_C9locus
+length	167621
+note	genomic_pos = local_pos + offset

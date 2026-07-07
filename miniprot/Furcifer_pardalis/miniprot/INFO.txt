@@ -1,0 +1,6 @@
+Whole-chromosome miniprot run.
+Query (input): ../../QUERY_ashu_C9_prot.faa (curated C9 proteins)
+Target (input): genome assembly = /media/ashutosh/disk3/Open_seminar/C9_related/Squamata/Squamata_genomes/genome_dir/Furcifer_pardalis/GCA_030440675.1_ASM3044067v1_genomic.fna
+Output: Furcifer_pardalis.gff (gene model, genome coords)
+Command: miniprot -t4 --gff <genome.fa> ashu_C9_prot.fa > Furcifer_pardalis.gff
+IGV: load the genome assembly above + Furcifer_pardalis.gff

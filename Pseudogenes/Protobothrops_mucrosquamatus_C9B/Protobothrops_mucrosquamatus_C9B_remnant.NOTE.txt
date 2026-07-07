@@ -1,0 +1,22 @@
+REMNANT copy (5'-truncated pseudogene fragment): only the C-terminal exons 8-11
+are present (229 aa, 690 nt, 0 internal stops, in-frame, proper TAA stop;
+C-terminal MACPF tail + EGF/TSP1 domains). The N-terminal exons 1-7 (residues
+1-353: signal peptide + first half of the protein incl. most of the MACPF domain)
+are GENUINELY DELETED, not an assembly artifact:
+  - genomic locus NW_015386198.1:349738-355493 (~5.7 kb; C9A copy = 20 kb);
+  - the C9A->C9B gap NW_015386198.1:341424-349736 (8.3 kb) is fully assembled
+    (0 N's) and contains NO N-terminal C9B exons;
+  - contig is 804,528 bp -> not a contig-end/fragmentation artifact;
+  - locus-anchored miniprot finds only 4 exons (8-11); ashu_C9A blastn shows C9
+    homology only from q~1061 (= exon 8) onward; tblastn: no full gene.
+
+IMPORTANT: the "Protobothrops_mucrosquamatus C9B" row in
+results/v2_ashu_C9A/parsed/master_copies.tsv ("11 exons, intact_ORF, id 0.849")
+is a CHIMERA -- exons 1-7 were BORROWED from the adjacent near-identical C9A
+paralog during extraction; it is NOT a real second gene. This *_C9B_remnant.* set
+is the genuine, locus-anchored remnant.
+
+NOT a complete C9 ORF; kept as a flagged remnant for completeness. Protobothrops is
+functionally single-copy C9A + this degenerate C-terminal C9B remnant
+(duplication-then-degeneration via 5' truncation). See CORRECTION_LOG.md and
+METHODS_AND_RESULTS.md sec 4e. Audit data: results/v2_ashu_C9A/proto_naja_check/.

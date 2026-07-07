@@ -1,0 +1,8 @@
+species	Crotalus_adamanteus
+clade	Viperidae
+scaffold	CM077919.1
+window	CM077919.1:265181762-265348540
+offset	265181761
+new_seqname	Crotalus_adamanteus_C9locus
+length	166779
+note	genomic_pos = local_pos + offset

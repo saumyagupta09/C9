@@ -1,0 +1,6 @@
+Whole-chromosome miniprot run.
+Query (input): ../../QUERY_ashu_C9_prot.faa (curated C9 proteins)
+Target (input): genome assembly = /media/ashutosh/disk3/Open_seminar/C9_related/Squamata/Squamata_genomes/genome_dir/Bungarus_multicinctus/GCA_023653725.1_ASM2365372v1_genomic.fna
+Output: Bungarus_multicinctus.gff (gene model, genome coords)
+Command: miniprot -t4 --gff <genome.fa> ashu_C9_prot.fa > Bungarus_multicinctus.gff
+IGV: load the genome assembly above + Bungarus_multicinctus.gff

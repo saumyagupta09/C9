@@ -1,0 +1,27 @@
+##gff-version 3
+WNWU01000002.1	miniprot	mRNA	55857087	55881477	2793	+	.	ID=Ptyas_mucosa_C9A;Rank=1;Identity=0.8834;Positive=0.9228;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Ptyas_mucosa_C9A
+WNWU01000002.1	miniprot	CDS	55857087	55857163	101	+	0	Parent=Ptyas_mucosa_C9A;Rank=1;Identity=0.8462;Target=Pantherophis_obsoletus_C9A_1 1 25
+WNWU01000002.1	miniprot	CDS	55859503	55859596	178	+	1	Parent=Ptyas_mucosa_C9A;Rank=1;Identity=0.9677;Target=Pantherophis_obsoletus_C9A_1 26 57
+WNWU01000002.1	miniprot	CDS	55861430	55861577	230	+	0	Parent=Ptyas_mucosa_C9A;Rank=1;Identity=0.8200;Target=Pantherophis_obsoletus_C9A_1 58 106
+WNWU01000002.1	miniprot	CDS	55862654	55862801	258	+	2	Parent=Ptyas_mucosa_C9A;Rank=1;Identity=0.8980;Target=Pantherophis_obsoletus_C9A_1 107 155
+WNWU01000002.1	miniprot	CDS	55864925	55865063	229	+	1	Parent=Ptyas_mucosa_C9A;Rank=1;Identity=0.8913;Target=Pantherophis_obsoletus_C9A_1 156 202
+WNWU01000002.1	miniprot	CDS	55866629	55866841	315	+	0	Parent=Ptyas_mucosa_C9A;Rank=1;Identity=0.8592;Target=Pantherophis_obsoletus_C9A_1 203 273
+WNWU01000002.1	miniprot	CDS	55869090	55869330	400	+	0	Parent=Ptyas_mucosa_C9A;Rank=1;Identity=0.9383;Target=Pantherophis_obsoletus_C9A_1 274 353
+WNWU01000002.1	miniprot	CDS	55873349	55873474	158	+	2	Parent=Ptyas_mucosa_C9A;Rank=1;Identity=0.7619;Target=Pantherophis_obsoletus_C9A_1 354 395
+WNWU01000002.1	miniprot	CDS	55877381	55877562	278	+	2	Parent=Ptyas_mucosa_C9A;Rank=1;Identity=0.9167;Target=Pantherophis_obsoletus_C9A_1 396 456
+WNWU01000002.1	miniprot	CDS	55879509	55879737	379	+	0	Parent=Ptyas_mucosa_C9A;Rank=1;Identity=0.8831;Target=Pantherophis_obsoletus_C9A_1 457 532
+WNWU01000002.1	miniprot	CDS	55881323	55881477	267	+	2	Parent=Ptyas_mucosa_C9A;Rank=1;Identity=0.9000;Target=Pantherophis_obsoletus_C9A_1 533 583
+WNWU01000002.1	miniprot	stop_codon	55881475	55881477	0	+	0	Parent=Ptyas_mucosa_C9A;Rank=1
+WNWU01000002.1	miniprot	mRNA	55893459	55914850	2305	+	.	ID=Ptyas_mucosa_C9B;Rank=1;Identity=0.7274;Positive=0.8228;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Ptyas_mucosa_C9B
+WNWU01000002.1	miniprot	CDS	55893459	55893535	112	+	0	Parent=Ptyas_mucosa_C9B;Rank=1;Identity=0.9231;Target=Pantherophis_obsoletus_C9A_1 1 25
+WNWU01000002.1	miniprot	CDS	55894738	55894825	118	+	1	Parent=Ptyas_mucosa_C9B;Rank=1;Identity=0.6452;Target=Pantherophis_obsoletus_C9A_1 26 57
+WNWU01000002.1	miniprot	CDS	55895898	55896045	273	+	0	Parent=Ptyas_mucosa_C9B;Rank=1;Identity=0.9600;Target=Pantherophis_obsoletus_C9A_1 58 106
+WNWU01000002.1	miniprot	CDS	55900795	55900942	235	+	2	Parent=Ptyas_mucosa_C9B;Rank=1;Identity=0.8367;Target=Pantherophis_obsoletus_C9A_1 107 155
+WNWU01000002.1	miniprot	CDS	55902746	55902884	215	+	1	Parent=Ptyas_mucosa_C9B;Rank=1;Identity=0.8478;Target=Pantherophis_obsoletus_C9A_1 156 202
+WNWU01000002.1	miniprot	CDS	55906064	55906276	175	+	0	Parent=Ptyas_mucosa_C9B;Rank=1;Identity=0.5333;Target=Pantherophis_obsoletus_C9A_1 203 273
+WNWU01000002.1	miniprot	CDS	55908454	55908694	358	+	0	Parent=Ptyas_mucosa_C9B;Rank=1;Identity=0.8395;Target=Pantherophis_obsoletus_C9A_1 274 353
+WNWU01000002.1	miniprot	CDS	55910403	55910528	77	+	2	Parent=Ptyas_mucosa_C9B;Rank=1;Identity=0.3571;Target=Pantherophis_obsoletus_C9A_1 354 395
+WNWU01000002.1	miniprot	CDS	55911975	55912156	210	+	2	Parent=Ptyas_mucosa_C9B;Rank=1;Identity=0.7000;Target=Pantherophis_obsoletus_C9A_1 396 456
+WNWU01000002.1	miniprot	CDS	55913617	55913845	329	+	0	Parent=Ptyas_mucosa_C9B;Rank=1;Identity=0.7532;Target=Pantherophis_obsoletus_C9A_1 457 532
+WNWU01000002.1	miniprot	CDS	55914696	55914850	203	+	2	Parent=Ptyas_mucosa_C9B;Rank=1;Identity=0.6400;Target=Pantherophis_obsoletus_C9A_1 533 583
+WNWU01000002.1	miniprot	stop_codon	55914848	55914850	0	+	0	Parent=Ptyas_mucosa_C9B;Rank=1

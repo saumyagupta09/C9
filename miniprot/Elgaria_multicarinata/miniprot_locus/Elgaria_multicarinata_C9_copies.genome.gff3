@@ -1,0 +1,13 @@
+##gff-version 3
+NC_086176.1	miniprot	mRNA	98433139	98465029	2034	+	.	ID=Elgaria_multicarinata_C9A;Rank=1;Identity=0.5905;Positive=0.7254;Target=Anolis_carolinensis_C9A_1 1 587;Name=Elgaria_multicarinata_C9A
+NC_086176.1	miniprot	CDS	98433139	98433206	33	+	0	Parent=Elgaria_multicarinata_C9A;Rank=1;Identity=0.4231;Target=Anolis_carolinensis_C9A_1 1 25
+NC_086176.1	miniprot	CDS	98436211	98436304	122	+	1	Parent=Elgaria_multicarinata_C9A;Rank=1;Identity=0.6452;Target=Anolis_carolinensis_C9A_1 26 57
+NC_086176.1	miniprot	CDS	98440950	98441094	220	+	0	Parent=Elgaria_multicarinata_C9A;Rank=1;Identity=0.7755;Target=Anolis_carolinensis_C9A_1 58 105
+NC_086176.1	miniprot	CDS	98443091	98443238	226	+	2	Parent=Elgaria_multicarinata_C9A;Rank=1;Identity=0.7959;Target=Anolis_carolinensis_C9A_1 106 154
+NC_086176.1	miniprot	CDS	98445536	98445674	233	+	1	Parent=Elgaria_multicarinata_C9A;Rank=1;Identity=0.8478;Target=Anolis_carolinensis_C9A_1 155 201
+NC_086176.1	miniprot	CDS	98448214	98448570	130	+	0	Parent=Elgaria_multicarinata_C9A;Rank=1;Identity=0.3277;Target=Anolis_carolinensis_C9A_1 202 277
+NC_086176.1	miniprot	CDS	98451071	98451311	324	+	0	Parent=Elgaria_multicarinata_C9A;Rank=1;Identity=0.7160;Target=Anolis_carolinensis_C9A_1 278 357
+NC_086176.1	miniprot	CDS	98455866	98455985	41	+	2	Parent=Elgaria_multicarinata_C9A;Rank=1;Identity=0.2857;Target=Anolis_carolinensis_C9A_1 358 399
+NC_086176.1	miniprot	CDS	98459518	98459699	170	+	2	Parent=Elgaria_multicarinata_C9A;Rank=1;Identity=0.4833;Target=Anolis_carolinensis_C9A_1 400 460
+NC_086176.1	miniprot	CDS	98462803	98463031	339	+	0	Parent=Elgaria_multicarinata_C9A;Rank=1;Identity=0.7403;Target=Anolis_carolinensis_C9A_1 461 536
+NC_086176.1	miniprot	CDS	98464878	98465029	196	+	2	Parent=Elgaria_multicarinata_C9A;Rank=1;Identity=0.6000;Target=Anolis_carolinensis_C9A_1 537 587

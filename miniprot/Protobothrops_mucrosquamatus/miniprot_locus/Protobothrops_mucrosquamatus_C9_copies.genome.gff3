@@ -1,0 +1,20 @@
+##gff-version 3
+NW_015386198.1	miniprot	mRNA	321403	341417	2657	+	.	ID=Protobothrops_mucrosquamatus_C9A;Rank=1;Identity=0.8233;Positive=0.9108;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Protobothrops_mucrosquamatus_C9A
+NW_015386198.1	miniprot	CDS	321403	321479	97	+	0	Parent=Protobothrops_mucrosquamatus_C9A;Rank=1;Identity=0.8077;Target=Pantherophis_obsoletus_C9A_1 1 25
+NW_015386198.1	miniprot	CDS	322705	322798	152	+	1	Parent=Protobothrops_mucrosquamatus_C9A;Rank=1;Identity=0.8065;Target=Pantherophis_obsoletus_C9A_1 26 57
+NW_015386198.1	miniprot	CDS	323519	323666	224	+	0	Parent=Protobothrops_mucrosquamatus_C9A;Rank=1;Identity=0.7800;Target=Pantherophis_obsoletus_C9A_1 58 106
+NW_015386198.1	miniprot	CDS	324838	324985	240	+	2	Parent=Protobothrops_mucrosquamatus_C9A;Rank=1;Identity=0.8163;Target=Pantherophis_obsoletus_C9A_1 107 155
+NW_015386198.1	miniprot	CDS	326682	326820	239	+	1	Parent=Protobothrops_mucrosquamatus_C9A;Rank=1;Identity=0.9348;Target=Pantherophis_obsoletus_C9A_1 156 202
+NW_015386198.1	miniprot	CDS	328506	328718	286	+	0	Parent=Protobothrops_mucrosquamatus_C9A;Rank=1;Identity=0.7606;Target=Pantherophis_obsoletus_C9A_1 203 273
+NW_015386198.1	miniprot	CDS	331583	331823	392	+	0	Parent=Protobothrops_mucrosquamatus_C9A;Rank=1;Identity=0.9012;Target=Pantherophis_obsoletus_C9A_1 274 353
+NW_015386198.1	miniprot	CDS	334052	334177	158	+	2	Parent=Protobothrops_mucrosquamatus_C9A;Rank=1;Identity=0.7143;Target=Pantherophis_obsoletus_C9A_1 354 395
+NW_015386198.1	miniprot	CDS	338375	338556	242	+	2	Parent=Protobothrops_mucrosquamatus_C9A;Rank=1;Identity=0.7833;Target=Pantherophis_obsoletus_C9A_1 396 456
+NW_015386198.1	miniprot	CDS	340005	340233	378	+	0	Parent=Protobothrops_mucrosquamatus_C9A;Rank=1;Identity=0.8831;Target=Pantherophis_obsoletus_C9A_1 457 532
+NW_015386198.1	miniprot	CDS	341263	341417	249	+	2	Parent=Protobothrops_mucrosquamatus_C9A;Rank=1;Identity=0.8000;Target=Pantherophis_obsoletus_C9A_1 533 583
+NW_015386198.1	miniprot	stop_codon	341415	341417	0	+	0	Parent=Protobothrops_mucrosquamatus_C9A;Rank=1
+NW_015386198.1	miniprot	mRNA	349738	355493	862	+	.	ID=Protobothrops_mucrosquamatus_C9B;Rank=1;Identity=0.6769;Positive=0.8122;Target=Pantherophis_obsoletus_C9A_1 355 583;Name=Protobothrops_mucrosquamatus_C9B
+NW_015386198.1	miniprot	CDS	349738	349861	84	+	0	Parent=Protobothrops_mucrosquamatus_C9B;Rank=1;Identity=0.3810;Target=Pantherophis_obsoletus_C9A_1 355 395
+NW_015386198.1	miniprot	CDS	353209	353390	220	+	2	Parent=Protobothrops_mucrosquamatus_C9B;Rank=1;Identity=0.7333;Target=Pantherophis_obsoletus_C9A_1 396 456
+NW_015386198.1	miniprot	CDS	354497	354725	355	+	0	Parent=Protobothrops_mucrosquamatus_C9B;Rank=1;Identity=0.8312;Target=Pantherophis_obsoletus_C9A_1 457 532
+NW_015386198.1	miniprot	CDS	355339	355493	203	+	2	Parent=Protobothrops_mucrosquamatus_C9B;Rank=1;Identity=0.6200;Target=Pantherophis_obsoletus_C9A_1 533 583
+NW_015386198.1	miniprot	stop_codon	355491	355493	0	+	0	Parent=Protobothrops_mucrosquamatus_C9B;Rank=1

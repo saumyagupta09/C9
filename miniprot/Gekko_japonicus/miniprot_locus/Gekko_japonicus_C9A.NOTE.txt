@@ -1,0 +1,9 @@
+CORRECTED japonicus C9A. The Ashu reference had TWO errors:
+1. exon-1 MIS-LOCATED: Ashu used 92bp at 1860923-1861014 (translates MAQSDI..., a
+   paralogous/cryptic fragment inside intron-1). True exon-1 = 77bp at 1864687-1864763,
+   translates MYAFWPLIRAL... = 100% match to Gekko_kuhli residues 1-25.
+2. exon-8 TRUNCATED: Ashu 66bp -> true full 117bp at 1841199-1841315 (= kuhli 117).
+Method: Gekko_kuhli-guided miniprot (wide window) + blastn (9 exons) + tblastn (exon-2,8).
+Result: clean 594aa, 11 exons [77,118,154,151,139,219,241,117,182,229,158], all canonical
+GT-AG, 0 internal stops. Matches gecko clade exactly. RNA-seq(liver, low expr) supports
+introns 3-4, 5-6, 9-10, 10-11. v3/Ashu was 582aa.

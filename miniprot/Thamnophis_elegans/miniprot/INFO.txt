@@ -1,0 +1,6 @@
+Whole-chromosome miniprot run.
+Query (input): ../../QUERY_ashu_C9_prot.faa (curated C9 proteins)
+Target (input): genome assembly = /media/ashutosh/disk3/Open_seminar/C9_related/Squamata/Squamata_genomes/_new_downloads/Thamnophis_elegans/GCF_009769535.1_rThaEle1.pri_genomic.fna
+Output: Thamnophis_elegans.gff (gene model, genome coords)
+Command: miniprot -t4 --gff <genome.fa> ashu_C9_prot.fa > Thamnophis_elegans.gff
+IGV: load the genome assembly above + Thamnophis_elegans.gff

@@ -1,0 +1,27 @@
+##gff-version 3
+CM077919.1	miniprot	mRNA	265223133	265242504	2667	+	.	ID=Crotalus_adamanteus_C9A;Rank=1;Identity=0.8302;Positive=0.9091;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Crotalus_adamanteus_C9A
+CM077919.1	miniprot	CDS	265223133	265223209	100	+	0	Parent=Crotalus_adamanteus_C9A;Rank=1;Identity=0.8077;Target=Pantherophis_obsoletus_C9A_1 1 25
+CM077919.1	miniprot	CDS	265224470	265224563	147	+	1	Parent=Crotalus_adamanteus_C9A;Rank=1;Identity=0.7742;Target=Pantherophis_obsoletus_C9A_1 26 57
+CM077919.1	miniprot	CDS	265225278	265225425	234	+	0	Parent=Crotalus_adamanteus_C9A;Rank=1;Identity=0.8200;Target=Pantherophis_obsoletus_C9A_1 58 106
+CM077919.1	miniprot	CDS	265226420	265226567	244	+	2	Parent=Crotalus_adamanteus_C9A;Rank=1;Identity=0.8367;Target=Pantherophis_obsoletus_C9A_1 107 155
+CM077919.1	miniprot	CDS	265228338	265228476	234	+	1	Parent=Crotalus_adamanteus_C9A;Rank=1;Identity=0.9130;Target=Pantherophis_obsoletus_C9A_1 156 202
+CM077919.1	miniprot	CDS	265230138	265230350	277	+	0	Parent=Crotalus_adamanteus_C9A;Rank=1;Identity=0.7465;Target=Pantherophis_obsoletus_C9A_1 203 273
+CM077919.1	miniprot	CDS	265232575	265232815	391	+	0	Parent=Crotalus_adamanteus_C9A;Rank=1;Identity=0.9012;Target=Pantherophis_obsoletus_C9A_1 274 353
+CM077919.1	miniprot	CDS	265235056	265235181	166	+	2	Parent=Crotalus_adamanteus_C9A;Rank=1;Identity=0.7619;Target=Pantherophis_obsoletus_C9A_1 354 395
+CM077919.1	miniprot	CDS	265240087	265240268	260	+	2	Parent=Crotalus_adamanteus_C9A;Rank=1;Identity=0.8500;Target=Pantherophis_obsoletus_C9A_1 396 456
+CM077919.1	miniprot	CDS	265241712	265241940	371	+	0	Parent=Crotalus_adamanteus_C9A;Rank=1;Identity=0.8701;Target=Pantherophis_obsoletus_C9A_1 457 532
+CM077919.1	miniprot	CDS	265242350	265242504	243	+	2	Parent=Crotalus_adamanteus_C9A;Rank=1;Identity=0.7800;Target=Pantherophis_obsoletus_C9A_1 533 583
+CM077919.1	miniprot	stop_codon	265242502	265242504	0	+	0	Parent=Crotalus_adamanteus_C9A;Rank=1
+CM077919.1	miniprot	mRNA	265254098	265272487	2360	+	.	ID=Crotalus_adamanteus_C9B;Rank=1;Identity=0.7324;Positive=0.8473;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Crotalus_adamanteus_C9B
+CM077919.1	miniprot	CDS	265254098	265254174	113	+	0	Parent=Crotalus_adamanteus_C9B;Rank=1;Identity=0.9231;Target=Pantherophis_obsoletus_C9A_1 1 25
+CM077919.1	miniprot	CDS	265255005	265255098	142	+	1	Parent=Crotalus_adamanteus_C9B;Rank=1;Identity=0.7419;Target=Pantherophis_obsoletus_C9A_1 26 57
+CM077919.1	miniprot	CDS	265255799	265255946	240	+	0	Parent=Crotalus_adamanteus_C9B;Rank=1;Identity=0.8400;Target=Pantherophis_obsoletus_C9A_1 58 106
+CM077919.1	miniprot	CDS	265257450	265257597	238	+	2	Parent=Crotalus_adamanteus_C9B;Rank=1;Identity=0.8367;Target=Pantherophis_obsoletus_C9A_1 107 155
+CM077919.1	miniprot	CDS	265259721	265259859	218	+	1	Parent=Crotalus_adamanteus_C9B;Rank=1;Identity=0.8478;Target=Pantherophis_obsoletus_C9A_1 156 202
+CM077919.1	miniprot	CDS	265261236	265261448	177	+	0	Parent=Crotalus_adamanteus_C9B;Rank=1;Identity=0.4930;Target=Pantherophis_obsoletus_C9A_1 203 273
+CM077919.1	miniprot	CDS	265263593	265263833	347	+	0	Parent=Crotalus_adamanteus_C9B;Rank=1;Identity=0.7901;Target=Pantherophis_obsoletus_C9A_1 274 353
+CM077919.1	miniprot	CDS	265266876	265267001	85	+	2	Parent=Crotalus_adamanteus_C9B;Rank=1;Identity=0.3810;Target=Pantherophis_obsoletus_C9A_1 354 395
+CM077919.1	miniprot	CDS	265270311	265270492	228	+	2	Parent=Crotalus_adamanteus_C9B;Rank=1;Identity=0.7667;Target=Pantherophis_obsoletus_C9A_1 396 456
+CM077919.1	miniprot	CDS	265271555	265271783	363	+	0	Parent=Crotalus_adamanteus_C9B;Rank=1;Identity=0.8442;Target=Pantherophis_obsoletus_C9A_1 457 532
+CM077919.1	miniprot	CDS	265272333	265272487	209	+	2	Parent=Crotalus_adamanteus_C9B;Rank=1;Identity=0.6400;Target=Pantherophis_obsoletus_C9A_1 533 583
+CM077919.1	miniprot	stop_codon	265272485	265272487	0	+	0	Parent=Crotalus_adamanteus_C9B;Rank=1

@@ -1,0 +1,6 @@
+Whole-chromosome miniprot run.
+Query (input): ../../QUERY_ashu_C9_prot.faa (curated C9 proteins)
+Target (input): genome assembly = /media/ashutosh/disk3/Open_seminar/C9_related/Squamata/Squamata_genomes/genome_dir/Dopasia_gracilis/GCA_052054735.1_ASM5205473v1_genomic.fna
+Output: Dopasia_gracilis.gff (gene model, genome coords)
+Command: miniprot -t4 --gff <genome.fa> ashu_C9_prot.fa > Dopasia_gracilis.gff
+IGV: load the genome assembly above + Dopasia_gracilis.gff

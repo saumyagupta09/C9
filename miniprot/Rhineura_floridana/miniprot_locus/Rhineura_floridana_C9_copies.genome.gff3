@@ -1,0 +1,13 @@
+##gff-version 3
+NC_084480.1	miniprot	mRNA	28310168	28342316	2118	-	.	ID=Rhineura_floridana_C9A;Rank=1;Identity=0.6508;Positive=0.7785;Target=Anolis_carolinensis_C9A_1 1 587;Name=Rhineura_floridana_C9A
+NC_084480.1	miniprot	CDS	28342240	28342316	52	-	0	Parent=Rhineura_floridana_C9A;Rank=1;Identity=0.5385;Target=Anolis_carolinensis_C9A_1 1 25
+NC_084480.1	miniprot	CDS	28331931	28332024	145	-	1	Parent=Rhineura_floridana_C9A;Rank=1;Identity=0.7097;Target=Anolis_carolinensis_C9A_1 26 57
+NC_084480.1	miniprot	CDS	28329669	28329813	218	-	0	Parent=Rhineura_floridana_C9A;Rank=1;Identity=0.7755;Target=Anolis_carolinensis_C9A_1 58 105
+NC_084480.1	miniprot	CDS	28328179	28328326	205	-	2	Parent=Rhineura_floridana_C9A;Rank=1;Identity=0.7347;Target=Anolis_carolinensis_C9A_1 106 154
+NC_084480.1	miniprot	CDS	28324378	28324516	230	-	1	Parent=Rhineura_floridana_C9A;Rank=1;Identity=0.8261;Target=Anolis_carolinensis_C9A_1 155 201
+NC_084480.1	miniprot	CDS	28321648	28321869	157	-	0	Parent=Rhineura_floridana_C9A;Rank=1;Identity=0.4474;Target=Anolis_carolinensis_C9A_1 202 277
+NC_084480.1	miniprot	CDS	28319640	28319880	337	-	0	Parent=Rhineura_floridana_C9A;Rank=1;Identity=0.7778;Target=Anolis_carolinensis_C9A_1 278 357
+NC_084480.1	miniprot	CDS	28317929	28318054	95	-	2	Parent=Rhineura_floridana_C9A;Rank=1;Identity=0.4286;Target=Anolis_carolinensis_C9A_1 358 399
+NC_084480.1	miniprot	CDS	28314847	28315022	161	-	2	Parent=Rhineura_floridana_C9A;Rank=1;Identity=0.5500;Target=Anolis_carolinensis_C9A_1 400 460
+NC_084480.1	miniprot	CDS	28312288	28312516	313	-	0	Parent=Rhineura_floridana_C9A;Rank=1;Identity=0.7013;Target=Anolis_carolinensis_C9A_1 461 536
+NC_084480.1	miniprot	CDS	28310168	28310319	205	-	2	Parent=Rhineura_floridana_C9A;Rank=1;Identity=0.6400;Target=Anolis_carolinensis_C9A_1 537 587

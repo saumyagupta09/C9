@@ -1,0 +1,21 @@
+##gff-version 3
+NW_020716626.1	miniprot	mRNA	11106491	11139037	2715	-	.	ID=Notechis_scutatus_C9A;Rank=1;Identity=0.8562;Positive=0.9075;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Notechis_scutatus_C9A
+NW_020716626.1	miniprot	CDS	11138961	11139037	109	-	0	Parent=Notechis_scutatus_C9A;Rank=1;Identity=0.8846;Target=Pantherophis_obsoletus_C9A_1 1 25
+NW_020716626.1	miniprot	CDS	11137697	11137790	162	-	1	Parent=Notechis_scutatus_C9A;Rank=1;Identity=0.8710;Target=Pantherophis_obsoletus_C9A_1 26 57
+NW_020716626.1	miniprot	CDS	11133044	11133191	212	-	0	Parent=Notechis_scutatus_C9A;Rank=1;Identity=0.7400;Target=Pantherophis_obsoletus_C9A_1 58 106
+NW_020716626.1	miniprot	CDS	11131978	11132125	258	-	2	Parent=Notechis_scutatus_C9A;Rank=1;Identity=0.8980;Target=Pantherophis_obsoletus_C9A_1 107 155
+NW_020716626.1	miniprot	CDS	11127585	11127723	240	-	1	Parent=Notechis_scutatus_C9A;Rank=1;Identity=0.9348;Target=Pantherophis_obsoletus_C9A_1 156 202
+NW_020716626.1	miniprot	CDS	11125140	11125352	299	-	0	Parent=Notechis_scutatus_C9A;Rank=1;Identity=0.8310;Target=Pantherophis_obsoletus_C9A_1 203 273
+NW_020716626.1	miniprot	CDS	11120958	11121198	389	-	0	Parent=Notechis_scutatus_C9A;Rank=1;Identity=0.9136;Target=Pantherophis_obsoletus_C9A_1 274 353
+NW_020716626.1	miniprot	CDS	11111389	11111517	154	-	2	Parent=Notechis_scutatus_C9A;Rank=1;Identity=0.7442;Target=Pantherophis_obsoletus_C9A_1 354 395
+NW_020716626.1	miniprot	CDS	11109676	11109857	252	-	2	Parent=Notechis_scutatus_C9A;Rank=1;Identity=0.8167;Target=Pantherophis_obsoletus_C9A_1 396 456
+NW_020716626.1	miniprot	CDS	11108201	11108429	367	-	0	Parent=Notechis_scutatus_C9A;Rank=1;Identity=0.8701;Target=Pantherophis_obsoletus_C9A_1 457 532
+NW_020716626.1	miniprot	CDS	11106491	11106645	273	-	2	Parent=Notechis_scutatus_C9A;Rank=1;Identity=0.9000;Target=Pantherophis_obsoletus_C9A_1 533 583
+NW_020716626.1	miniprot	stop_codon	11106491	11106493	0	-	0	Parent=Notechis_scutatus_C9A;Rank=1
+NW_020716626.1	miniprot	mRNA	11074675	11083110	1222	-	.	ID=Notechis_scutatus_C9B;Rank=1;Identity=0.7175;Positive=0.8312;Target=Pantherophis_obsoletus_C9A_1 276 583;Name=Notechis_scutatus_C9B
+NW_020716626.1	miniprot	CDS	11082876	11083110	355	-	0	Parent=Notechis_scutatus_C9B;Rank=1;Identity=0.8354;Target=Pantherophis_obsoletus_C9A_1 276 353
+NW_020716626.1	miniprot	CDS	11080567	11080692	86	-	2	Parent=Notechis_scutatus_C9B;Rank=1;Identity=0.4286;Target=Pantherophis_obsoletus_C9A_1 354 395
+NW_020716626.1	miniprot	CDS	11077160	11077341	227	-	2	Parent=Notechis_scutatus_C9B;Rank=1;Identity=0.7167;Target=Pantherophis_obsoletus_C9A_1 396 456
+NW_020716626.1	miniprot	CDS	11075726	11075954	336	-	0	Parent=Notechis_scutatus_C9B;Rank=1;Identity=0.7792;Target=Pantherophis_obsoletus_C9A_1 457 532
+NW_020716626.1	miniprot	CDS	11074675	11074829	218	-	2	Parent=Notechis_scutatus_C9B;Rank=1;Identity=0.6800;Target=Pantherophis_obsoletus_C9A_1 533 583
+NW_020716626.1	miniprot	stop_codon	11074675	11074677	0	-	0	Parent=Notechis_scutatus_C9B;Rank=1

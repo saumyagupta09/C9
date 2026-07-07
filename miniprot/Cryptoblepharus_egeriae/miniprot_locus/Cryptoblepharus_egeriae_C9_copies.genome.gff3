@@ -1,0 +1,14 @@
+##gff-version 3
+CM123735.1	miniprot	mRNA	217091079	217103569	2014	+	.	ID=Cryptoblepharus_egeriae_C9A;Rank=1;Identity=0.5987;Positive=0.7690;Target=Anolis_carolinensis_C9A_1 1 591;Name=Cryptoblepharus_egeriae_C9A
+CM123735.1	miniprot	CDS	217091079	217091155	49	+	0	Parent=Cryptoblepharus_egeriae_C9A;Rank=1;Identity=0.4615;Target=Anolis_carolinensis_C9A_1 1 25
+CM123735.1	miniprot	CDS	217092274	217092367	140	+	1	Parent=Cryptoblepharus_egeriae_C9A;Rank=1;Identity=0.6774;Target=Anolis_carolinensis_C9A_1 26 57
+CM123735.1	miniprot	CDS	217093043	217093187	208	+	0	Parent=Cryptoblepharus_egeriae_C9A;Rank=1;Identity=0.7143;Target=Anolis_carolinensis_C9A_1 58 105
+CM123735.1	miniprot	CDS	217093582	217093735	178	+	2	Parent=Cryptoblepharus_egeriae_C9A;Rank=1;Identity=0.6667;Target=Anolis_carolinensis_C9A_1 106 154
+CM123735.1	miniprot	CDS	217094843	217094981	232	+	1	Parent=Cryptoblepharus_egeriae_C9A;Rank=1;Identity=0.8478;Target=Anolis_carolinensis_C9A_1 155 201
+CM123735.1	miniprot	CDS	217096852	217097070	152	+	0	Parent=Cryptoblepharus_egeriae_C9A;Rank=1;Identity=0.4079;Target=Anolis_carolinensis_C9A_1 202 277
+CM123735.1	miniprot	CDS	217098714	217098954	309	+	0	Parent=Cryptoblepharus_egeriae_C9A;Rank=1;Identity=0.7037;Target=Anolis_carolinensis_C9A_1 278 357
+CM123735.1	miniprot	CDS	217099316	217099438	76	+	2	Parent=Cryptoblepharus_egeriae_C9A;Rank=1;Identity=0.3333;Target=Anolis_carolinensis_C9A_1 358 399
+CM123735.1	miniprot	CDS	217100836	217101017	175	+	2	Parent=Cryptoblepharus_egeriae_C9A;Rank=1;Identity=0.5333;Target=Anolis_carolinensis_C9A_1 400 460
+CM123735.1	miniprot	CDS	217101565	217101793	296	+	0	Parent=Cryptoblepharus_egeriae_C9A;Rank=1;Identity=0.6623;Target=Anolis_carolinensis_C9A_1 461 536
+CM123735.1	miniprot	CDS	217103403	217103569	199	+	2	Parent=Cryptoblepharus_egeriae_C9A;Rank=1;Identity=0.5370;Target=Anolis_carolinensis_C9A_1 537 591
+CM123735.1	miniprot	stop_codon	217103567	217103569	0	+	0	Parent=Cryptoblepharus_egeriae_C9A;Rank=1

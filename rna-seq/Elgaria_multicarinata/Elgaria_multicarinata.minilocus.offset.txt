@@ -1,0 +1,8 @@
+species	Elgaria_multicarinata
+clade	Anguimorpha
+scaffold	NC_086176.1
+window	NC_086176.1:98387970-98535179
+offset	98387969
+new_seqname	Elgaria_multicarinata_C9locus
+length	147210
+note	genomic_pos = local_pos + offset

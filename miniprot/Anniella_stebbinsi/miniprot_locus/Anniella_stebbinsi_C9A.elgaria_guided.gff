@@ -1,0 +1,14 @@
+##gff-version 3
+##PAF	Elgaria_C9A	626	0	626	+	CM119773.1	367818741	344580502	344616391	1542	1941	0	AS:i:2455	ms:i:2804	np:i:570	fs:i:0	st:i:1	da:i:0	do:i:96	cg:Z:22M2195V31M7112N48M1590U48M3043V46M3039N70M21D49M7930N80M952U39M2188U60M4745N76M1172U51M	cs:Z::22*agR~gt2192ag-g:1*ccaT:1*gaaQ:3*ccaL:10*ggcS:6*cccS:1*agaA:3~gt7112ag:7*aacK*tttY:8*ctgV:5*caaR:1*agaS:3*gagD:7*gctV:3*aaaN:6*gG~gt1587ag-ga:3*cagK*aatS:12*ttcV:18*cttI:4*atgI:6*ggG~gt3040ag-t:8*aggK*gcaG*agaS*gcgP:1*tacH:6*cgcV:7*catN:3*ttcY:2*cagK:4*ggaA:5~gt3039ag:10*tccD*tttY:4*tcaT:3*caaH:1*tacF*aacS:2*gaaD:11*aatS:8*acgA*tcaP:2*gagD:1*aaaG*gagD*gcgV:4*tcgA:1*atgT:1*gagD:2*ttgA:2-gagacggaagaggcagccgcgttgccttcggagatggaagaggcagccgcgccgctttcggag*acgP:1*gagG:1*gccD:2*catA*tcaA:6*gggK*accV:1*gctV:4*gcaG:1*aatR:2*ctaF:14*aaaE:4*cagK~gt7930ag:1*cgaQ*ctaV:11*acaN:22*attS:3*aaaR:4*gcaT:3*ttgM:7*aggK:2*ctcV:2*acaR:13*agaK:1*gG~gt949ag-ga:2*gctT:10*ttaI:1*tttV:1*atgI*gatA:2*gctS:1*actI:1*caaE:1*ggaR:1*cgtN:2*aaaN:1*gaaG*ggaR:1*ataT*aaaH*gG~gt2185ag-gt*gacE*tccT:3*aatK:3*aatH:6*caaE:16*ggcD:3*gttI:5*atcV:5*ctcV:10~gt4745ag:4*gctS:8*gccD*gctS:1*ataL:6*gaaQ:23*atgI:4*aagR:20*attL*caaR*gcaP*gG~gt1169ag-gt:1*ttaV:6*aacS:6*cagS:1*gacE:3*cgcH:18*acaA:1*gcaE:8
+CM119773.1	miniprot	mRNA	344580503	344616391	2804	+	.	ID=MP000001;Rank=1;Identity=0.7944;Positive=0.8810;StopCodon=1;Target=Elgaria_C9A 1 626
+CM119773.1	miniprot	CDS	344580503	344580570	112	+	0	Parent=MP000001;Rank=1;Identity=1.0000;Target=Elgaria_C9A 1 22
+CM119773.1	miniprot	CDS	344582763	344582856	146	+	1	Parent=MP000001;Rank=1;Identity=0.8065;Target=Elgaria_C9A 23 54
+CM119773.1	miniprot	CDS	344589969	344590113	246	+	0	Parent=MP000001;Rank=1;Identity=0.8367;Target=Elgaria_C9A 55 102
+CM119773.1	miniprot	CDS	344591701	344591848	254	+	2	Parent=MP000001;Rank=1;Identity=0.8980;Target=Elgaria_C9A 103 151
+CM119773.1	miniprot	CDS	344594889	344595027	209	+	1	Parent=MP000001;Rank=1;Identity=0.7826;Target=Elgaria_C9A 152 198
+CM119773.1	miniprot	CDS	344598067	344598486	406	+	0	Parent=MP000001;Rank=1;Identity=0.6286;Target=Elgaria_C9A 199 317
+CM119773.1	miniprot	CDS	344606417	344606657	385	+	0	Parent=MP000001;Rank=1;Identity=0.8642;Target=Elgaria_C9A 318 397
+CM119773.1	miniprot	CDS	344607607	344607726	134	+	2	Parent=MP000001;Rank=1;Identity=0.6250;Target=Elgaria_C9A 398 437
+CM119773.1	miniprot	CDS	344609912	344610093	265	+	2	Parent=MP000001;Rank=1;Identity=0.8500;Target=Elgaria_C9A 438 498
+CM119773.1	miniprot	CDS	344614839	344615067	381	+	0	Parent=MP000001;Rank=1;Identity=0.8701;Target=Elgaria_C9A 499 574
+CM119773.1	miniprot	CDS	344616237	344616391	266	+	2	Parent=MP000001;Rank=1;Identity=0.8627;StopCodon=1;Target=Elgaria_C9A 575 626

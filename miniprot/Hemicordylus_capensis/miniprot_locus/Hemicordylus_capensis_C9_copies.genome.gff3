@@ -1,0 +1,13 @@
+##gff-version 3
+NC_069658.1	miniprot	mRNA	27975210	28002173	1916	-	.	ID=Hemicordylus_capensis_C9A;Rank=1;Identity=0.5832;Positive=0.7311;Target=Anolis_carolinensis_C9A_1 1 591;Name=Hemicordylus_capensis_C9A
+NC_069658.1	miniprot	CDS	28002018	28002173	114	-	0	Parent=Hemicordylus_capensis_C9A;Rank=1;Identity=0.4211;Target=Anolis_carolinensis_C9A_1 1 57
+NC_069658.1	miniprot	CDS	27999115	27999271	189	-	0	Parent=Hemicordylus_capensis_C9A;Rank=1;Identity=0.6981;Target=Anolis_carolinensis_C9A_1 58 105
+NC_069658.1	miniprot	CDS	27993559	27993706	199	-	2	Parent=Hemicordylus_capensis_C9A;Rank=1;Identity=0.7143;Target=Anolis_carolinensis_C9A_1 106 154
+NC_069658.1	miniprot	CDS	27990929	27991067	229	-	1	Parent=Hemicordylus_capensis_C9A;Rank=1;Identity=0.8261;Target=Anolis_carolinensis_C9A_1 155 201
+NC_069658.1	miniprot	CDS	27987278	27987502	126	-	0	Parent=Hemicordylus_capensis_C9A;Rank=1;Identity=0.3947;Target=Anolis_carolinensis_C9A_1 202 277
+NC_069658.1	miniprot	CDS	27985075	27985315	312	-	0	Parent=Hemicordylus_capensis_C9A;Rank=1;Identity=0.6914;Target=Anolis_carolinensis_C9A_1 278 357
+NC_069658.1	miniprot	CDS	27979802	27979927	60	-	2	Parent=Hemicordylus_capensis_C9A;Rank=1;Identity=0.2857;Target=Anolis_carolinensis_C9A_1 358 399
+NC_069658.1	miniprot	CDS	27979031	27979212	172	-	2	Parent=Hemicordylus_capensis_C9A;Rank=1;Identity=0.5167;Target=Anolis_carolinensis_C9A_1 400 460
+NC_069658.1	miniprot	CDS	27975874	27976102	326	-	0	Parent=Hemicordylus_capensis_C9A;Rank=1;Identity=0.7013;Target=Anolis_carolinensis_C9A_1 461 536
+NC_069658.1	miniprot	CDS	27975210	27975376	189	-	2	Parent=Hemicordylus_capensis_C9A;Rank=1;Identity=0.5556;Target=Anolis_carolinensis_C9A_1 537 591
+NC_069658.1	miniprot	stop_codon	27975210	27975212	0	-	0	Parent=Hemicordylus_capensis_C9A;Rank=1

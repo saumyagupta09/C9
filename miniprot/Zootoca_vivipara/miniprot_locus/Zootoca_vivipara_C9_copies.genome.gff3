@@ -1,0 +1,13 @@
+##gff-version 3
+NC_083286.1	miniprot	mRNA	45990976	46006499	2003	+	.	ID=Zootoca_vivipara_C9A;Rank=1;Identity=0.6061;Positive=0.7589;Target=Anolis_carolinensis_C9A_1 1 589;Name=Zootoca_vivipara_C9A
+NC_083286.1	miniprot	CDS	45990976	45991052	13	+	0	Parent=Zootoca_vivipara_C9A;Rank=1;Identity=0.3429;Target=Anolis_carolinensis_C9A_1 1 34
+NC_083286.1	miniprot	CDS	45992042	45992108	116	+	1	Parent=Zootoca_vivipara_C9A;Rank=1;Identity=0.8182;Target=Anolis_carolinensis_C9A_1 35 57
+NC_083286.1	miniprot	CDS	45994202	45994346	203	+	0	Parent=Zootoca_vivipara_C9A;Rank=1;Identity=0.6735;Target=Anolis_carolinensis_C9A_1 58 105
+NC_083286.1	miniprot	CDS	45995078	45995225	199	+	2	Parent=Zootoca_vivipara_C9A;Rank=1;Identity=0.7143;Target=Anolis_carolinensis_C9A_1 106 154
+NC_083286.1	miniprot	CDS	45996360	45996498	225	+	1	Parent=Zootoca_vivipara_C9A;Rank=1;Identity=0.8261;Target=Anolis_carolinensis_C9A_1 155 201
+NC_083286.1	miniprot	CDS	45998356	45998580	149	+	0	Parent=Zootoca_vivipara_C9A;Rank=1;Identity=0.4211;Target=Anolis_carolinensis_C9A_1 202 277
+NC_083286.1	miniprot	CDS	46001194	46001434	309	+	0	Parent=Zootoca_vivipara_C9A;Rank=1;Identity=0.6790;Target=Anolis_carolinensis_C9A_1 278 357
+NC_083286.1	miniprot	CDS	46002005	46002130	92	+	2	Parent=Zootoca_vivipara_C9A;Rank=1;Identity=0.4048;Target=Anolis_carolinensis_C9A_1 358 399
+NC_083286.1	miniprot	CDS	46002867	46003048	184	+	2	Parent=Zootoca_vivipara_C9A;Rank=1;Identity=0.5500;Target=Anolis_carolinensis_C9A_1 400 460
+NC_083286.1	miniprot	CDS	46005029	46005257	329	+	0	Parent=Zootoca_vivipara_C9A;Rank=1;Identity=0.7013;Target=Anolis_carolinensis_C9A_1 461 536
+NC_083286.1	miniprot	CDS	46006345	46006499	184	+	2	Parent=Zootoca_vivipara_C9A;Rank=1;Identity=0.5769;Target=Anolis_carolinensis_C9A_1 537 589

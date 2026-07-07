@@ -1,0 +1,8 @@
+species	Arizona_elegans
+clade	Colubridae
+scaffold	JAKOOJ010000008.1
+window	JAKOOJ010000008.1:76546805-76776919
+offset	76546804
+new_seqname	Arizona_elegans_C9locus
+length	230115
+note	genomic_pos = local_pos + offset

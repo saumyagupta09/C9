@@ -1,0 +1,13 @@
+##gff-version 3
+JANUYF010000002.1	miniprot	mRNA	34086913	34120443	2348	-	.	ID=Phrynosoma_blainvillii_C9A;Rank=1;Identity=0.7090;Positive=0.8359;Target=Anolis_carolinensis_C9A_1 1 591;Name=Phrynosoma_blainvillii_C9A
+JANUYF010000002.1	miniprot	CDS	34120367	34120443	74	-	0	Parent=Phrynosoma_blainvillii_C9A;Rank=1;Identity=0.5769;Target=Anolis_carolinensis_C9A_1 1 25
+JANUYF010000002.1	miniprot	CDS	34114059	34114152	158	-	1	Parent=Phrynosoma_blainvillii_C9A;Rank=1;Identity=0.7742;Target=Anolis_carolinensis_C9A_1 26 57
+JANUYF010000002.1	miniprot	CDS	34112104	34112248	231	-	0	Parent=Phrynosoma_blainvillii_C9A;Rank=1;Identity=0.7755;Target=Anolis_carolinensis_C9A_1 58 105
+JANUYF010000002.1	miniprot	CDS	34109931	34110078	224	-	2	Parent=Phrynosoma_blainvillii_C9A;Rank=1;Identity=0.8367;Target=Anolis_carolinensis_C9A_1 106 154
+JANUYF010000002.1	miniprot	CDS	34105982	34106120	198	-	1	Parent=Phrynosoma_blainvillii_C9A;Rank=1;Identity=0.7391;Target=Anolis_carolinensis_C9A_1 155 201
+JANUYF010000002.1	miniprot	CDS	34103135	34103362	225	-	0	Parent=Phrynosoma_blainvillii_C9A;Rank=1;Identity=0.6184;Target=Anolis_carolinensis_C9A_1 202 277
+JANUYF010000002.1	miniprot	CDS	34100601	34100841	352	-	0	Parent=Phrynosoma_blainvillii_C9A;Rank=1;Identity=0.8148;Target=Anolis_carolinensis_C9A_1 278 357
+JANUYF010000002.1	miniprot	CDS	34096181	34096306	101	-	2	Parent=Phrynosoma_blainvillii_C9A;Rank=1;Identity=0.3810;Target=Anolis_carolinensis_C9A_1 358 399
+JANUYF010000002.1	miniprot	CDS	34091944	34092125	221	-	2	Parent=Phrynosoma_blainvillii_C9A;Rank=1;Identity=0.6833;Target=Anolis_carolinensis_C9A_1 400 460
+JANUYF010000002.1	miniprot	CDS	34089463	34089691	343	-	0	Parent=Phrynosoma_blainvillii_C9A;Rank=1;Identity=0.7922;Target=Anolis_carolinensis_C9A_1 461 536
+JANUYF010000002.1	miniprot	CDS	34086913	34087076	221	-	2	Parent=Phrynosoma_blainvillii_C9A;Rank=1;Identity=0.6667;Target=Anolis_carolinensis_C9A_1 537 591

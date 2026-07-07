@@ -1,0 +1,6 @@
+Whole-chromosome miniprot run.
+Query (input): ../../QUERY_ashu_C9_prot.faa (curated C9 proteins)
+Target (input): genome assembly = /media/ashutosh/disk3/Open_seminar/C9_related/Squamata/Squamata_genomes/genome_dir/Xantusia_vigilis/GCA_051940855.1_ASM5194085v1_genomic.fna
+Output: Xantusia_vigilis.gff (gene model, genome coords)
+Command: miniprot -t4 --gff <genome.fa> ashu_C9_prot.fa > Xantusia_vigilis.gff
+IGV: load the genome assembly above + Xantusia_vigilis.gff

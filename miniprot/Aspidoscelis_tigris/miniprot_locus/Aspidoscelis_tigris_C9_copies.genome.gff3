@@ -1,0 +1,13 @@
+##gff-version 3
+CM131961.1	miniprot	mRNA	63654867	63668019	1910	+	.	ID=Aspidoscelis_tigris_C9A;Rank=1;Identity=0.5972;Positive=0.7527;Target=Anolis_carolinensis_C9A_1 26 591;Name=Aspidoscelis_tigris_C9A
+CM131961.1	miniprot	CDS	63654867	63654962	124	+	0	Parent=Aspidoscelis_tigris_C9A;Rank=1;Identity=0.5625;Target=Anolis_carolinensis_C9A_1 26 57
+CM131961.1	miniprot	CDS	63655599	63655743	183	+	0	Parent=Aspidoscelis_tigris_C9A;Rank=1;Identity=0.6531;Target=Anolis_carolinensis_C9A_1 58 105
+CM131961.1	miniprot	CDS	63657498	63657645	195	+	2	Parent=Aspidoscelis_tigris_C9A;Rank=1;Identity=0.6939;Target=Anolis_carolinensis_C9A_1 106 154
+CM131961.1	miniprot	CDS	63658366	63658504	221	+	1	Parent=Aspidoscelis_tigris_C9A;Rank=1;Identity=0.8261;Target=Anolis_carolinensis_C9A_1 155 201
+CM131961.1	miniprot	CDS	63659729	63659941	73	+	0	Parent=Aspidoscelis_tigris_C9A;Rank=1;Identity=0.3289;Target=Anolis_carolinensis_C9A_1 202 277
+CM131961.1	miniprot	CDS	63660932	63661172	295	+	0	Parent=Aspidoscelis_tigris_C9A;Rank=1;Identity=0.6543;Target=Anolis_carolinensis_C9A_1 278 357
+CM131961.1	miniprot	CDS	63662587	63662712	83	+	2	Parent=Aspidoscelis_tigris_C9A;Rank=1;Identity=0.3571;Target=Anolis_carolinensis_C9A_1 358 399
+CM131961.1	miniprot	CDS	63665275	63665456	198	+	2	Parent=Aspidoscelis_tigris_C9A;Rank=1;Identity=0.6000;Target=Anolis_carolinensis_C9A_1 400 460
+CM131961.1	miniprot	CDS	63666407	63666635	325	+	0	Parent=Aspidoscelis_tigris_C9A;Rank=1;Identity=0.7013;Target=Anolis_carolinensis_C9A_1 461 536
+CM131961.1	miniprot	CDS	63667853	63668019	213	+	2	Parent=Aspidoscelis_tigris_C9A;Rank=1;Identity=0.6111;Target=Anolis_carolinensis_C9A_1 537 591
+CM131961.1	miniprot	stop_codon	63668017	63668019	0	+	0	Parent=Aspidoscelis_tigris_C9A;Rank=1

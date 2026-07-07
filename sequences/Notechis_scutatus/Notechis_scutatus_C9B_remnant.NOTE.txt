@@ -1,0 +1,18 @@
+REMNANT copy (5'-truncated): only the C-terminal exons 7-11 are present (309 aa,
+927 nt, in-frame, 0 internal stops, proper stop; C-terminal MACPF tail + EGF/TSP1
+domains). The N-terminal exons 1-6 are GENUINELY DELETED, not an assembly artifact:
+  - locus NW_020716626.1:11074675-11083118 (8.4 kb; C9A copy = 32.5 kb);
+  - gap-free (0 N's), contig 15,061,227 bp -> not a contig-end artifact;
+  - locus-anchored miniprot finds only 5 exons (7-11: lens 235 126 182 229 155);
+  - ashu_C9A blastn shows C9 homology only from q~818 (exon 7) onward;
+  - tblastn: no full gene at the locus.
+
+IMPORTANT: the previous "Notechis_scutatus C9B" (11 exons, intact_ORF) in this
+folder and in results/v2_ashu_C9A/parsed/master_copies.tsv was a CHIMERA -- exons
+1-6 were borrowed from the adjacent near-identical C9A paralog during extraction.
+The chimeric files were replaced by this genuine remnant (originals kept as
+*.CHIMERA.bak).
+
+NOT a complete C9 ORF; flagged remnant for completeness. Notechis_scutatus =
+functional single-copy C9A + degenerate C-terminal C9B remnant (duplication-then-
+degeneration via 5' truncation; cf. Protobothrops C9B). See CORRECTION_LOG.md.

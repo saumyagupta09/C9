@@ -1,0 +1,19 @@
+PSEUDOGENE (full-length, disrupted): all 11 exons are present at the locus
+(CM019149.1:286437941-286456160, 18.2 kb, gap-free 0 N's, chromosome-level
+contig 309,871,788 bp), but the ORF is broken — it translates cleanly for the
+N-terminal ~250 aa, then 25 internal stop codons plus a frameshift (CDS = 1747 nt,
+not divisible by 3) degrade the C-terminal half.
+
+This is a GENUINE full-length C9 duplicate that has pseudogenized — NOT a chimera
+and NOT a truncation. Confirmed:
+  - locus-anchored miniprot reconstructs all 11 exons (77 94 148 148 139 213 237
+    126 182 228 155);
+  - ashu_C9A blastn maps every exon across the locus (q1-78 ... q1595-1752);
+  - tblastn consistent; locus is fully assembled (0 N's).
+
+NOT a functional ORF; kept as a flagged pseudogene. Naja_naja = functional
+single-copy C9A + this full-length C9B pseudogene (duplication-then-pseudogenization
+via internal stops; cf. Protobothrops/Notechis C9B = 5' truncation). Optional SRA
+read-level check could confirm the stops are genomic vs assembly, but the gap-free
+locus + partially-intact ORF make a real pseudogene the strong conclusion.
+See CORRECTION_LOG.md, METHODS_AND_RESULTS.md sec 4f.

@@ -1,0 +1,13 @@
+##gff-version 3
+NW_006536677.1	miniprot	mRNA	83373	100459	2357	-	.	ID=Python_bivittatus_C9A;Rank=1;Identity=0.7545;Positive=0.8584;Target=Pantherophis_obsoletus_C9A_1 26 583;Name=Python_bivittatus_C9A
+NW_006536677.1	miniprot	CDS	100364	100459	166	-	0	Parent=Python_bivittatus_C9A;Rank=1;Identity=0.8750;Target=Pantherophis_obsoletus_C9A_1 26 57
+NW_006536677.1	miniprot	CDS	99372	99519	188	-	0	Parent=Python_bivittatus_C9A;Rank=1;Identity=0.6400;Target=Pantherophis_obsoletus_C9A_1 58 106
+NW_006536677.1	miniprot	CDS	98328	98475	242	-	2	Parent=Python_bivittatus_C9A;Rank=1;Identity=0.8367;Target=Pantherophis_obsoletus_C9A_1 107 155
+NW_006536677.1	miniprot	CDS	96410	96548	221	-	1	Parent=Python_bivittatus_C9A;Rank=1;Identity=0.8478;Target=Pantherophis_obsoletus_C9A_1 156 202
+NW_006536677.1	miniprot	CDS	94865	95077	231	-	0	Parent=Python_bivittatus_C9A;Rank=1;Identity=0.6338;Target=Pantherophis_obsoletus_C9A_1 203 273
+NW_006536677.1	miniprot	CDS	92328	92568	372	-	0	Parent=Python_bivittatus_C9A;Rank=1;Identity=0.8519;Target=Pantherophis_obsoletus_C9A_1 274 353
+NW_006536677.1	miniprot	CDS	87797	87922	149	-	2	Parent=Python_bivittatus_C9A;Rank=1;Identity=0.6667;Target=Pantherophis_obsoletus_C9A_1 354 395
+NW_006536677.1	miniprot	CDS	86734	86915	243	-	2	Parent=Python_bivittatus_C9A;Rank=1;Identity=0.7667;Target=Pantherophis_obsoletus_C9A_1 396 456
+NW_006536677.1	miniprot	CDS	84921	85149	345	-	0	Parent=Python_bivittatus_C9A;Rank=1;Identity=0.7792;Target=Pantherophis_obsoletus_C9A_1 457 532
+NW_006536677.1	miniprot	CDS	83373	83524	200	-	2	Parent=Python_bivittatus_C9A;Rank=1;Identity=0.6600;Target=Pantherophis_obsoletus_C9A_1 533 583
+NW_006536677.1	miniprot	stop_codon	83373	83375	0	-	0	Parent=Python_bivittatus_C9A;Rank=1

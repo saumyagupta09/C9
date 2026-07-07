@@ -1,0 +1,4 @@
+##gff-version 3
+JAHWGE010677461.1	miniprot	mRNA	133	1216	266	+	.	ID=Chrysopelea_ornata_C9A;Rank=1;Identity=0.7143;Positive=0.7571;Target=Pantherophis_obsoletus_C9A_1 1 70;Name=Chrysopelea_ornata_C9A
+JAHWGE010677461.1	miniprot	CDS	133	209	111	+	0	Parent=Chrysopelea_ornata_C9A;Rank=1;Identity=0.9231;Target=Pantherophis_obsoletus_C9A_1 1 25
+JAHWGE010677461.1	miniprot	CDS	1084	1216	155	+	1	Parent=Chrysopelea_ornata_C9A;Rank=1;Identity=0.5909;Target=Pantherophis_obsoletus_C9A_1 26 70

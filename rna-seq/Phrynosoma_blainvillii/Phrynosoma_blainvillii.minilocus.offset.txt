@@ -1,0 +1,8 @@
+species	Phrynosoma_blainvillii
+clade	Iguania
+scaffold	JANUYF010000002.1
+window	JANUYF010000002.1:34008419-34170652
+offset	34008418
+new_seqname	Phrynosoma_blainvillii_C9locus
+length	162234
+note	genomic_pos = local_pos + offset

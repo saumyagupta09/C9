@@ -1,0 +1,27 @@
+##gff-version 3
+CM042834.1	miniprot	mRNA	256284623	256317658	2616	+	.	ID=Bungarus_multicinctus_C9A;Rank=1;Identity=0.8151;Positive=0.8921;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Bungarus_multicinctus_C9A
+CM042834.1	miniprot	CDS	256284623	256284699	99	+	0	Parent=Bungarus_multicinctus_C9A;Rank=1;Identity=0.8077;Target=Pantherophis_obsoletus_C9A_1 1 25
+CM042834.1	miniprot	CDS	256285912	256286005	150	+	1	Parent=Bungarus_multicinctus_C9A;Rank=1;Identity=0.7742;Target=Pantherophis_obsoletus_C9A_1 26 57
+CM042834.1	miniprot	CDS	256289865	256290012	210	+	0	Parent=Bungarus_multicinctus_C9A;Rank=1;Identity=0.7600;Target=Pantherophis_obsoletus_C9A_1 58 106
+CM042834.1	miniprot	CDS	256290943	256291090	252	+	2	Parent=Bungarus_multicinctus_C9A;Rank=1;Identity=0.8571;Target=Pantherophis_obsoletus_C9A_1 107 155
+CM042834.1	miniprot	CDS	256293129	256293267	228	+	1	Parent=Bungarus_multicinctus_C9A;Rank=1;Identity=0.8696;Target=Pantherophis_obsoletus_C9A_1 156 202
+CM042834.1	miniprot	CDS	256302904	256303116	301	+	0	Parent=Bungarus_multicinctus_C9A;Rank=1;Identity=0.8028;Target=Pantherophis_obsoletus_C9A_1 203 273
+CM042834.1	miniprot	CDS	256306999	256307239	396	+	0	Parent=Bungarus_multicinctus_C9A;Rank=1;Identity=0.9136;Target=Pantherophis_obsoletus_C9A_1 274 353
+CM042834.1	miniprot	CDS	256310201	256310329	101	+	2	Parent=Bungarus_multicinctus_C9A;Rank=1;Identity=0.5349;Target=Pantherophis_obsoletus_C9A_1 354 395
+CM042834.1	miniprot	CDS	256313311	256313492	255	+	2	Parent=Bungarus_multicinctus_C9A;Rank=1;Identity=0.8000;Target=Pantherophis_obsoletus_C9A_1 396 456
+CM042834.1	miniprot	CDS	256314734	256314962	357	+	0	Parent=Bungarus_multicinctus_C9A;Rank=1;Identity=0.8312;Target=Pantherophis_obsoletus_C9A_1 457 532
+CM042834.1	miniprot	CDS	256317504	256317658	267	+	2	Parent=Bungarus_multicinctus_C9A;Rank=1;Identity=0.9000;Target=Pantherophis_obsoletus_C9A_1 533 583
+CM042834.1	miniprot	stop_codon	256317656	256317658	0	+	0	Parent=Bungarus_multicinctus_C9A;Rank=1
+CM042834.1	miniprot	mRNA	256345147	256367505	2333	+	.	ID=Bungarus_multicinctus_C9B;Rank=1;Identity=0.7273;Positive=0.8319;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Bungarus_multicinctus_C9B
+CM042834.1	miniprot	CDS	256345147	256345223	92	+	0	Parent=Bungarus_multicinctus_C9B;Rank=1;Identity=0.7308;Target=Pantherophis_obsoletus_C9A_1 1 25
+CM042834.1	miniprot	CDS	256346294	256346387	136	+	1	Parent=Bungarus_multicinctus_C9B;Rank=1;Identity=0.7097;Target=Pantherophis_obsoletus_C9A_1 26 57
+CM042834.1	miniprot	CDS	256347425	256347572	243	+	0	Parent=Bungarus_multicinctus_C9B;Rank=1;Identity=0.8600;Target=Pantherophis_obsoletus_C9A_1 58 106
+CM042834.1	miniprot	CDS	256349155	256349302	247	+	2	Parent=Bungarus_multicinctus_C9B;Rank=1;Identity=0.8571;Target=Pantherophis_obsoletus_C9A_1 107 155
+CM042834.1	miniprot	CDS	256354330	256354468	212	+	1	Parent=Bungarus_multicinctus_C9B;Rank=1;Identity=0.8261;Target=Pantherophis_obsoletus_C9A_1 156 202
+CM042834.1	miniprot	CDS	256355907	256356119	177	+	0	Parent=Bungarus_multicinctus_C9B;Rank=1;Identity=0.5070;Target=Pantherophis_obsoletus_C9A_1 203 273
+CM042834.1	miniprot	CDS	256358657	256358897	358	+	0	Parent=Bungarus_multicinctus_C9B;Rank=1;Identity=0.8272;Target=Pantherophis_obsoletus_C9A_1 274 353
+CM042834.1	miniprot	CDS	256361041	256361166	87	+	2	Parent=Bungarus_multicinctus_C9B;Rank=1;Identity=0.4286;Target=Pantherophis_obsoletus_C9A_1 354 395
+CM042834.1	miniprot	CDS	256364881	256365062	225	+	2	Parent=Bungarus_multicinctus_C9B;Rank=1;Identity=0.7333;Target=Pantherophis_obsoletus_C9A_1 396 456
+CM042834.1	miniprot	CDS	256366207	256366435	347	+	0	Parent=Bungarus_multicinctus_C9B;Rank=1;Identity=0.8182;Target=Pantherophis_obsoletus_C9A_1 457 532
+CM042834.1	miniprot	CDS	256367351	256367505	209	+	2	Parent=Bungarus_multicinctus_C9B;Rank=1;Identity=0.6400;Target=Pantherophis_obsoletus_C9A_1 533 583
+CM042834.1	miniprot	stop_codon	256367503	256367505	0	+	0	Parent=Bungarus_multicinctus_C9B;Rank=1

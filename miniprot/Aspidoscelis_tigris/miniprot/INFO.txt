@@ -1,0 +1,6 @@
+Whole-chromosome miniprot run.
+Query (input): ../../QUERY_ashu_C9_prot.faa (curated C9 proteins)
+Target (input): genome assembly = /media/ashutosh/disk3/Open_seminar/C9_related/Squamata/Squamata_genomes/genome_dir/Aspidoscelis_tigris/GCA_053574215.1_AspTig2.0_genomic.fna
+Output: Aspidoscelis_tigris.gff (gene model, genome coords)
+Command: miniprot -t4 --gff <genome.fa> ashu_C9_prot.fa > Aspidoscelis_tigris.gff
+IGV: load the genome assembly above + Aspidoscelis_tigris.gff

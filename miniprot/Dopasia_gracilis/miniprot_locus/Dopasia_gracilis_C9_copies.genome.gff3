@@ -1,0 +1,14 @@
+##gff-version 3
+CM125122.1	miniprot	mRNA	23116618	23142940	1999	-	.	ID=Dopasia_gracilis_C9A;Rank=1;Identity=0.6245;Positive=0.7655;Frameshift=3;Target=Anolis_carolinensis_C9A_1 1 587;Name=Dopasia_gracilis_C9A
+CM125122.1	miniprot	CDS	23142873	23142940	33	-	0	Parent=Dopasia_gracilis_C9A;Rank=1;Identity=0.4231;Target=Anolis_carolinensis_C9A_1 1 25
+CM125122.1	miniprot	CDS	23140613	23140706	123	-	1	Parent=Dopasia_gracilis_C9A;Rank=1;Identity=0.6774;Target=Anolis_carolinensis_C9A_1 26 57
+CM125122.1	miniprot	CDS	23135494	23135637	189	-	0	Parent=Dopasia_gracilis_C9A;Rank=1;Identity=0.7347;Frameshift=1;Target=Anolis_carolinensis_C9A_1 58 105
+CM125122.1	miniprot	CDS	23133064	23133211	241	-	2	Parent=Dopasia_gracilis_C9A;Rank=1;Identity=0.8367;Target=Anolis_carolinensis_C9A_1 106 154
+CM125122.1	miniprot	CDS	23130145	23130283	225	-	1	Parent=Dopasia_gracilis_C9A;Rank=1;Identity=0.8043;Target=Anolis_carolinensis_C9A_1 155 201
+CM125122.1	miniprot	CDS	23128116	23128273	81	-	0	Parent=Dopasia_gracilis_C9A;Rank=1;Identity=0.4671;Frameshift=1;Target=Anolis_carolinensis_C9A_1 202 248
+CM125122.1	miniprot	CDS	23127894	23127980	47	-	0	Parent=Dopasia_gracilis_C9A;Rank=1;Identity=0.3793;Target=Anolis_carolinensis_C9A_1 249 277
+CM125122.1	miniprot	CDS	23125737	23125977	321	-	0	Parent=Dopasia_gracilis_C9A;Rank=1;Identity=0.7160;Target=Anolis_carolinensis_C9A_1 278 357
+CM125122.1	miniprot	CDS	23123854	23123973	45	-	2	Parent=Dopasia_gracilis_C9A;Rank=1;Identity=0.2857;Target=Anolis_carolinensis_C9A_1 358 399
+CM125122.1	miniprot	CDS	23121432	23121613	183	-	2	Parent=Dopasia_gracilis_C9A;Rank=1;Identity=0.5333;Target=Anolis_carolinensis_C9A_1 400 460
+CM125122.1	miniprot	CDS	23119297	23119524	314	-	0	Parent=Dopasia_gracilis_C9A;Rank=1;Identity=0.7403;Frameshift=1;Target=Anolis_carolinensis_C9A_1 461 536
+CM125122.1	miniprot	CDS	23116618	23116769	197	-	2	Parent=Dopasia_gracilis_C9A;Rank=1;Identity=0.6000;Target=Anolis_carolinensis_C9A_1 537 587

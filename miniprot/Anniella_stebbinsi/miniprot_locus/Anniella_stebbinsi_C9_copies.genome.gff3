@@ -1,0 +1,13 @@
+##gff-version 3
+CM119773.1	miniprot	mRNA	344582761	344616388	2011	+	.	ID=Anniella_stebbinsi_C9A;Rank=1;Identity=0.6210;Positive=0.7847;Target=Anolis_carolinensis_C9A_1 26 587;Name=Anniella_stebbinsi_C9A
+CM119773.1	miniprot	CDS	344582761	344582856	149	+	0	Parent=Anniella_stebbinsi_C9A;Rank=1;Identity=0.7500;Target=Anolis_carolinensis_C9A_1 26 57
+CM119773.1	miniprot	CDS	344589969	344590113	202	+	0	Parent=Anniella_stebbinsi_C9A;Rank=1;Identity=0.6939;Target=Anolis_carolinensis_C9A_1 58 105
+CM119773.1	miniprot	CDS	344591701	344591848	222	+	2	Parent=Anniella_stebbinsi_C9A;Rank=1;Identity=0.7959;Target=Anolis_carolinensis_C9A_1 106 154
+CM119773.1	miniprot	CDS	344594889	344595027	205	+	1	Parent=Anniella_stebbinsi_C9A;Rank=1;Identity=0.7391;Target=Anolis_carolinensis_C9A_1 155 201
+CM119773.1	miniprot	CDS	344598067	344598220	127	+	0	Parent=Anniella_stebbinsi_C9A;Rank=1;Identity=0.5000;Donor=AG;Target=Anolis_carolinensis_C9A_1 202 252
+CM119773.1	miniprot	CDS	344598413	344598486	58	+	2	Parent=Anniella_stebbinsi_C9A;Rank=1;Identity=0.4583;Target=Anolis_carolinensis_C9A_1 253 277
+CM119773.1	miniprot	CDS	344606417	344606657	310	+	0	Parent=Anniella_stebbinsi_C9A;Rank=1;Identity=0.6790;Target=Anolis_carolinensis_C9A_1 278 357
+CM119773.1	miniprot	CDS	344607607	344607726	41	+	2	Parent=Anniella_stebbinsi_C9A;Rank=1;Identity=0.2857;Target=Anolis_carolinensis_C9A_1 358 399
+CM119773.1	miniprot	CDS	344609912	344610093	188	+	2	Parent=Anniella_stebbinsi_C9A;Rank=1;Identity=0.5333;Target=Anolis_carolinensis_C9A_1 400 460
+CM119773.1	miniprot	CDS	344614839	344615067	319	+	0	Parent=Anniella_stebbinsi_C9A;Rank=1;Identity=0.7013;Target=Anolis_carolinensis_C9A_1 461 536
+CM119773.1	miniprot	CDS	344616237	344616388	190	+	2	Parent=Anniella_stebbinsi_C9A;Rank=1;Identity=0.5600;Target=Anolis_carolinensis_C9A_1 537 587

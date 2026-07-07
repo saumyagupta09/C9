@@ -1,0 +1,12 @@
+dataset,foreground,omega_M0_null,omega_background,omega_foreground,lnL_null,lnL_alt,LRT_2dlnL,p_value,signif,verdict
+snakes_C9A,FGboidae,0.6505,0.666,0.5869,-11015.942,-11015.56,0.764,0.382,ns,FG omega < BG
+snakes_C9A,FGcolubridae,0.6505,0.7053,0.5338,-11015.942,-11013.353,5.179,0.0229,YES,FG omega < BG
+snakes_C9A,FGelapidae,0.6505,0.5489,1.0153,-11015.942,-11004.198,23.488,1.26e-06,YES,FG omega > BG
+snakes_C9A,FGviperidae,0.6505,0.6761,0.5055,-11015.942,-11014.38,3.124,0.0772,ns,FG omega < BG
+duplicated_snakes_C9A_C9B,FGC9A,0.5916,0.5551,0.6524,-14644.454,-14643.027,2.853,0.0912,ns,FG omega > BG
+duplicated_snakes_C9A_C9B,FGC9B,0.5916,0.6791,0.479,-14644.454,-14637.862,13.184,0.000282,YES,FG omega < BG
+colubrid_C9A_C9B_C9C,FGC9A,0.5739,0.571,0.593,-5496.575,-5496.565,0.019,0.89,ns,FG omega > BG
+colubrid_C9A_C9B_C9C,FGC9B,0.5739,0.6203,0.4581,-5496.575,-5495.52,2.11,0.146,ns,FG omega < BG
+colubrid_C9A_C9B_C9C,FGC9C,0.5739,0.5179,0.6297,-5496.575,-5495.99,1.171,0.279,ns,FG omega > BG
+iguania_anolis,4A_FGanoleC9B,0.3297,0.3248,0.4029,-10587.99,-10587.414,1.153,0.283,ns,FG omega > BG
+iguania_anolis,4B_FGanoleC9A,0.3297,0.3092,0.5409,-10587.99,-10582.213,11.553,0.000676,YES,FG omega > BG

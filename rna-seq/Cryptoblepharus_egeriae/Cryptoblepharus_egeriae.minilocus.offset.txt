@@ -1,0 +1,8 @@
+species	Cryptoblepharus_egeriae
+clade	Scincoidea
+scaffold	CM123735.1
+window	CM123735.1:217052214-217164258
+offset	217052213
+new_seqname	Cryptoblepharus_egeriae_C9locus
+length	112045
+note	genomic_pos = local_pos + offset

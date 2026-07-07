@@ -1,0 +1,15 @@
+##gff-version 3
+##PAF	Pantherophis_obsoletus_C9A_1	583	0	583	-	OZ203517.1:24588604-24625915	37312	4113	27312	1566	1749	0	AS:i:2473	ms:i:2827	np:i:547	fs:i:0	st:i:0	da:i:0	do:i:0	cg:Z:25M3167V31M1795N49M1117U48M2242V46M1101N71M2865N80M3207U41M2531U60M1338N76M2105U50M	cs:Z::2*actS:11*gaaG:2*agtV:3*gtaA:2*acaA*agR~gt3164ag-g:24*aatI:6~gt1795ag*cacY:17*gtgE:5*caaE:2*cagE:1*acaR*agtT*ctgP:3*gagG:4*aagG*gatK:3*gtaE:3*gG~gt1114ag-ga:28*cgcL:4*gatN:1*gacE*attV:4*gttL:6*ggG~gt2239ag-t:31*attT:9*ttcV:4~gt1101ag:31*gcaV:10*aatS*gatN*ataV:1*ggcT:1*gttI:4*agtN:1*agcG:11*accI:3~gt2865ag:3*tttY:54*aaaR:1*atcT:9*atgV:8*catQ*gG~gt3204ag-at:2*gtaA:4*ggaR:8*tctT*gtcI*aacA:16*gccT:1*ggaR:2*agtN*gV~gt2528ag-tt:9*caaK:15*aggK:34~gt1338ag:23*acaR:14*cagH:13*aagR:6*ccaS*tttL:13*gtaI*caaP*gA~gt2102ag-ct:2*ggcA*actI:2*agcN:12*ggaR:26*ccaT:3
+OZ203517.1:24588604-24625915	miniprot	mRNA	4111	27312	2827	-	.	ID=MP000001;Rank=1;Identity=0.8954;Positive=0.9383;Target=Pantherophis_obsoletus_C9A_1 1 583
+OZ203517.1:24588604-24625915	miniprot	CDS	27236	27312	97	-	0	Parent=MP000001;Rank=1;Identity=0.8077;Target=Pantherophis_obsoletus_C9A_1 1 25
+OZ203517.1:24588604-24625915	miniprot	CDS	23978	24071	177	-	1	Parent=MP000001;Rank=1;Identity=0.9677;Target=Pantherophis_obsoletus_C9A_1 26 57
+OZ203517.1:24588604-24625915	miniprot	CDS	22035	22182	218	-	0	Parent=MP000001;Rank=1;Identity=0.7800;Target=Pantherophis_obsoletus_C9A_1 58 106
+OZ203517.1:24588604-24625915	miniprot	CDS	20773	20920	262	-	2	Parent=MP000001;Rank=1;Identity=0.8980;Target=Pantherophis_obsoletus_C9A_1 107 155
+OZ203517.1:24588604-24625915	miniprot	CDS	18395	18533	242	-	1	Parent=MP000001;Rank=1;Identity=0.9565;Target=Pantherophis_obsoletus_C9A_1 156 202
+OZ203517.1:24588604-24625915	miniprot	CDS	17081	17293	320	-	0	Parent=MP000001;Rank=1;Identity=0.8732;Target=Pantherophis_obsoletus_C9A_1 203 273
+OZ203517.1:24588604-24625915	miniprot	CDS	13975	14215	395	-	0	Parent=MP000001;Rank=1;Identity=0.9259;Target=Pantherophis_obsoletus_C9A_1 274 353
+OZ203517.1:24588604-24625915	miniprot	CDS	10645	10770	171	-	2	Parent=MP000001;Rank=1;Identity=0.8095;Target=Pantherophis_obsoletus_C9A_1 354 395
+OZ203517.1:24588604-24625915	miniprot	CDS	7935	8116	288	-	2	Parent=MP000001;Rank=1;Identity=0.9667;Target=Pantherophis_obsoletus_C9A_1 396 456
+OZ203517.1:24588604-24625915	miniprot	CDS	6368	6596	385	-	0	Parent=MP000001;Rank=1;Identity=0.9091;Target=Pantherophis_obsoletus_C9A_1 457 532
+OZ203517.1:24588604-24625915	miniprot	CDS	4111	4265	272	-	2	Parent=MP000001;Rank=1;Identity=0.9000;Target=Pantherophis_obsoletus_C9A_1 533 583
+OZ203517.1:24588604-24625915	miniprot	stop_codon	4111	4113	0	-	0	Parent=MP000001;Rank=1

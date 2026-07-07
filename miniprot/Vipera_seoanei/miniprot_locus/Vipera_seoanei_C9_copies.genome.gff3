@@ -1,0 +1,27 @@
+##gff-version 3
+JBPPCB010000002.1	miniprot	mRNA	250344945	250366775	2652	+	.	ID=Vipera_seoanei_C9A;Rank=1;Identity=0.8233;Positive=0.9074;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Vipera_seoanei_C9A
+JBPPCB010000002.1	miniprot	CDS	250344945	250345021	99	+	0	Parent=Vipera_seoanei_C9A;Rank=1;Identity=0.8077;Target=Pantherophis_obsoletus_C9A_1 1 25
+JBPPCB010000002.1	miniprot	CDS	250346303	250346396	154	+	1	Parent=Vipera_seoanei_C9A;Rank=1;Identity=0.8065;Target=Pantherophis_obsoletus_C9A_1 26 57
+JBPPCB010000002.1	miniprot	CDS	250347304	250347451	210	+	0	Parent=Vipera_seoanei_C9A;Rank=1;Identity=0.7400;Target=Pantherophis_obsoletus_C9A_1 58 106
+JBPPCB010000002.1	miniprot	CDS	250349185	250349332	230	+	2	Parent=Vipera_seoanei_C9A;Rank=1;Identity=0.7959;Target=Pantherophis_obsoletus_C9A_1 107 155
+JBPPCB010000002.1	miniprot	CDS	250350912	250351050	238	+	1	Parent=Vipera_seoanei_C9A;Rank=1;Identity=0.9130;Target=Pantherophis_obsoletus_C9A_1 156 202
+JBPPCB010000002.1	miniprot	CDS	250352624	250352836	292	+	0	Parent=Vipera_seoanei_C9A;Rank=1;Identity=0.7887;Target=Pantherophis_obsoletus_C9A_1 203 273
+JBPPCB010000002.1	miniprot	CDS	250354647	250354887	379	+	0	Parent=Vipera_seoanei_C9A;Rank=1;Identity=0.8765;Target=Pantherophis_obsoletus_C9A_1 274 353
+JBPPCB010000002.1	miniprot	CDS	250358755	250358880	168	+	2	Parent=Vipera_seoanei_C9A;Rank=1;Identity=0.7619;Target=Pantherophis_obsoletus_C9A_1 354 395
+JBPPCB010000002.1	miniprot	CDS	250362710	250362891	257	+	2	Parent=Vipera_seoanei_C9A;Rank=1;Identity=0.8333;Target=Pantherophis_obsoletus_C9A_1 396 456
+JBPPCB010000002.1	miniprot	CDS	250365042	250365270	375	+	0	Parent=Vipera_seoanei_C9A;Rank=1;Identity=0.8701;Target=Pantherophis_obsoletus_C9A_1 457 532
+JBPPCB010000002.1	miniprot	CDS	250366621	250366775	250	+	2	Parent=Vipera_seoanei_C9A;Rank=1;Identity=0.8000;Target=Pantherophis_obsoletus_C9A_1 533 583
+JBPPCB010000002.1	miniprot	stop_codon	250366773	250366775	0	+	0	Parent=Vipera_seoanei_C9A;Rank=1
+JBPPCB010000002.1	miniprot	mRNA	250377202	250398885	2370	+	.	ID=Vipera_seoanei_C9B;Rank=1;Identity=0.7307;Positive=0.8542;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Vipera_seoanei_C9B
+JBPPCB010000002.1	miniprot	CDS	250377202	250377278	115	+	0	Parent=Vipera_seoanei_C9B;Rank=1;Identity=0.9615;Target=Pantherophis_obsoletus_C9A_1 1 25
+JBPPCB010000002.1	miniprot	CDS	250378114	250378207	140	+	1	Parent=Vipera_seoanei_C9B;Rank=1;Identity=0.7419;Target=Pantherophis_obsoletus_C9A_1 26 57
+JBPPCB010000002.1	miniprot	CDS	250378503	250378650	239	+	0	Parent=Vipera_seoanei_C9B;Rank=1;Identity=0.8200;Target=Pantherophis_obsoletus_C9A_1 58 106
+JBPPCB010000002.1	miniprot	CDS	250379767	250379914	234	+	2	Parent=Vipera_seoanei_C9B;Rank=1;Identity=0.7959;Target=Pantherophis_obsoletus_C9A_1 107 155
+JBPPCB010000002.1	miniprot	CDS	250382073	250382211	213	+	1	Parent=Vipera_seoanei_C9B;Rank=1;Identity=0.8261;Target=Pantherophis_obsoletus_C9A_1 156 202
+JBPPCB010000002.1	miniprot	CDS	250383491	250383703	198	+	0	Parent=Vipera_seoanei_C9B;Rank=1;Identity=0.5493;Target=Pantherophis_obsoletus_C9A_1 203 273
+JBPPCB010000002.1	miniprot	CDS	250388213	250388453	351	+	0	Parent=Vipera_seoanei_C9B;Rank=1;Identity=0.7901;Target=Pantherophis_obsoletus_C9A_1 274 353
+JBPPCB010000002.1	miniprot	CDS	250392190	250392315	84	+	2	Parent=Vipera_seoanei_C9B;Rank=1;Identity=0.3810;Target=Pantherophis_obsoletus_C9A_1 354 395
+JBPPCB010000002.1	miniprot	CDS	250395728	250395909	226	+	2	Parent=Vipera_seoanei_C9B;Rank=1;Identity=0.7500;Target=Pantherophis_obsoletus_C9A_1 396 456
+JBPPCB010000002.1	miniprot	CDS	250397549	250397777	359	+	0	Parent=Vipera_seoanei_C9B;Rank=1;Identity=0.8182;Target=Pantherophis_obsoletus_C9A_1 457 532
+JBPPCB010000002.1	miniprot	CDS	250398731	250398885	211	+	2	Parent=Vipera_seoanei_C9B;Rank=1;Identity=0.6600;Target=Pantherophis_obsoletus_C9A_1 533 583
+JBPPCB010000002.1	miniprot	stop_codon	250398883	250398885	0	+	0	Parent=Vipera_seoanei_C9B;Rank=1

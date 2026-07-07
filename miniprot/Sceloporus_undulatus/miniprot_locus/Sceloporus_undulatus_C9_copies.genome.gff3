@@ -1,0 +1,14 @@
+##gff-version 3
+NC_056523.1	miniprot	mRNA	307798386	307833226	2390	+	.	ID=Sceloporus_undulatus_C9A;Rank=1;Identity=0.7242;Positive=0.8443;Target=Anolis_carolinensis_C9A_1 1 591;Name=Sceloporus_undulatus_C9A
+NC_056523.1	miniprot	CDS	307798386	307798462	80	+	0	Parent=Sceloporus_undulatus_C9A;Rank=1;Identity=0.6538;Target=Anolis_carolinensis_C9A_1 1 25
+NC_056523.1	miniprot	CDS	307802397	307802490	153	+	1	Parent=Sceloporus_undulatus_C9A;Rank=1;Identity=0.7419;Target=Anolis_carolinensis_C9A_1 26 57
+NC_056523.1	miniprot	CDS	307809165	307809309	252	+	0	Parent=Sceloporus_undulatus_C9A;Rank=1;Identity=0.8571;Target=Anolis_carolinensis_C9A_1 58 105
+NC_056523.1	miniprot	CDS	307810514	307810661	220	+	2	Parent=Sceloporus_undulatus_C9A;Rank=1;Identity=0.8367;Target=Anolis_carolinensis_C9A_1 106 154
+NC_056523.1	miniprot	CDS	307812334	307812472	201	+	1	Parent=Sceloporus_undulatus_C9A;Rank=1;Identity=0.7609;Target=Anolis_carolinensis_C9A_1 155 201
+NC_056523.1	miniprot	CDS	307813641	307813868	224	+	0	Parent=Sceloporus_undulatus_C9A;Rank=1;Identity=0.6184;Target=Anolis_carolinensis_C9A_1 202 277
+NC_056523.1	miniprot	CDS	307821578	307821818	359	+	0	Parent=Sceloporus_undulatus_C9A;Rank=1;Identity=0.8272;Target=Anolis_carolinensis_C9A_1 278 357
+NC_056523.1	miniprot	CDS	307824439	307824564	98	+	2	Parent=Sceloporus_undulatus_C9A;Rank=1;Identity=0.3810;Target=Anolis_carolinensis_C9A_1 358 399
+NC_056523.1	miniprot	CDS	307828279	307828460	221	+	2	Parent=Sceloporus_undulatus_C9A;Rank=1;Identity=0.7000;Target=Anolis_carolinensis_C9A_1 400 460
+NC_056523.1	miniprot	CDS	307830118	307830346	357	+	0	Parent=Sceloporus_undulatus_C9A;Rank=1;Identity=0.8052;Target=Anolis_carolinensis_C9A_1 461 536
+NC_056523.1	miniprot	CDS	307833060	307833226	225	+	2	Parent=Sceloporus_undulatus_C9A;Rank=1;Identity=0.6667;Target=Anolis_carolinensis_C9A_1 537 591
+NC_056523.1	miniprot	stop_codon	307833224	307833226	0	+	0	Parent=Sceloporus_undulatus_C9A;Rank=1

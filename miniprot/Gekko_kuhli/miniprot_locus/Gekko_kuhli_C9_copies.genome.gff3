@@ -1,0 +1,12 @@
+##gff-version 3
+CM122939.1	miniprot	mRNA	135808917	135829750	1704	+	.	ID=Gekko_kuhli_C9A;Rank=1;Identity=0.5434;Positive=0.7118;Target=Anolis_carolinensis_C9A_1 17 588;Name=Gekko_kuhli_C9A
+CM122939.1	miniprot	CDS	135808917	135809039	149	+	0	Parent=Gekko_kuhli_C9A;Rank=1;Identity=0.6341;Target=Anolis_carolinensis_C9A_1 17 57
+CM122939.1	miniprot	CDS	135812240	135812393	169	+	0	Parent=Gekko_kuhli_C9A;Rank=1;Identity=0.6154;Target=Anolis_carolinensis_C9A_1 58 105
+CM122939.1	miniprot	CDS	135812917	135813067	161	+	2	Parent=Gekko_kuhli_C9A;Rank=1;Identity=0.6000;Target=Anolis_carolinensis_C9A_1 106 154
+CM122939.1	miniprot	CDS	135815752	135815890	204	+	1	Parent=Gekko_kuhli_C9A;Rank=1;Identity=0.7391;Target=Anolis_carolinensis_C9A_1 155 201
+CM122939.1	miniprot	CDS	135816447	135816665	108	+	0	Parent=Gekko_kuhli_C9A;Rank=1;Identity=0.3553;Target=Anolis_carolinensis_C9A_1 202 277
+CM122939.1	miniprot	CDS	135818952	135819192	292	+	0	Parent=Gekko_kuhli_C9A;Rank=1;Identity=0.6543;Target=Anolis_carolinensis_C9A_1 278 357
+CM122939.1	miniprot	CDS	135820810	135820926	44	+	2	Parent=Gekko_kuhli_C9A;Rank=1;Identity=0.3095;Target=Anolis_carolinensis_C9A_1 358 399
+CM122939.1	miniprot	CDS	135822827	135823008	125	+	2	Parent=Gekko_kuhli_C9A;Rank=1;Identity=0.3667;Target=Anolis_carolinensis_C9A_1 400 460
+CM122939.1	miniprot	CDS	135827741	135827969	276	+	0	Parent=Gekko_kuhli_C9A;Rank=1;Identity=0.6234;Target=Anolis_carolinensis_C9A_1 461 536
+CM122939.1	miniprot	CDS	135829596	135829750	176	+	2	Parent=Gekko_kuhli_C9A;Rank=1;Identity=0.5490;Target=Anolis_carolinensis_C9A_1 537 588

@@ -1,0 +1,13 @@
+##gff-version 3
+JBBPXQ010000006.1	miniprot	mRNA	20691349	20713001	1937	-	.	ID=Correlophus_ciliatus_C9A;Rank=1;Identity=0.5967;Positive=0.7333;Target=Anolis_carolinensis_C9A_1 1 591;Name=Correlophus_ciliatus_C9A
+JBBPXQ010000006.1	miniprot	CDS	20712925	20713001	41	-	0	Parent=Correlophus_ciliatus_C9A;Rank=1;Identity=0.4231;Target=Anolis_carolinensis_C9A_1 1 25
+JBBPXQ010000006.1	miniprot	CDS	20708227	20708320	138	-	1	Parent=Correlophus_ciliatus_C9A;Rank=1;Identity=0.7097;Target=Anolis_carolinensis_C9A_1 26 57
+JBBPXQ010000006.1	miniprot	CDS	20705119	20705263	198	-	0	Parent=Correlophus_ciliatus_C9A;Rank=1;Identity=0.6939;Target=Anolis_carolinensis_C9A_1 58 105
+JBBPXQ010000006.1	miniprot	CDS	20703786	20703936	204	-	2	Parent=Correlophus_ciliatus_C9A;Rank=1;Identity=0.7400;Target=Anolis_carolinensis_C9A_1 106 154
+JBBPXQ010000006.1	miniprot	CDS	20702229	20702367	219	-	1	Parent=Correlophus_ciliatus_C9A;Rank=1;Identity=0.7826;Target=Anolis_carolinensis_C9A_1 155 201
+JBBPXQ010000006.1	miniprot	CDS	20700885	20701136	126	-	0	Parent=Correlophus_ciliatus_C9A;Rank=1;Identity=0.4048;Target=Anolis_carolinensis_C9A_1 202 277
+JBBPXQ010000006.1	miniprot	CDS	20699316	20699556	310	-	0	Parent=Correlophus_ciliatus_C9A;Rank=1;Identity=0.7160;Target=Anolis_carolinensis_C9A_1 278 357
+JBBPXQ010000006.1	miniprot	CDS	20697686	20697811	38	-	2	Parent=Correlophus_ciliatus_C9A;Rank=1;Identity=0.2381;Target=Anolis_carolinensis_C9A_1 358 399
+JBBPXQ010000006.1	miniprot	CDS	20694204	20694385	154	-	2	Parent=Correlophus_ciliatus_C9A;Rank=1;Identity=0.5000;Target=Anolis_carolinensis_C9A_1 400 460
+JBBPXQ010000006.1	miniprot	CDS	20693050	20693278	296	-	0	Parent=Correlophus_ciliatus_C9A;Rank=1;Identity=0.6753;Target=Anolis_carolinensis_C9A_1 461 536
+JBBPXQ010000006.1	miniprot	CDS	20691349	20691512	213	-	2	Parent=Correlophus_ciliatus_C9A;Rank=1;Identity=0.6296;Target=Anolis_carolinensis_C9A_1 537 591

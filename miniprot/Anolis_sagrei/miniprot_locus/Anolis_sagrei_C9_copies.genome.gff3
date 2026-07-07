@@ -1,0 +1,25 @@
+##gff-version 3
+NC_090022.1	miniprot	mRNA	277844722	277875139	2205	+	.	ID=Anolis_sagrei_C9A;Rank=1;Identity=0.7505;Positive=0.8566;Target=Anolis_carolinensis_C9A_1 1 537;Name=Anolis_sagrei_C9A
+NC_090022.1	miniprot	CDS	277844722	277844798	95	+	0	Parent=Anolis_sagrei_C9A;Rank=1;Identity=0.7692;Target=Anolis_carolinensis_C9A_1 1 25
+NC_090022.1	miniprot	CDS	277848765	277848858	161	+	1	Parent=Anolis_sagrei_C9A;Rank=1;Identity=0.8387;Target=Anolis_carolinensis_C9A_1 26 57
+NC_090022.1	miniprot	CDS	277850927	277851071	252	+	0	Parent=Anolis_sagrei_C9A;Rank=1;Identity=0.8776;Target=Anolis_carolinensis_C9A_1 58 105
+NC_090022.1	miniprot	CDS	277853214	277853361	233	+	2	Parent=Anolis_sagrei_C9A;Rank=1;Identity=0.8571;Target=Anolis_carolinensis_C9A_1 106 154
+NC_090022.1	miniprot	CDS	277863767	277863905	239	+	1	Parent=Anolis_sagrei_C9A;Rank=1;Identity=0.8913;Target=Anolis_carolinensis_C9A_1 155 201
+NC_090022.1	miniprot	CDS	277866520	277866747	201	+	0	Parent=Anolis_sagrei_C9A;Rank=1;Identity=0.5526;Target=Anolis_carolinensis_C9A_1 202 277
+NC_090022.1	miniprot	CDS	277868658	277868898	368	+	0	Parent=Anolis_sagrei_C9A;Rank=1;Identity=0.8395;Target=Anolis_carolinensis_C9A_1 278 357
+NC_090022.1	miniprot	CDS	277870659	277870784	106	+	2	Parent=Anolis_sagrei_C9A;Rank=1;Identity=0.5000;Target=Anolis_carolinensis_C9A_1 358 399
+NC_090022.1	miniprot	CDS	277872831	277873012	211	+	2	Parent=Anolis_sagrei_C9A;Rank=1;Identity=0.6667;Target=Anolis_carolinensis_C9A_1 400 460
+NC_090022.1	miniprot	CDS	277874909	277875139	339	+	0	Parent=Anolis_sagrei_C9A;Rank=1;Identity=0.7792;Target=Anolis_carolinensis_C9A_1 461 537
+NC_090022.1	miniprot	mRNA	277880934	277911062	2959	+	.	ID=Anolis_sagrei_C9B;Rank=1;Identity=0.9137;Positive=0.9543;Target=Anolis_carolinensis_C9A_1 1 591;Name=Anolis_sagrei_C9B
+NC_090022.1	miniprot	CDS	277880934	277881010	117	+	0	Parent=Anolis_sagrei_C9B;Rank=1;Identity=0.9615;Target=Anolis_carolinensis_C9A_1 1 25
+NC_090022.1	miniprot	CDS	277883399	277883492	180	+	1	Parent=Anolis_sagrei_C9B;Rank=1;Identity=0.9677;Target=Anolis_carolinensis_C9A_1 26 57
+NC_090022.1	miniprot	CDS	277885961	277886105	270	+	0	Parent=Anolis_sagrei_C9B;Rank=1;Identity=0.9388;Target=Anolis_carolinensis_C9A_1 58 105
+NC_090022.1	miniprot	CDS	277889225	277889372	261	+	2	Parent=Anolis_sagrei_C9B;Rank=1;Identity=0.9592;Target=Anolis_carolinensis_C9A_1 106 154
+NC_090022.1	miniprot	CDS	277890666	277890804	246	+	1	Parent=Anolis_sagrei_C9B;Rank=1;Identity=0.9348;Target=Anolis_carolinensis_C9A_1 155 201
+NC_090022.1	miniprot	CDS	277892718	277892942	303	+	0	Parent=Anolis_sagrei_C9B;Rank=1;Identity=0.8289;Target=Anolis_carolinensis_C9A_1 202 277
+NC_090022.1	miniprot	CDS	277896563	277896803	419	+	0	Parent=Anolis_sagrei_C9B;Rank=1;Identity=0.9506;Target=Anolis_carolinensis_C9A_1 278 357
+NC_090022.1	miniprot	CDS	277899859	277899984	183	+	2	Parent=Anolis_sagrei_C9B;Rank=1;Identity=0.7857;Target=Anolis_carolinensis_C9A_1 358 399
+NC_090022.1	miniprot	CDS	277900996	277901177	273	+	2	Parent=Anolis_sagrei_C9B;Rank=1;Identity=0.9000;Target=Anolis_carolinensis_C9A_1 400 460
+NC_090022.1	miniprot	CDS	277902636	277902864	423	+	0	Parent=Anolis_sagrei_C9B;Rank=1;Identity=0.9740;Target=Anolis_carolinensis_C9A_1 461 536
+NC_090022.1	miniprot	CDS	277910896	277911062	284	+	2	Parent=Anolis_sagrei_C9B;Rank=1;Identity=0.8704;Target=Anolis_carolinensis_C9A_1 537 591
+NC_090022.1	miniprot	stop_codon	277911060	277911062	0	+	0	Parent=Anolis_sagrei_C9B;Rank=1

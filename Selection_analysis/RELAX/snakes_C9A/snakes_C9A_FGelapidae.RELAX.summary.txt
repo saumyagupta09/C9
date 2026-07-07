@@ -1,0 +1,15 @@
+RELAX summary: snakes_C9A_FGelapidae.RELAX.json
+============================================================
+
+Relaxation/intensification parameter K = 1.731735749157086
+LRT = 16.91867894389361
+p-value = 3.901576299369935e-05
+verdict: intensified (K>1)
+
+Model fits (Log-L, AIC-c, parameters):
+  General descriptive: LogL=-10831.35948402463, AIC-c=21890.49444871909, np=113
+  MG94xREV with separate rates for branch sets: LogL=-10928.39863535539, AIC-c=21983.35107882836, np=63
+  Nucleotide GTR: LogL=-11086.79753531222, AIC-c=22283.7356489124, np=55
+  RELAX alternative: LogL=-10856.71632853796, AIC-c=21848.05861022561, np=67
+  RELAX null: LogL=-10865.17566800991, AIC-c=21862.95883705018, np=66
+  RELAX partitioned descriptive: LogL=-10844.20942883444, AIC-c=21831.12139322855, np=71

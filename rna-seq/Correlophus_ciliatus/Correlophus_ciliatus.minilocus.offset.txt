@@ -1,0 +1,8 @@
+species	Correlophus_ciliatus
+clade	Gekkota
+scaffold	JBBPXQ010000006.1
+window	JBBPXQ010000006.1:20625126-20758765
+offset	20625125
+new_seqname	Correlophus_ciliatus_C9locus
+length	133640
+note	genomic_pos = local_pos + offset

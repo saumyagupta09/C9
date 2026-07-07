@@ -1,0 +1,12 @@
+##gff-version 3
+NW_015172005.1	miniprot	mRNA	1831631	1857909	1713	-	.	ID=Gekko_japonicus_C9A;Rank=1;Identity=0.5433;Positive=0.7111;Target=Anolis_carolinensis_C9A_1 17 588;Name=Gekko_japonicus_C9A
+NW_015172005.1	miniprot	CDS	1857787	1857909	136	-	0	Parent=Gekko_japonicus_C9A;Rank=1;Identity=0.5854;Target=Anolis_carolinensis_C9A_1 17 57
+NW_015172005.1	miniprot	CDS	1854791	1854944	182	-	0	Parent=Gekko_japonicus_C9A;Rank=1;Identity=0.6538;Target=Anolis_carolinensis_C9A_1 58 105
+NW_015172005.1	miniprot	CDS	1851131	1851281	164	-	2	Parent=Gekko_japonicus_C9A;Rank=1;Identity=0.6000;Target=Anolis_carolinensis_C9A_1 106 154
+NW_015172005.1	miniprot	CDS	1847543	1847681	203	-	1	Parent=Gekko_japonicus_C9A;Rank=1;Identity=0.7174;Target=Anolis_carolinensis_C9A_1 155 201
+NW_015172005.1	miniprot	CDS	1846799	1847017	98	-	0	Parent=Gekko_japonicus_C9A;Rank=1;Identity=0.3289;Target=Anolis_carolinensis_C9A_1 202 277
+NW_015172005.1	miniprot	CDS	1842947	1843187	296	-	0	Parent=Gekko_japonicus_C9A;Rank=1;Identity=0.6543;Target=Anolis_carolinensis_C9A_1 278 357
+NW_015172005.1	miniprot	CDS	1841199	1841315	54	-	2	Parent=Gekko_japonicus_C9A;Rank=1;Identity=0.3636;Target=Anolis_carolinensis_C9A_1 358 399
+NW_015172005.1	miniprot	CDS	1838748	1838929	133	-	2	Parent=Gekko_japonicus_C9A;Rank=1;Identity=0.4167;Target=Anolis_carolinensis_C9A_1 400 460
+NW_015172005.1	miniprot	CDS	1833298	1833526	270	-	0	Parent=Gekko_japonicus_C9A;Rank=1;Identity=0.5974;Target=Anolis_carolinensis_C9A_1 461 536
+NW_015172005.1	miniprot	CDS	1831631	1831785	177	-	2	Parent=Gekko_japonicus_C9A;Rank=1;Identity=0.5490;Target=Anolis_carolinensis_C9A_1 537 588

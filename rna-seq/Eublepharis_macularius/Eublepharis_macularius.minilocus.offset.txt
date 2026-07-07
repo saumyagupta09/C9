@@ -1,0 +1,8 @@
+species	Eublepharis_macularius
+clade	Gekkota
+scaffold	NC_072797.1
+window	NC_072797.1:24637845-24790497
+offset	24637844
+new_seqname	Eublepharis_macularius_C9locus
+length	152653
+note	genomic_pos = local_pos + offset

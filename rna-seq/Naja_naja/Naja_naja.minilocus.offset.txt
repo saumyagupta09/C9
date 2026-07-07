@@ -1,0 +1,8 @@
+species	Naja_naja
+clade	Elapidae
+scaffold	CM019149.1
+window	CM019149.1:286331318-286552203
+offset	286331317
+new_seqname	Naja_naja_C9locus
+length	220886
+note	genomic_pos = local_pos + offset

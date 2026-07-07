@@ -1,0 +1,15 @@
+##gff-version 3
+##sequence-region Arizona_elegans_C9C 1 1752
+Arizona_elegans_C9C	RepeatMasker	dispersed_repeat	1144	1184	18.5	+	.	ID=1;Target "Motif:A-rich" 1 39
+##sequence-region Bothrops_jararaca_C9A 1 1752
+Bothrops_jararaca_C9A	RepeatMasker	dispersed_repeat	111	140	11.5	+	.	ID=2;Target "Motif:(TGAC)n" 1 30
+##sequence-region Crotalus_adamanteus_C9B 1 1752
+Crotalus_adamanteus_C9B	RepeatMasker	dispersed_repeat	1143	1186	20.3	+	.	ID=3;Target "Motif:A-rich" 1 42
+##sequence-region Crotalus_tigris_C9B 1 1752
+Crotalus_tigris_C9B	RepeatMasker	dispersed_repeat	355	398	30.4	+	.	ID=4;Target "Motif:(GAT)n" 1 44
+##sequence-region Masticophis_lateralis_C9B 1 1743
+Masticophis_lateralis_C9B	RepeatMasker	dispersed_repeat	1138	1203	24.5	+	.	ID=5;Target "Motif:A-rich" 1 67
+##sequence-region Pantherophis_obsoletus_C9C 1 1752
+Pantherophis_obsoletus_C9C	RepeatMasker	dispersed_repeat	1144	1203	22.7	+	.	ID=6;Target "Motif:A-rich" 1 60
+##sequence-region Pituophis_catenifer_C9C 1 1752
+Pituophis_catenifer_C9C	RepeatMasker	dispersed_repeat	1144	1184	18.5	+	.	ID=7;Target "Motif:A-rich" 1 39

@@ -1,0 +1,12 @@
+clade,species,copy,category,n_exons,protein_aa,ORF_status,notes
+Gekkota,Asaccus_caudivolvulus,(none),lost,0,0,C9 LOCUS DELETED (flanks retained; no exon remnant),"C9 locus deleted; confirmed by whole-genome alignment vs Correlophus (DAB2/FYB1 flanks align, C9 exons absent). See Deliverables/asaccus_C9_loss/genomic_alignment/."
+Anguimorpha,Dopasia_gracilis,C9A,degraded/pseudogene,12*,~583,DEGRADED (ATG; no-stop; 39 internal stops; frameshift len%3=1),heavily degraded pseudogene at DAB2-proximal locus; mis-spliced (12 pseudo-exons)
+Iguania,Anolis_sagrei,C9A,degraded/pseudogene,10,537,DEGRADED (ATG; no-stop; 0 internal stops),no terminal stop (10 exons); retained in anole/Iguania alignments by design so the duplicated locus is fully represented
+Colubridae,Pantherophis_obsoletus,C9B,degraded/pseudogene,10,532,"DEGRADED (ATG; C-terminal truncation, exon 11 lost; in-frame TAG stop immediately downstream of exon 10 [intronic ~11,632,733]; 0 internal stops)","Truncated pseudogene: exons 1-10 intact, then an in-frame TAG stop right after exon 10 (read-through into intron); exon 11 (C-terminal TSP1) deleted (SRA-read confirmed genuine). Read-through-terminated CDS in Pantherophis_obsoletus_C9B_readthrough.{cds,pep}.fa"
+Viperidae,Protobothrops_mucrosquamatus,C9B,degraded/pseudogene,4,229,DEGRADED (noATG; stop; 0 internal stops),
+Colubridae,Chrysopelea_ornata,C9B (fragment),fragment,~2,~120,FRAGMENT (no start/stop recoverable),"genuine FYB1-proximal C9B ortholog but only ~120 aa (exons ~6-7) on a 1221-bp contig (JAHWGE011068518.1); fs=0,st=0 where aligned; unassembled (fragmented genome, no RNA-seq), not a pseudogene"
+Colubridae,Pantherophis_obsoletus,C9_alt1 (fragment),fragment,NA,NA,"FRAGMENT (partial C9 hit, other scaffold)",partial C9 segment on a separate scaffold; assembly fragment
+Colubridae,Pantherophis_obsoletus,C9_alt2 (fragment),fragment,NA,NA,"FRAGMENT (partial C9 hit, other scaffold)",partial C9 segment on a separate scaffold; assembly fragment
+Viperidae,Bothrops_jararaca,C9_alt (fragment),fragment,NA,NA,"FRAGMENT (partial C9 hit, other scaffold)",partial C9 segment on a separate scaffold; assembly fragment (C9A+C9B both intact)
+Elapidae,Naja_naja,C9_alt (fragment),fragment,NA,NA,"FRAGMENT (partial C9 hit, other scaffold)",partial C9 segment on a separate scaffold; assembly fragment (C9A intact; C9B a 25-stop pseudogene)
+Elapidae,Notechis_scutatus,C9_alt (fragment),fragment,NA,NA,"FRAGMENT (partial C9 hit, other scaffold)",partial C9 segment on a separate scaffold; assembly fragment (C9A intact; C9B a 5-exon remnant)

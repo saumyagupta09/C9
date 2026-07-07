@@ -1,0 +1,23 @@
+C9A = DAB2-proximal copy (synteny naming per Sharma et al. 2022: nearest DAB2 = C9A).
+This copy is C-TERMINALLY TRUNCATED but its full coding content is kept intact.
+
+Structure (NCBI RefSeq XM_003216204.4 / GeneID 100561156, "c9", rAnoCar3.1; the
+DAB2-proximal copy): 11 exons, CDS = 1617 bp / 538 aa, clean ORF (M start, single
+terminal stop, 0 internal stops).
+  - exons 1-10 = the 10 full canonical C9 coding exons (identical lengths to C9B).
+  - exon 11 = ONLY 8 bp of coding (NC_085842.1:302152814-302152821 = GTATTTGA ->
+    immediate TGA stop), then 3' UTR. The real 167 bp exon-11 (C-terminal TSP1
+    domain) is degenerate/lost here.
+The 8 bp exon-11 coding is DELIBERATELY KEPT (not dropped) to preserve every coding
+base, matching Sharma et al.'s curated handling and NCBI's annotation.
+
+Naming note: by SYNTENY this is C9A (DAB2-proximal). Ashu's curated file labels this
+copy "Anolis_carolinensis_C9B" (the A/B labels are swapped in the curated FASTA vs
+the paper's own DAB2/FYB1 rule). NCBI calls it the "c9" gene (XM_003216204).
+Cross-source identity: our seq (rAnoCar3.1) == NCBI XM_003216204.4 CDS; == Ashu
+"C9B" / NCBI XM_003216204.3 (AnoCar2.0) at ~99.8% (3-4 SNPs = assembly difference).
+
+The full, functional, highly-expressed copy is C9B (FYB1-proximal, 1776 bp/591 aa,
+real exon 11). Same C9A truncation in A. sagrei. See
+results/v2_ashu_C9A/rnaseq_anolis_readconfirm/ashu_github_comparison.md and
+CORRECTION_LOG.md.

@@ -1,0 +1,8 @@
+species	Zootoca_vivipara
+clade	Lacertoidea
+scaffold	NC_083286.1
+window	NC_083286.1:45948353-46071854
+offset	45948352
+new_seqname	Zootoca_vivipara_C9locus
+length	123502
+note	genomic_pos = local_pos + offset

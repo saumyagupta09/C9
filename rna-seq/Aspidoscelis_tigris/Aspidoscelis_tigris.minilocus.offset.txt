@@ -1,0 +1,8 @@
+species	Aspidoscelis_tigris
+clade	Lacertoidea
+scaffold	CM131961.1
+window	CM131961.1:63604870-63729780
+offset	63604869
+new_seqname	Aspidoscelis_tigris_C9locus
+length	124911
+note	genomic_pos = local_pos + offset

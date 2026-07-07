@@ -1,0 +1,8 @@
+species	Notechis_scutatus
+clade	Elapidae
+scaffold	NW_020716626.1
+window	NW_020716626.1:10995070-11184261
+offset	10995069
+new_seqname	Notechis_scutatus_C9locus
+length	189192
+note	genomic_pos = local_pos + offset

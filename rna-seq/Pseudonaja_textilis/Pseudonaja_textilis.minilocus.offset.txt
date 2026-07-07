@@ -1,0 +1,8 @@
+species	Pseudonaja_textilis
+clade	Elapidae
+scaffold	NW_020769310.1
+window	NW_020769310.1:11056794-11233813
+offset	11056793
+new_seqname	Pseudonaja_textilis_C9locus
+length	177020
+note	genomic_pos = local_pos + offset

@@ -1,0 +1,8 @@
+species	Hemicordylus_capensis
+clade	Scincoidea
+scaffold	NC_069658.1
+window	NC_069658.1:27873983-28051362
+offset	27873982
+new_seqname	Hemicordylus_capensis_C9locus
+length	177380
+note	genomic_pos = local_pos + offset

@@ -1,0 +1,56 @@
+Acritoscincus_duperreyi: DAB2 C9A FYB1
+Anniella_stebbinsi: DAB2 C9A FYB1
+Anolis_carolinensis: DAB2 C9A C9B FYB1
+Anolis_sagrei: DAB2 C9A C9B FYB1
+Arizona_elegans: DAB2 C9A C9B C9C FYB1
+Aspidoscelis_tigris: DAB2 C9A FYB1
+Bothrops_jararaca: DAB2 C9A C9B + [1:JAGTXL010003666.1 non-syntenic]  (missing flank: FYB1)
+Bradypodion_pumilum: DAB2 C9A FYB1
+Bungarus_multicinctus: DAB2 C9A C9B FYB1
+Candoia_aspera: DAB2 C9A FYB1
+Carinascincus_ocellatus: DAB2 C9A FYB1
+Chrysopelea_ornata: C9A + [2:JAHWGE011068518.1 non-syntenic]  (missing flank: DAB2FYB1)
+Correlophus_ciliatus: DAB2 C9A FYB1
+Crotalus_adamanteus: DAB2 C9A C9B FYB1
+Crotalus_tigris: DAB2 C9A C9B FYB1
+Cryptoblepharus_egeriae: DAB2 C9A FYB1
+Cyclura_pinguis: DAB2 C9A FYB1
+Dopasia_gracilis: DAB2 C9A FYB1
+Elgaria_multicarinata: DAB2 C9A FYB1
+Eublepharis_macularius: DAB2 C9A FYB1
+Furcifer_pardalis: DAB2 C9A FYB1
+Gambelia_wislizenii: DAB2 C9A FYB1
+Gekko_japonicus: DAB2 C9A FYB1
+Gekko_kuhli: DAB2 C9A FYB1
+Hemicordylus_capensis: DAB2 C9A FYB1
+Hemorrhois_hippocrepis: DAB2 C9A C9B C9C FYB1
+Hydrophis_cyanocinctus: DAB2 C9A C9B FYB1
+Hydrophis_major: DAB2 C9A C9B FYB1
+Lacerta_agilis: DAB2 C9A FYB1
+Laticauda_colubrina: DAB2 C9A C9B FYB1
+Laudakia_wui: DAB2 C9A FYB1
+Liasis_olivaceus: DAB2 C9A FYB1
+Malpolon_monspessulanus: DAB2 C9A C9B FYB1
+Masticophis_lateralis: DAB2 C9A C9B FYB1
+Mediodactylus_kotschyi: DAB2 C9A FYB1
+Naja_naja: DAB2 C9A C9B FYB1 + [3:SOZL01000598.1 non-syntenic]
+Notechis_scutatus: DAB2 C9A C9B FYB1 + [3:NW_020719678.1 non-syntenic]
+Pantherophis_obsoletus: DAB2 C9A C9B C9C FYB1 + [4:WJSR01015476.1, 5:WJSR01023848.1 non-syntenic]
+Phrynosoma_blainvillii: DAB2 C9A FYB1
+Pituophis_catenifer: DAB2 C9A C9B C9C FYB1
+Plestiodon_gilberti: DAB2 C9A FYB1
+Podarcis_muralis: DAB2 C9A FYB1
+Podarcis_raffonei: DAB2 C9A FYB1
+Pogona_vitticeps: DAB2 C9A FYB1
+Protobothrops_mucrosquamatus: DAB2 C9A C9B FYB1
+Pseudonaja_textilis: DAB2 C9A C9B FYB1
+Ptyas_mucosa: DAB2 C9A C9B FYB1
+Python_bivittatus: C9A FYB1  (missing flank: DAB2)
+Rhineura_floridana: DAB2 C9A FYB1
+Sceloporus_undulatus: DAB2 C9A FYB1
+Teratoscincus_roborowskii: DAB2 C9A FYB1
+Thamnophis_elegans: DAB2 C9A C9B FYB1
+Vipera_berus: DAB2 C9A C9B FYB1
+Vipera_seoanei: DAB2 C9A C9B FYB1
+Xantusia_vigilis: DAB2 C9A FYB1
+Zootoca_vivipara: DAB2 C9A FYB1

@@ -1,0 +1,27 @@
+##gff-version 3
+CM033585.1	miniprot	mRNA	308037282	308076346	2655	+	.	ID=Hydrophis_cyanocinctus_C9A;Rank=1;Identity=0.8373;Positive=0.8904;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Hydrophis_cyanocinctus_C9A
+CM033585.1	miniprot	CDS	308037282	308037358	96	+	0	Parent=Hydrophis_cyanocinctus_C9A;Rank=1;Identity=0.8077;Target=Pantherophis_obsoletus_C9A_1 1 25
+CM033585.1	miniprot	CDS	308038550	308038643	152	+	1	Parent=Hydrophis_cyanocinctus_C9A;Rank=1;Identity=0.8387;Target=Pantherophis_obsoletus_C9A_1 26 57
+CM033585.1	miniprot	CDS	308049590	308049737	212	+	0	Parent=Hydrophis_cyanocinctus_C9A;Rank=1;Identity=0.7400;Target=Pantherophis_obsoletus_C9A_1 58 106
+CM033585.1	miniprot	CDS	308050657	308050804	258	+	2	Parent=Hydrophis_cyanocinctus_C9A;Rank=1;Identity=0.8980;Target=Pantherophis_obsoletus_C9A_1 107 155
+CM033585.1	miniprot	CDS	308054553	308054691	228	+	1	Parent=Hydrophis_cyanocinctus_C9A;Rank=1;Identity=0.8913;Target=Pantherophis_obsoletus_C9A_1 156 202
+CM033585.1	miniprot	CDS	308056775	308056987	285	+	0	Parent=Hydrophis_cyanocinctus_C9A;Rank=1;Identity=0.8028;Target=Pantherophis_obsoletus_C9A_1 203 273
+CM033585.1	miniprot	CDS	308064729	308064969	397	+	0	Parent=Hydrophis_cyanocinctus_C9A;Rank=1;Identity=0.9136;Target=Pantherophis_obsoletus_C9A_1 274 353
+CM033585.1	miniprot	CDS	308071479	308071607	145	+	2	Parent=Hydrophis_cyanocinctus_C9A;Rank=1;Identity=0.6977;Target=Pantherophis_obsoletus_C9A_1 354 395
+CM033585.1	miniprot	CDS	308073128	308073309	256	+	2	Parent=Hydrophis_cyanocinctus_C9A;Rank=1;Identity=0.8167;Target=Pantherophis_obsoletus_C9A_1 396 456
+CM033585.1	miniprot	CDS	308074407	308074635	353	+	0	Parent=Hydrophis_cyanocinctus_C9A;Rank=1;Identity=0.8442;Target=Pantherophis_obsoletus_C9A_1 457 532
+CM033585.1	miniprot	CDS	308076192	308076346	273	+	2	Parent=Hydrophis_cyanocinctus_C9A;Rank=1;Identity=0.9000;Target=Pantherophis_obsoletus_C9A_1 533 583
+CM033585.1	miniprot	stop_codon	308076344	308076346	0	+	0	Parent=Hydrophis_cyanocinctus_C9A;Rank=1
+CM033585.1	miniprot	mRNA	308098503	308122422	2360	+	.	ID=Hydrophis_cyanocinctus_C9B;Rank=1;Identity=0.7324;Positive=0.8370;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Hydrophis_cyanocinctus_C9B
+CM033585.1	miniprot	CDS	308098503	308098579	104	+	0	Parent=Hydrophis_cyanocinctus_C9B;Rank=1;Identity=0.8462;Target=Pantherophis_obsoletus_C9A_1 1 25
+CM033585.1	miniprot	CDS	308099642	308099735	147	+	1	Parent=Hydrophis_cyanocinctus_C9B;Rank=1;Identity=0.7742;Target=Pantherophis_obsoletus_C9A_1 26 57
+CM033585.1	miniprot	CDS	308100355	308100502	258	+	0	Parent=Hydrophis_cyanocinctus_C9B;Rank=1;Identity=0.9000;Target=Pantherophis_obsoletus_C9A_1 58 106
+CM033585.1	miniprot	CDS	308101994	308102141	247	+	2	Parent=Hydrophis_cyanocinctus_C9B;Rank=1;Identity=0.8571;Target=Pantherophis_obsoletus_C9A_1 107 155
+CM033585.1	miniprot	CDS	308103696	308103834	214	+	1	Parent=Hydrophis_cyanocinctus_C9B;Rank=1;Identity=0.8261;Target=Pantherophis_obsoletus_C9A_1 156 202
+CM033585.1	miniprot	CDS	308105280	308105492	175	+	0	Parent=Hydrophis_cyanocinctus_C9B;Rank=1;Identity=0.5070;Target=Pantherophis_obsoletus_C9A_1 203 273
+CM033585.1	miniprot	CDS	308109633	308109873	360	+	0	Parent=Hydrophis_cyanocinctus_C9B;Rank=1;Identity=0.8272;Target=Pantherophis_obsoletus_C9A_1 274 353
+CM033585.1	miniprot	CDS	308112062	308112187	85	+	2	Parent=Hydrophis_cyanocinctus_C9B;Rank=1;Identity=0.4286;Target=Pantherophis_obsoletus_C9A_1 354 395
+CM033585.1	miniprot	CDS	308119722	308119903	220	+	2	Parent=Hydrophis_cyanocinctus_C9B;Rank=1;Identity=0.7000;Target=Pantherophis_obsoletus_C9A_1 396 456
+CM033585.1	miniprot	CDS	308121119	308121347	332	+	0	Parent=Hydrophis_cyanocinctus_C9B;Rank=1;Identity=0.7662;Target=Pantherophis_obsoletus_C9A_1 457 532
+CM033585.1	miniprot	CDS	308122268	308122422	218	+	2	Parent=Hydrophis_cyanocinctus_C9B;Rank=1;Identity=0.6800;Target=Pantherophis_obsoletus_C9A_1 533 583
+CM033585.1	miniprot	stop_codon	308122420	308122422	0	+	0	Parent=Hydrophis_cyanocinctus_C9B;Rank=1

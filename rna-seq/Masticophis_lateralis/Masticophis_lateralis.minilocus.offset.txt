@@ -1,0 +1,8 @@
+species	Masticophis_lateralis
+clade	Colubridae
+scaffold	JAUDYJ010000002.1
+window	JAUDYJ010000002.1:262395994-262580187
+offset	262395993
+new_seqname	Masticophis_lateralis_C9locus
+length	184194
+note	genomic_pos = local_pos + offset

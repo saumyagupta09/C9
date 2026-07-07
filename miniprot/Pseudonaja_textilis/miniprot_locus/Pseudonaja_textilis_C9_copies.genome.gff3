@@ -1,0 +1,27 @@
+##gff-version 3
+NW_020769310.1	miniprot	mRNA	11162573	11189196	2682	-	.	ID=Pseudonaja_textilis_C9A;Rank=1;Identity=0.8425;Positive=0.9007;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Pseudonaja_textilis_C9A
+NW_020769310.1	miniprot	CDS	11189120	11189196	109	-	0	Parent=Pseudonaja_textilis_C9A;Rank=1;Identity=0.8846;Target=Pantherophis_obsoletus_C9A_1 1 25
+NW_020769310.1	miniprot	CDS	11187828	11187921	169	-	1	Parent=Pseudonaja_textilis_C9A;Rank=1;Identity=0.9032;Target=Pantherophis_obsoletus_C9A_1 26 57
+NW_020769310.1	miniprot	CDS	11183821	11183968	212	-	0	Parent=Pseudonaja_textilis_C9A;Rank=1;Identity=0.7400;Target=Pantherophis_obsoletus_C9A_1 58 106
+NW_020769310.1	miniprot	CDS	11182750	11182897	254	-	2	Parent=Pseudonaja_textilis_C9A;Rank=1;Identity=0.8776;Target=Pantherophis_obsoletus_C9A_1 107 155
+NW_020769310.1	miniprot	CDS	11180056	11180194	237	-	1	Parent=Pseudonaja_textilis_C9A;Rank=1;Identity=0.9130;Target=Pantherophis_obsoletus_C9A_1 156 202
+NW_020769310.1	miniprot	CDS	11177654	11177866	267	-	0	Parent=Pseudonaja_textilis_C9A;Rank=1;Identity=0.7465;Target=Pantherophis_obsoletus_C9A_1 203 273
+NW_020769310.1	miniprot	CDS	11171315	11171555	406	-	0	Parent=Pseudonaja_textilis_C9A;Rank=1;Identity=0.9506;Target=Pantherophis_obsoletus_C9A_1 274 353
+NW_020769310.1	miniprot	CDS	11168712	11168840	153	-	2	Parent=Pseudonaja_textilis_C9A;Rank=1;Identity=0.6977;Target=Pantherophis_obsoletus_C9A_1 354 395
+NW_020769310.1	miniprot	CDS	11165788	11165969	262	-	2	Parent=Pseudonaja_textilis_C9A;Rank=1;Identity=0.8500;Target=Pantherophis_obsoletus_C9A_1 396 456
+NW_020769310.1	miniprot	CDS	11164307	11164535	363	-	0	Parent=Pseudonaja_textilis_C9A;Rank=1;Identity=0.8571;Target=Pantherophis_obsoletus_C9A_1 457 532
+NW_020769310.1	miniprot	CDS	11162573	11162727	250	-	2	Parent=Pseudonaja_textilis_C9A;Rank=1;Identity=0.8400;Target=Pantherophis_obsoletus_C9A_1 533 583
+NW_020769310.1	miniprot	stop_codon	11162573	11162575	0	-	0	Parent=Pseudonaja_textilis_C9A;Rank=1
+NW_020769310.1	miniprot	mRNA	11130815	11150378	2365	-	.	ID=Pseudonaja_textilis_C9B;Rank=1;Identity=0.7324;Positive=0.8405;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Pseudonaja_textilis_C9B
+NW_020769310.1	miniprot	CDS	11150302	11150378	104	-	0	Parent=Pseudonaja_textilis_C9B;Rank=1;Identity=0.8462;Target=Pantherophis_obsoletus_C9A_1 1 25
+NW_020769310.1	miniprot	CDS	11149159	11149252	147	-	1	Parent=Pseudonaja_textilis_C9B;Rank=1;Identity=0.7742;Target=Pantherophis_obsoletus_C9A_1 26 57
+NW_020769310.1	miniprot	CDS	11148387	11148534	255	-	0	Parent=Pseudonaja_textilis_C9B;Rank=1;Identity=0.8800;Target=Pantherophis_obsoletus_C9A_1 58 106
+NW_020769310.1	miniprot	CDS	11146764	11146911	252	-	2	Parent=Pseudonaja_textilis_C9B;Rank=1;Identity=0.8776;Target=Pantherophis_obsoletus_C9A_1 107 155
+NW_020769310.1	miniprot	CDS	11145067	11145205	212	-	1	Parent=Pseudonaja_textilis_C9B;Rank=1;Identity=0.8261;Target=Pantherophis_obsoletus_C9A_1 156 202
+NW_020769310.1	miniprot	CDS	11143378	11143590	174	-	0	Parent=Pseudonaja_textilis_C9B;Rank=1;Identity=0.4930;Target=Pantherophis_obsoletus_C9A_1 203 273
+NW_020769310.1	miniprot	CDS	11138054	11138294	353	-	0	Parent=Pseudonaja_textilis_C9B;Rank=1;Identity=0.8148;Target=Pantherophis_obsoletus_C9A_1 274 353
+NW_020769310.1	miniprot	CDS	11135743	11135868	86	-	2	Parent=Pseudonaja_textilis_C9B;Rank=1;Identity=0.4286;Target=Pantherophis_obsoletus_C9A_1 354 395
+NW_020769310.1	miniprot	CDS	11133302	11133483	221	-	2	Parent=Pseudonaja_textilis_C9B;Rank=1;Identity=0.7000;Target=Pantherophis_obsoletus_C9A_1 396 456
+NW_020769310.1	miniprot	CDS	11131869	11132097	343	-	0	Parent=Pseudonaja_textilis_C9B;Rank=1;Identity=0.7922;Target=Pantherophis_obsoletus_C9A_1 457 532
+NW_020769310.1	miniprot	CDS	11130815	11130969	218	-	2	Parent=Pseudonaja_textilis_C9B;Rank=1;Identity=0.6800;Target=Pantherophis_obsoletus_C9A_1 533 583
+NW_020769310.1	miniprot	stop_codon	11130815	11130817	0	-	0	Parent=Pseudonaja_textilis_C9B;Rank=1

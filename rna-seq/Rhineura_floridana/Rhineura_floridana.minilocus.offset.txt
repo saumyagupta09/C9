@@ -1,0 +1,8 @@
+species	Rhineura_floridana
+clade	Lacertoidea
+scaffold	NC_084480.1
+window	NC_084480.1:28219303-28394655
+offset	28219302
+new_seqname	Rhineura_floridana_C9locus
+length	175353
+note	genomic_pos = local_pos + offset

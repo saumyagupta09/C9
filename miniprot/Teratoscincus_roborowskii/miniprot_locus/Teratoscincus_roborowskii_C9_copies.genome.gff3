@@ -1,0 +1,13 @@
+##gff-version 3
+CM121144.1	miniprot	mRNA	23743408	23770416	1982	-	.	ID=Teratoscincus_roborowskii_C9A;Rank=1;Identity=0.5993;Positive=0.7462;Target=Anolis_carolinensis_C9A_1 1 591;Name=Teratoscincus_roborowskii_C9A
+CM121144.1	miniprot	CDS	23770340	23770416	49	-	0	Parent=Teratoscincus_roborowskii_C9A;Rank=1;Identity=0.4615;Target=Anolis_carolinensis_C9A_1 1 25
+CM121144.1	miniprot	CDS	23764154	23764247	143	-	1	Parent=Teratoscincus_roborowskii_C9A;Rank=1;Identity=0.7097;Target=Anolis_carolinensis_C9A_1 26 57
+CM121144.1	miniprot	CDS	23760016	23760160	191	-	0	Parent=Teratoscincus_roborowskii_C9A;Rank=1;Identity=0.6531;Target=Anolis_carolinensis_C9A_1 58 105
+CM121144.1	miniprot	CDS	23758743	23758893	185	-	2	Parent=Teratoscincus_roborowskii_C9A;Rank=1;Identity=0.7000;Target=Anolis_carolinensis_C9A_1 106 154
+CM121144.1	miniprot	CDS	23753748	23753886	219	-	1	Parent=Teratoscincus_roborowskii_C9A;Rank=1;Identity=0.7826;Target=Anolis_carolinensis_C9A_1 155 201
+CM121144.1	miniprot	CDS	23751362	23751610	118	-	0	Parent=Teratoscincus_roborowskii_C9A;Rank=1;Identity=0.3976;Target=Anolis_carolinensis_C9A_1 202 277
+CM121144.1	miniprot	CDS	23749993	23750233	325	-	0	Parent=Teratoscincus_roborowskii_C9A;Rank=1;Identity=0.7160;Target=Anolis_carolinensis_C9A_1 278 357
+CM121144.1	miniprot	CDS	23748756	23748881	59	-	2	Parent=Teratoscincus_roborowskii_C9A;Rank=1;Identity=0.2857;Target=Anolis_carolinensis_C9A_1 358 399
+CM121144.1	miniprot	CDS	23746825	23747006	165	-	2	Parent=Teratoscincus_roborowskii_C9A;Rank=1;Identity=0.5333;Target=Anolis_carolinensis_C9A_1 400 460
+CM121144.1	miniprot	CDS	23745363	23745591	312	-	0	Parent=Teratoscincus_roborowskii_C9A;Rank=1;Identity=0.7013;Target=Anolis_carolinensis_C9A_1 461 536
+CM121144.1	miniprot	CDS	23743408	23743571	216	-	2	Parent=Teratoscincus_roborowskii_C9A;Rank=1;Identity=0.6111;Target=Anolis_carolinensis_C9A_1 537 591

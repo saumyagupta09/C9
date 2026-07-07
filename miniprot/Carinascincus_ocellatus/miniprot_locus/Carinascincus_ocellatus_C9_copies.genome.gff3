@@ -1,0 +1,13 @@
+##gff-version 3
+OZ258364.1	miniprot	mRNA	243637521	243652062	1973	+	.	ID=Carinascincus_ocellatus_C9A;Rank=1;Identity=0.5898;Positive=0.7644;Target=Anolis_carolinensis_C9A_1 1 587;Name=Carinascincus_ocellatus_C9A
+OZ258364.1	miniprot	CDS	243637521	243637597	42	+	0	Parent=Carinascincus_ocellatus_C9A;Rank=1;Identity=0.4231;Target=Anolis_carolinensis_C9A_1 1 25
+OZ258364.1	miniprot	CDS	243638679	243638772	140	+	1	Parent=Carinascincus_ocellatus_C9A;Rank=1;Identity=0.6774;Target=Anolis_carolinensis_C9A_1 26 57
+OZ258364.1	miniprot	CDS	243639469	243639613	198	+	0	Parent=Carinascincus_ocellatus_C9A;Rank=1;Identity=0.6735;Target=Anolis_carolinensis_C9A_1 58 105
+OZ258364.1	miniprot	CDS	243640331	243640484	175	+	2	Parent=Carinascincus_ocellatus_C9A;Rank=1;Identity=0.6667;Target=Anolis_carolinensis_C9A_1 106 154
+OZ258364.1	miniprot	CDS	243641619	243641757	232	+	1	Parent=Carinascincus_ocellatus_C9A;Rank=1;Identity=0.8478;Target=Anolis_carolinensis_C9A_1 155 201
+OZ258364.1	miniprot	CDS	243644557	243644775	148	+	0	Parent=Carinascincus_ocellatus_C9A;Rank=1;Identity=0.3684;Target=Anolis_carolinensis_C9A_1 202 277
+OZ258364.1	miniprot	CDS	243646585	243646825	308	+	0	Parent=Carinascincus_ocellatus_C9A;Rank=1;Identity=0.6914;Target=Anolis_carolinensis_C9A_1 278 357
+OZ258364.1	miniprot	CDS	243648141	243648263	59	+	2	Parent=Carinascincus_ocellatus_C9A;Rank=1;Identity=0.3023;Target=Anolis_carolinensis_C9A_1 358 399
+OZ258364.1	miniprot	CDS	243649649	243649830	179	+	2	Parent=Carinascincus_ocellatus_C9A;Rank=1;Identity=0.5500;Target=Anolis_carolinensis_C9A_1 400 460
+OZ258364.1	miniprot	CDS	243650887	243651115	291	+	0	Parent=Carinascincus_ocellatus_C9A;Rank=1;Identity=0.6494;Target=Anolis_carolinensis_C9A_1 461 536
+OZ258364.1	miniprot	CDS	243651911	243652062	201	+	2	Parent=Carinascincus_ocellatus_C9A;Rank=1;Identity=0.6000;Target=Anolis_carolinensis_C9A_1 537 587

@@ -1,0 +1,27 @@
+##gff-version 3
+OZ077558.1	miniprot	mRNA	20607741	20631914	2665	-	.	ID=Vipera_berus_C9A;Rank=1;Identity=0.8302;Positive=0.9091;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Vipera_berus_C9A
+OZ077558.1	miniprot	CDS	20631838	20631914	99	-	0	Parent=Vipera_berus_C9A;Rank=1;Identity=0.8077;Target=Pantherophis_obsoletus_C9A_1 1 25
+OZ077558.1	miniprot	CDS	20630157	20630250	153	-	1	Parent=Vipera_berus_C9A;Rank=1;Identity=0.8065;Target=Pantherophis_obsoletus_C9A_1 26 57
+OZ077558.1	miniprot	CDS	20629098	20629245	225	-	0	Parent=Vipera_berus_C9A;Rank=1;Identity=0.8000;Target=Pantherophis_obsoletus_C9A_1 58 106
+OZ077558.1	miniprot	CDS	20627216	20627363	230	-	2	Parent=Vipera_berus_C9A;Rank=1;Identity=0.7959;Target=Pantherophis_obsoletus_C9A_1 107 155
+OZ077558.1	miniprot	CDS	20625431	20625569	238	-	1	Parent=Vipera_berus_C9A;Rank=1;Identity=0.9130;Target=Pantherophis_obsoletus_C9A_1 156 202
+OZ077558.1	miniprot	CDS	20623866	20624078	291	-	0	Parent=Vipera_berus_C9A;Rank=1;Identity=0.7887;Target=Pantherophis_obsoletus_C9A_1 203 273
+OZ077558.1	miniprot	CDS	20619027	20619267	374	-	0	Parent=Vipera_berus_C9A;Rank=1;Identity=0.8642;Target=Pantherophis_obsoletus_C9A_1 274 353
+OZ077558.1	miniprot	CDS	20615181	20615306	169	-	2	Parent=Vipera_berus_C9A;Rank=1;Identity=0.7857;Target=Pantherophis_obsoletus_C9A_1 354 395
+OZ077558.1	miniprot	CDS	20610535	20610716	263	-	2	Parent=Vipera_berus_C9A;Rank=1;Identity=0.8500;Target=Pantherophis_obsoletus_C9A_1 396 456
+OZ077558.1	miniprot	CDS	20608920	20609148	379	-	0	Parent=Vipera_berus_C9A;Rank=1;Identity=0.8831;Target=Pantherophis_obsoletus_C9A_1 457 532
+OZ077558.1	miniprot	CDS	20607741	20607895	244	-	2	Parent=Vipera_berus_C9A;Rank=1;Identity=0.7800;Target=Pantherophis_obsoletus_C9A_1 533 583
+OZ077558.1	miniprot	stop_codon	20607741	20607743	0	-	0	Parent=Vipera_berus_C9A;Rank=1
+OZ077558.1	miniprot	mRNA	20573470	20596712	2378	-	.	ID=Vipera_berus_C9B;Rank=1;Identity=0.7341;Positive=0.8559;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Vipera_berus_C9B
+OZ077558.1	miniprot	CDS	20596636	20596712	115	-	0	Parent=Vipera_berus_C9B;Rank=1;Identity=0.9615;Target=Pantherophis_obsoletus_C9A_1 1 25
+OZ077558.1	miniprot	CDS	20595760	20595853	140	-	1	Parent=Vipera_berus_C9B;Rank=1;Identity=0.7419;Target=Pantherophis_obsoletus_C9A_1 26 57
+OZ077558.1	miniprot	CDS	20595317	20595464	233	-	0	Parent=Vipera_berus_C9B;Rank=1;Identity=0.8000;Target=Pantherophis_obsoletus_C9A_1 58 106
+OZ077558.1	miniprot	CDS	20594050	20594197	237	-	2	Parent=Vipera_berus_C9B;Rank=1;Identity=0.8163;Target=Pantherophis_obsoletus_C9A_1 107 155
+OZ077558.1	miniprot	CDS	20591752	20591890	218	-	1	Parent=Vipera_berus_C9B;Rank=1;Identity=0.8478;Target=Pantherophis_obsoletus_C9A_1 156 202
+OZ077558.1	miniprot	CDS	20590235	20590447	198	-	0	Parent=Vipera_berus_C9B;Rank=1;Identity=0.5493;Target=Pantherophis_obsoletus_C9A_1 203 273
+OZ077558.1	miniprot	CDS	20583629	20583869	351	-	0	Parent=Vipera_berus_C9B;Rank=1;Identity=0.7901;Target=Pantherophis_obsoletus_C9A_1 274 353
+OZ077558.1	miniprot	CDS	20579825	20579950	84	-	2	Parent=Vipera_berus_C9B;Rank=1;Identity=0.3810;Target=Pantherophis_obsoletus_C9A_1 354 395
+OZ077558.1	miniprot	CDS	20575820	20576001	226	-	2	Parent=Vipera_berus_C9B;Rank=1;Identity=0.7500;Target=Pantherophis_obsoletus_C9A_1 396 456
+OZ077558.1	miniprot	CDS	20574576	20574804	365	-	0	Parent=Vipera_berus_C9B;Rank=1;Identity=0.8312;Target=Pantherophis_obsoletus_C9A_1 457 532
+OZ077558.1	miniprot	CDS	20573470	20573624	211	-	2	Parent=Vipera_berus_C9B;Rank=1;Identity=0.6600;Target=Pantherophis_obsoletus_C9A_1 533 583
+OZ077558.1	miniprot	stop_codon	20573470	20573472	0	-	0	Parent=Vipera_berus_C9B;Rank=1

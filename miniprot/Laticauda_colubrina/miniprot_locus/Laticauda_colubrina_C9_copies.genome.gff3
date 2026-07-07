@@ -1,0 +1,27 @@
+##gff-version 3
+BLBF01000010.1	miniprot	mRNA	17548633	17585812	2640	-	.	ID=Laticauda_colubrina_C9A;Rank=1;Identity=0.8373;Positive=0.8921;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Laticauda_colubrina_C9A
+BLBF01000010.1	miniprot	CDS	17585736	17585812	109	-	0	Parent=Laticauda_colubrina_C9A;Rank=1;Identity=0.8846;Target=Pantherophis_obsoletus_C9A_1 1 25
+BLBF01000010.1	miniprot	CDS	17584269	17584362	162	-	1	Parent=Laticauda_colubrina_C9A;Rank=1;Identity=0.8710;Target=Pantherophis_obsoletus_C9A_1 26 57
+BLBF01000010.1	miniprot	CDS	17579736	17579883	221	-	0	Parent=Laticauda_colubrina_C9A;Rank=1;Identity=0.7800;Target=Pantherophis_obsoletus_C9A_1 58 106
+BLBF01000010.1	miniprot	CDS	17578661	17578808	231	-	2	Parent=Laticauda_colubrina_C9A;Rank=1;Identity=0.7959;Target=Pantherophis_obsoletus_C9A_1 107 155
+BLBF01000010.1	miniprot	CDS	17576600	17576738	238	-	1	Parent=Laticauda_colubrina_C9A;Rank=1;Identity=0.9348;Target=Pantherophis_obsoletus_C9A_1 156 202
+BLBF01000010.1	miniprot	CDS	17572371	17572583	256	-	0	Parent=Laticauda_colubrina_C9A;Rank=1;Identity=0.7324;Target=Pantherophis_obsoletus_C9A_1 203 273
+BLBF01000010.1	miniprot	CDS	17568007	17568247	385	-	0	Parent=Laticauda_colubrina_C9A;Rank=1;Identity=0.9012;Target=Pantherophis_obsoletus_C9A_1 274 353
+BLBF01000010.1	miniprot	CDS	17560668	17560796	145	-	2	Parent=Laticauda_colubrina_C9A;Rank=1;Identity=0.6977;Target=Pantherophis_obsoletus_C9A_1 354 395
+BLBF01000010.1	miniprot	CDS	17554113	17554294	259	-	2	Parent=Laticauda_colubrina_C9A;Rank=1;Identity=0.8667;Target=Pantherophis_obsoletus_C9A_1 396 456
+BLBF01000010.1	miniprot	CDS	17552626	17552854	359	-	0	Parent=Laticauda_colubrina_C9A;Rank=1;Identity=0.8442;Target=Pantherophis_obsoletus_C9A_1 457 532
+BLBF01000010.1	miniprot	CDS	17548633	17548787	275	-	2	Parent=Laticauda_colubrina_C9A;Rank=1;Identity=0.9200;Target=Pantherophis_obsoletus_C9A_1 533 583
+BLBF01000010.1	miniprot	stop_codon	17548633	17548635	0	-	0	Parent=Laticauda_colubrina_C9A;Rank=1
+BLBF01000010.1	miniprot	mRNA	17342126	17520438	2339	-	.	ID=Laticauda_colubrina_C9B;Rank=1;Identity=0.7273;Positive=0.8285;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Laticauda_colubrina_C9B
+BLBF01000010.1	miniprot	CDS	17520362	17520438	104	-	0	Parent=Laticauda_colubrina_C9B;Rank=1;Identity=0.8462;Target=Pantherophis_obsoletus_C9A_1 1 25
+BLBF01000010.1	miniprot	CDS	17519188	17519281	146	-	1	Parent=Laticauda_colubrina_C9B;Rank=1;Identity=0.7742;Target=Pantherophis_obsoletus_C9A_1 26 57
+BLBF01000010.1	miniprot	CDS	17518420	17518567	252	-	0	Parent=Laticauda_colubrina_C9B;Rank=1;Identity=0.8800;Target=Pantherophis_obsoletus_C9A_1 58 106
+BLBF01000010.1	miniprot	CDS	17516783	17516930	244	-	2	Parent=Laticauda_colubrina_C9B;Rank=1;Identity=0.8367;Target=Pantherophis_obsoletus_C9A_1 107 155
+BLBF01000010.1	miniprot	CDS	17515048	17515186	212	-	1	Parent=Laticauda_colubrina_C9B;Rank=1;Identity=0.8261;Target=Pantherophis_obsoletus_C9A_1 156 202
+BLBF01000010.1	miniprot	CDS	17513405	17513617	171	-	0	Parent=Laticauda_colubrina_C9B;Rank=1;Identity=0.4930;Target=Pantherophis_obsoletus_C9A_1 203 273
+BLBF01000010.1	miniprot	CDS	17509332	17509572	355	-	0	Parent=Laticauda_colubrina_C9B;Rank=1;Identity=0.8148;Target=Pantherophis_obsoletus_C9A_1 274 353
+BLBF01000010.1	miniprot	CDS	17507164	17507289	81	-	2	Parent=Laticauda_colubrina_C9B;Rank=1;Identity=0.4286;Target=Pantherophis_obsoletus_C9A_1 354 395
+BLBF01000010.1	miniprot	CDS	17344623	17344804	224	-	2	Parent=Laticauda_colubrina_C9B;Rank=1;Identity=0.7167;Target=Pantherophis_obsoletus_C9A_1 396 456
+BLBF01000010.1	miniprot	CDS	17343188	17343416	336	-	0	Parent=Laticauda_colubrina_C9B;Rank=1;Identity=0.7792;Target=Pantherophis_obsoletus_C9A_1 457 532
+BLBF01000010.1	miniprot	CDS	17342126	17342280	214	-	2	Parent=Laticauda_colubrina_C9B;Rank=1;Identity=0.6600;Target=Pantherophis_obsoletus_C9A_1 533 583
+BLBF01000010.1	miniprot	stop_codon	17342126	17342128	0	-	0	Parent=Laticauda_colubrina_C9B;Rank=1

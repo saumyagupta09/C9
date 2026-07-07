@@ -1,0 +1,15 @@
+RELAX summary: colubrid_ABC_FGC9B.RELAX.json
+============================================================
+
+Relaxation/intensification parameter K = 0.8425787996113075
+LRT = 0.3829833108757157
+p-value = 0.5360109276549758
+verdict: not significant
+
+Model fits (Log-L, AIC-c, parameters):
+  General descriptive: LogL=-5417.630060158994, AIC-c=10958.34161874521, np=61
+  MG94xREV with separate rates for branch sets: LogL=-5462.616170017944, AIC-c=10999.63302399143, np=37
+  Nucleotide GTR: LogL=-5557.988396589772, AIC-c=11174.05910938732, np=29
+  RELAX alternative: LogL=-5427.97733079817, AIC-c=10938.44567956041, np=41
+  RELAX null: LogL=-5428.168822453608, AIC-c=10936.80521440116, np=40
+  RELAX partitioned descriptive: LogL=-5424.038120027009, AIC-c=10938.66682493276, np=45

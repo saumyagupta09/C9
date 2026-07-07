@@ -1,0 +1,15 @@
+RELAX summary: dupsnakes_FGC9A.RELAX.json
+============================================================
+
+Relaxation/intensification parameter K = 0.9097710276888875
+LRT = 0.9495573687236174
+p-value = 0.3298319909378742
+verdict: not significant
+
+Model fits (Log-L, AIC-c, parameters):
+  General descriptive: LogL=-14329.42403699051, AIC-c=29019.49014040169, np=179
+  MG94xREV with separate rates for branch sets: LogL=-14524.20010428182, AIC-c=29243.17709643549, np=97
+  Nucleotide GTR: LogL=-14718.74020389787, AIC-c=29615.69801170773, np=89
+  RELAX alternative: LogL=-14417.01471341022, AIC-c=29038.88821621023, np=102
+  RELAX null: LogL=-14417.48949209458, AIC-c=29037.82106363988, np=101
+  RELAX partitioned descriptive: LogL=-14416.93897265742, AIC-c=29044.78785375174, np=105

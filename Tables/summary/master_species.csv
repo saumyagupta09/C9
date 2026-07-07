@@ -1,0 +1,57 @@
+species,clade,role,n_copies,n_syntenic,n_intact_ORF,n_disrupted,n_fragment,gene_order
+Acritoscincus_duperreyi,2,Present study,1,1,1,0,0,DAB2 C9A FYB1
+Anniella_stebbinsi,4,Present study,1,1,1,0,0,DAB2 C9A FYB1
+Anolis_carolinensis,5,Sharma et al (2022),2,2,2,0,0,DAB2 C9A C9B FYB1
+Anolis_sagrei,5,Present study,2,2,2,0,0,DAB2 C9A C9B FYB1
+Arizona_elegans,7,Present study,3,3,3,0,0,DAB2 C9A C9B C9C FYB1
+Aspidoscelis_tigris,3,Present study,1,1,1,0,0,DAB2 C9A FYB1
+Bothrops_jararaca,8,Sharma et al (2022),3,0,2,0,1,DAB2 C9A C9B + [1:JAGTXL010003666.1 non-syntenic]  (missing flank: FYB1)
+Bradypodion_pumilum,5,Present study,1,1,0,1,0,DAB2 C9A FYB1
+Bungarus_multicinctus,9,Present study,2,2,2,0,0,DAB2 C9A C9B FYB1
+Candoia_aspera,6,Present study,1,1,1,0,0,DAB2 C9A FYB1
+Carinascincus_ocellatus,2,Present study,1,1,1,0,0,DAB2 C9A FYB1
+Chrysopelea_ornata,7,Sharma et al (2022),2,0,0,1,1,C9A + [2:JAHWGE011068518.1 non-syntenic]  (missing flank: DAB2FYB1)
+Correlophus_ciliatus,1,Present study,1,1,1,0,0,DAB2 C9A FYB1
+Crotalus_adamanteus,8,Present study,2,2,2,0,0,DAB2 C9A C9B FYB1
+Crotalus_tigris,8,Sharma et al (2022),2,2,2,0,0,DAB2 C9A C9B FYB1
+Cryptoblepharus_egeriae,2,Present study,1,1,1,0,0,DAB2 C9A FYB1
+Cyclura_pinguis,5,Present study,1,1,1,0,0,DAB2 C9A FYB1
+Dopasia_gracilis,4,Present study,1,1,0,1,0,DAB2 C9A FYB1
+Elgaria_multicarinata,4,Present study,1,1,1,0,0,DAB2 C9A FYB1
+Eublepharis_macularius,1,Present study,1,1,1,0,0,DAB2 C9A FYB1
+Furcifer_pardalis,5,Present study,1,1,1,0,0,DAB2 C9A FYB1
+Gambelia_wislizenii,5,Present study,1,1,1,0,0,DAB2 C9A FYB1
+Gekko_japonicus,1,Sharma et al (2022),1,1,1,0,0,DAB2 C9A FYB1
+Gekko_kuhli,1,Present study,1,1,1,0,0,DAB2 C9A FYB1
+Hemicordylus_capensis,2,Present study,1,1,1,0,0,DAB2 C9A FYB1
+Hemorrhois_hippocrepis,7,Present study,3,3,3,0,0,DAB2 C9A C9B C9C FYB1
+Hydrophis_cyanocinctus,9,Sharma et al (2022),2,2,2,0,0,DAB2 C9A C9B FYB1
+Hydrophis_major,9,Present study,2,2,2,0,0,DAB2 C9A C9B FYB1
+Lacerta_agilis,3,Shared,1,1,1,0,0,DAB2 C9A FYB1
+Laticauda_colubrina,9,Sharma et al (2022),2,1,2,0,0,DAB2 C9A C9B FYB1
+Laudakia_wui,5,Present study,1,1,0,1,0,DAB2 C9A FYB1
+Liasis_olivaceus,6,Present study,1,1,1,0,0,DAB2 C9A FYB1
+Malpolon_monspessulanus,7,Present study,2,2,2,0,0,DAB2 C9A C9B FYB1
+Masticophis_lateralis,7,Present study,2,2,2,0,0,DAB2 C9A C9B FYB1
+Mediodactylus_kotschyi,1,Present study,1,1,1,0,0,DAB2 C9A FYB1
+Naja_naja,9,Sharma et al (2022),3,2,1,1,1,DAB2 C9A C9B FYB1 + [3:SOZL01000598.1 non-syntenic]
+Notechis_scutatus,9,Sharma et al (2022),3,2,1,0,2,DAB2 C9A C9B FYB1 + [3:NW_020719678.1 non-syntenic]
+Pantherophis_obsoletus,7,Sharma et al (2022),5,3,3,0,2,"DAB2 C9A C9B C9C FYB1 + [4:WJSR01015476.1, 5:WJSR01023848.1 non-syntenic]"
+Phrynosoma_blainvillii,5,Present study,1,1,1,0,0,DAB2 C9A FYB1
+Pituophis_catenifer,7,Shared,3,3,3,0,0,DAB2 C9A C9B C9C FYB1
+Plestiodon_gilberti,2,Present study,1,1,1,0,0,DAB2 C9A FYB1
+Podarcis_muralis,3,Sharma et al (2022),1,1,0,1,0,DAB2 C9A FYB1
+Podarcis_raffonei,3,Present study,1,1,1,0,0,DAB2 C9A FYB1
+Pogona_vitticeps,5,Shared,1,1,1,0,0,DAB2 C9A FYB1
+Protobothrops_mucrosquamatus,8,Sharma et al (2022),2,2,2,0,0,DAB2 C9A C9B FYB1
+Pseudonaja_textilis,9,Sharma et al (2022),2,2,2,0,0,DAB2 C9A C9B FYB1
+Ptyas_mucosa,7,Sharma et al (2022),2,2,2,0,0,DAB2 C9A C9B FYB1
+Python_bivittatus,6,Sharma et al (2022),1,0,0,1,0,C9A FYB1  (missing flank: DAB2)
+Rhineura_floridana,3,Present study,1,1,1,0,0,DAB2 C9A FYB1
+Sceloporus_undulatus,5,Sharma et al (2022),1,1,1,0,0,DAB2 C9A FYB1
+Teratoscincus_roborowskii,1,Present study,1,1,1,0,0,DAB2 C9A FYB1
+Thamnophis_elegans,7,Sharma et al (2022),2,2,2,0,0,DAB2 C9A C9B FYB1
+Vipera_berus,8,Sharma et al (2022),2,2,2,0,0,DAB2 C9A C9B FYB1
+Vipera_seoanei,8,Present study,2,2,2,0,0,DAB2 C9A C9B FYB1
+Xantusia_vigilis,2,Present study,1,1,1,0,0,DAB2 C9A FYB1
+Zootoca_vivipara,3,Sharma et al (2022),1,1,1,0,0,DAB2 C9A FYB1

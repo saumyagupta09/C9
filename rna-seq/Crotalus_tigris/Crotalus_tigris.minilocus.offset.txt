@@ -1,0 +1,8 @@
+species	Crotalus_tigris
+clade	Viperidae
+scaffold	NW_024096824.1
+window	NW_024096824.1:1961129-2124100
+offset	1961128
+new_seqname	Crotalus_tigris_C9locus
+length	162972
+note	genomic_pos = local_pos + offset

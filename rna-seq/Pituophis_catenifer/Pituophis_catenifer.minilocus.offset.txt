@@ -1,0 +1,8 @@
+species	Pituophis_catenifer
+clade	Colubridae
+scaffold	NW_027256882.1
+window	NW_027256882.1:274443201-274658810
+offset	274443200
+new_seqname	Pituophis_catenifer_C9locus
+length	215610
+note	genomic_pos = local_pos + offset

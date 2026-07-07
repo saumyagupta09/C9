@@ -1,0 +1,14 @@
+##gff-version 3
+JANXHW010000002.1	miniprot	mRNA	19205563	19229137	2012	-	.	ID=Plestiodon_gilberti_C9A;Rank=1;Identity=0.5970;Positive=0.7622;Target=Anolis_carolinensis_C9A_1 1 591;Name=Plestiodon_gilberti_C9A
+JANXHW010000002.1	miniprot	CDS	19229061	19229137	40	-	0	Parent=Plestiodon_gilberti_C9A;Rank=1;Identity=0.4231;Target=Anolis_carolinensis_C9A_1 1 25
+JANXHW010000002.1	miniprot	CDS	19227446	19227539	138	-	1	Parent=Plestiodon_gilberti_C9A;Rank=1;Identity=0.6774;Target=Anolis_carolinensis_C9A_1 26 57
+JANXHW010000002.1	miniprot	CDS	19223860	19224004	208	-	0	Parent=Plestiodon_gilberti_C9A;Rank=1;Identity=0.7143;Target=Anolis_carolinensis_C9A_1 58 105
+JANXHW010000002.1	miniprot	CDS	19222400	19222553	184	-	2	Parent=Plestiodon_gilberti_C9A;Rank=1;Identity=0.7059;Target=Anolis_carolinensis_C9A_1 106 154
+JANXHW010000002.1	miniprot	CDS	19221153	19221291	228	-	1	Parent=Plestiodon_gilberti_C9A;Rank=1;Identity=0.8261;Target=Anolis_carolinensis_C9A_1 155 201
+JANXHW010000002.1	miniprot	CDS	19216867	19217091	161	-	0	Parent=Plestiodon_gilberti_C9A;Rank=1;Identity=0.4211;Target=Anolis_carolinensis_C9A_1 202 277
+JANXHW010000002.1	miniprot	CDS	19215350	19215590	308	-	0	Parent=Plestiodon_gilberti_C9A;Rank=1;Identity=0.6914;Target=Anolis_carolinensis_C9A_1 278 357
+JANXHW010000002.1	miniprot	CDS	19212459	19212584	86	-	2	Parent=Plestiodon_gilberti_C9A;Rank=1;Identity=0.3333;Target=Anolis_carolinensis_C9A_1 358 399
+JANXHW010000002.1	miniprot	CDS	19211233	19211414	183	-	2	Parent=Plestiodon_gilberti_C9A;Rank=1;Identity=0.5500;Target=Anolis_carolinensis_C9A_1 400 460
+JANXHW010000002.1	miniprot	CDS	19209439	19209667	288	-	0	Parent=Plestiodon_gilberti_C9A;Rank=1;Identity=0.6494;Target=Anolis_carolinensis_C9A_1 461 536
+JANXHW010000002.1	miniprot	CDS	19205563	19205729	188	-	2	Parent=Plestiodon_gilberti_C9A;Rank=1;Identity=0.5185;Target=Anolis_carolinensis_C9A_1 537 591
+JANXHW010000002.1	miniprot	stop_codon	19205563	19205565	0	-	0	Parent=Plestiodon_gilberti_C9A;Rank=1

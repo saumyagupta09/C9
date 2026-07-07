@@ -1,0 +1,5 @@
+Locus-restricted miniprot run (only the C9 locus sub-sequence given as target).
+Inputs:  *_peptide.fa = query protein ; C9{A,B,C}.fa = locus target subsequence (+.mpi index)
+Outputs: C9{A,B,C}.gff (model on locus) ; C9{A,B,C}.{cds,exons,pep}.fa ; Anolis_sagrei_C9_copies.genome.gff3 (genome coords)
+         (7 special species also have *_guided.gff + *.NOTE.txt = reference-guided exon recovery)
+IGV: load C9{A,B,C}.fa + C9{A,B,C}.gff (self-contained), or genome + *_copies.genome.gff3

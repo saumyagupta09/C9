@@ -1,0 +1,16 @@
+Naja_naja C9B — CORRECTED 2026-07-02: FUNCTIONAL gene, NOT a pseudogene.
+
+Through SRA-read blast (Illumina WGS reads vs the C9B query) we built a read consensus of the
+C9B locus. The consensus is a COMPLETE INTACT ORF: 11 exons, 1752 nt / 583 aa, ATG start,
+terminal stop, 0 internal stops.
+
+The prior "full-length pseudogene (25 internal stops)" call was an ASSEMBLY/ANNOTATION ARTIFACT:
+the stored reference carried ~5 bp of deletion errors (4 bp in exon 7, 1 bp in exon 10) causing a
+frameshift and 25 spurious downstream stop codons (CDS intact through exon 6, stops appearing from
+exon 7). The reads restore the missing bases and the reading frame closes cleanly. The consensus
+matches the stored C9B at 93-100% across 10/11 exons (exon 7 = stored C9B + 4 bp inserted; entirely
+distinct from C9A), confirming it is the true C9B locus, corrected.
+
+Old (erroneous) files kept as Naja_naja_C9B_pseudogene.{cds,exons,pep}.fa (+ .NOTE.txt).
+*Naja naja* is a genuine TWO-copy species (C9A + C9B both functional).
+SRA-blast SAM: Deliverables/sra_blast/Naja_naja_C9B_sra.sam

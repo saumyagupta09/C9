@@ -1,0 +1,8 @@
+species	Anolis_carolinensis
+clade	Iguania
+scaffold	NC_085842.1
+window	NC_085842.1:302081631-302242564
+offset	302081630
+new_seqname	Anolis_carolinensis_C9locus
+length	160934
+note	genomic_pos = local_pos + offset

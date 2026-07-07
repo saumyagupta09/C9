@@ -1,0 +1,13 @@
+##gff-version 3
+NC_132823.1	miniprot	mRNA	298121791	298144601	2200	+	.	ID=Pogona_vitticeps_C9A;Rank=1;Identity=0.6589;Positive=0.7960;Target=Anolis_carolinensis_C9A_1 1 591;Name=Pogona_vitticeps_C9A
+NC_132823.1	miniprot	CDS	298121791	298121867	60	+	0	Parent=Pogona_vitticeps_C9A;Rank=1;Identity=0.5000;Target=Anolis_carolinensis_C9A_1 1 25
+NC_132823.1	miniprot	CDS	298122842	298122935	142	+	1	Parent=Pogona_vitticeps_C9A;Rank=1;Identity=0.7097;Target=Anolis_carolinensis_C9A_1 26 57
+NC_132823.1	miniprot	CDS	298125070	298125214	219	+	0	Parent=Pogona_vitticeps_C9A;Rank=1;Identity=0.7551;Target=Anolis_carolinensis_C9A_1 58 105
+NC_132823.1	miniprot	CDS	298127153	298127300	236	+	2	Parent=Pogona_vitticeps_C9A;Rank=1;Identity=0.8367;Target=Anolis_carolinensis_C9A_1 106 154
+NC_132823.1	miniprot	CDS	298129470	298129608	222	+	1	Parent=Pogona_vitticeps_C9A;Rank=1;Identity=0.8043;Target=Anolis_carolinensis_C9A_1 155 201
+NC_132823.1	miniprot	CDS	298130171	298130410	180	+	0	Parent=Pogona_vitticeps_C9A;Rank=1;Identity=0.4875;Target=Anolis_carolinensis_C9A_1 202 277
+NC_132823.1	miniprot	CDS	298132062	298132302	344	+	0	Parent=Pogona_vitticeps_C9A;Rank=1;Identity=0.7778;Target=Anolis_carolinensis_C9A_1 278 357
+NC_132823.1	miniprot	CDS	298135369	298135494	80	+	2	Parent=Pogona_vitticeps_C9A;Rank=1;Identity=0.3810;Target=Anolis_carolinensis_C9A_1 358 399
+NC_132823.1	miniprot	CDS	298137980	298138161	182	+	2	Parent=Pogona_vitticeps_C9A;Rank=1;Identity=0.5667;Target=Anolis_carolinensis_C9A_1 400 460
+NC_132823.1	miniprot	CDS	298140282	298140510	328	+	0	Parent=Pogona_vitticeps_C9A;Rank=1;Identity=0.7273;Target=Anolis_carolinensis_C9A_1 461 536
+NC_132823.1	miniprot	CDS	298144429	298144601	207	+	2	Parent=Pogona_vitticeps_C9A;Rank=1;Identity=0.6316;Target=Anolis_carolinensis_C9A_1 537 591

@@ -1,0 +1,14 @@
+##gff-version 3
+CM061348.1	miniprot	mRNA	242161515	242180997	2421	+	.	ID=Liasis_olivaceus_C9A;Rank=1;Identity=0.7479;Positive=0.8525;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Liasis_olivaceus_C9A
+CM061348.1	miniprot	CDS	242161515	242161591	105	+	0	Parent=Liasis_olivaceus_C9A;Rank=1;Identity=0.8462;Target=Pantherophis_obsoletus_C9A_1 1 25
+CM061348.1	miniprot	CDS	242162989	242163082	147	+	1	Parent=Liasis_olivaceus_C9A;Rank=1;Identity=0.8065;Target=Pantherophis_obsoletus_C9A_1 26 57
+CM061348.1	miniprot	CDS	242163937	242164084	181	+	0	Parent=Liasis_olivaceus_C9A;Rank=1;Identity=0.6200;Target=Pantherophis_obsoletus_C9A_1 58 106
+CM061348.1	miniprot	CDS	242164990	242165137	239	+	2	Parent=Liasis_olivaceus_C9A;Rank=1;Identity=0.8163;Target=Pantherophis_obsoletus_C9A_1 107 155
+CM061348.1	miniprot	CDS	242166917	242167055	207	+	1	Parent=Liasis_olivaceus_C9A;Rank=1;Identity=0.7826;Target=Pantherophis_obsoletus_C9A_1 156 202
+CM061348.1	miniprot	CDS	242168378	242168590	241	+	0	Parent=Liasis_olivaceus_C9A;Rank=1;Identity=0.6620;Target=Pantherophis_obsoletus_C9A_1 203 273
+CM061348.1	miniprot	CDS	242170901	242171141	371	+	0	Parent=Liasis_olivaceus_C9A;Rank=1;Identity=0.8519;Target=Pantherophis_obsoletus_C9A_1 274 353
+CM061348.1	miniprot	CDS	242175092	242175217	144	+	2	Parent=Liasis_olivaceus_C9A;Rank=1;Identity=0.6429;Target=Pantherophis_obsoletus_C9A_1 354 395
+CM061348.1	miniprot	CDS	242177764	242177945	242	+	2	Parent=Liasis_olivaceus_C9A;Rank=1;Identity=0.7667;Target=Pantherophis_obsoletus_C9A_1 396 456
+CM061348.1	miniprot	CDS	242179221	242179449	347	+	0	Parent=Liasis_olivaceus_C9A;Rank=1;Identity=0.7922;Target=Pantherophis_obsoletus_C9A_1 457 532
+CM061348.1	miniprot	CDS	242180846	242180997	197	+	2	Parent=Liasis_olivaceus_C9A;Rank=1;Identity=0.6400;Target=Pantherophis_obsoletus_C9A_1 533 583
+CM061348.1	miniprot	stop_codon	242180995	242180997	0	+	0	Parent=Liasis_olivaceus_C9A;Rank=1

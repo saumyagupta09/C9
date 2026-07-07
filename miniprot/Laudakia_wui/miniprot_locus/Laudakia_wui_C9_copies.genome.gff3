@@ -1,0 +1,14 @@
+##gff-version 3
+CM080059.1	miniprot	mRNA	22212516	22236597	2260	-	.	ID=Laudakia_wui_C9A;Rank=1;Identity=0.6802;Positive=0.8122;Target=Anolis_carolinensis_C9A_1 1 591;Name=Laudakia_wui_C9A
+CM080059.1	miniprot	CDS	22236521	22236597	69	-	0	Parent=Laudakia_wui_C9A;Rank=1;Identity=0.5769;Target=Anolis_carolinensis_C9A_1 1 25
+CM080059.1	miniprot	CDS	22233743	22233836	152	-	1	Parent=Laudakia_wui_C9A;Rank=1;Identity=0.7097;Target=Anolis_carolinensis_C9A_1 26 57
+CM080059.1	miniprot	CDS	22230402	22230546	204	-	0	Parent=Laudakia_wui_C9A;Rank=1;Identity=0.7143;Target=Anolis_carolinensis_C9A_1 58 105
+CM080059.1	miniprot	CDS	22228164	22228311	240	-	2	Parent=Laudakia_wui_C9A;Rank=1;Identity=0.8571;Target=Anolis_carolinensis_C9A_1 106 154
+CM080059.1	miniprot	CDS	22227007	22227145	234	-	1	Parent=Laudakia_wui_C9A;Rank=1;Identity=0.8478;Target=Anolis_carolinensis_C9A_1 155 201
+CM080059.1	miniprot	CDS	22223545	22223772	188	-	0	Parent=Laudakia_wui_C9A;Rank=1;Identity=0.5132;Target=Anolis_carolinensis_C9A_1 202 277
+CM080059.1	miniprot	CDS	22222584	22222824	315	-	0	Parent=Laudakia_wui_C9A;Rank=1;Identity=0.7037;Target=Anolis_carolinensis_C9A_1 278 357
+CM080059.1	miniprot	CDS	22218582	22218707	97	-	2	Parent=Laudakia_wui_C9A;Rank=1;Identity=0.4762;Target=Anolis_carolinensis_C9A_1 358 399
+CM080059.1	miniprot	CDS	22216658	22216839	181	-	2	Parent=Laudakia_wui_C9A;Rank=1;Identity=0.6000;Target=Anolis_carolinensis_C9A_1 400 460
+CM080059.1	miniprot	CDS	22214460	22214688	361	-	0	Parent=Laudakia_wui_C9A;Rank=1;Identity=0.8052;Target=Anolis_carolinensis_C9A_1 461 536
+CM080059.1	miniprot	CDS	22212516	22212682	219	-	2	Parent=Laudakia_wui_C9A;Rank=1;Identity=0.6481;Target=Anolis_carolinensis_C9A_1 537 591
+CM080059.1	miniprot	stop_codon	22212516	22212518	0	-	0	Parent=Laudakia_wui_C9A;Rank=1

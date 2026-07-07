@@ -1,0 +1,13 @@
+##gff-version 3
+CM123437.1	miniprot	mRNA	30187464	30215493	1953	-	.	ID=Xantusia_vigilis_C9A;Rank=1;Identity=0.6170;Positive=0.7677;Target=Anolis_carolinensis_C9A_1 29 591;Name=Xantusia_vigilis_C9A
+CM123437.1	miniprot	CDS	30215407	30215493	143	-	0	Parent=Xantusia_vigilis_C9A;Rank=1;Identity=0.7241;Target=Anolis_carolinensis_C9A_1 29 57
+CM123437.1	miniprot	CDS	30210588	30210735	208	-	0	Parent=Xantusia_vigilis_C9A;Rank=1;Identity=0.7600;Target=Anolis_carolinensis_C9A_1 58 105
+CM123437.1	miniprot	CDS	30206299	30206446	203	-	2	Parent=Xantusia_vigilis_C9A;Rank=1;Identity=0.7347;Target=Anolis_carolinensis_C9A_1 106 154
+CM123437.1	miniprot	CDS	30204030	30204168	228	-	1	Parent=Xantusia_vigilis_C9A;Rank=1;Identity=0.8261;Target=Anolis_carolinensis_C9A_1 155 201
+CM123437.1	miniprot	CDS	30200826	30201050	160	-	0	Parent=Xantusia_vigilis_C9A;Rank=1;Identity=0.4605;Target=Anolis_carolinensis_C9A_1 202 277
+CM123437.1	miniprot	CDS	30196709	30196949	325	-	0	Parent=Xantusia_vigilis_C9A;Rank=1;Identity=0.7160;Target=Anolis_carolinensis_C9A_1 278 357
+CM123437.1	miniprot	CDS	30195377	30195502	65	-	2	Parent=Xantusia_vigilis_C9A;Rank=1;Identity=0.2857;Target=Anolis_carolinensis_C9A_1 358 399
+CM123437.1	miniprot	CDS	30193594	30193775	164	-	2	Parent=Xantusia_vigilis_C9A;Rank=1;Identity=0.5167;Target=Anolis_carolinensis_C9A_1 400 460
+CM123437.1	miniprot	CDS	30189872	30190081	297	-	0	Parent=Xantusia_vigilis_C9A;Rank=1;Identity=0.7143;Target=Anolis_carolinensis_C9A_1 461 530
+CM123437.1	miniprot	CDS	30187464	30187622	160	-	0	Parent=Xantusia_vigilis_C9A;Rank=1;Identity=0.4754;Target=Anolis_carolinensis_C9A_1 531 591
+CM123437.1	miniprot	stop_codon	30187464	30187466	0	-	0	Parent=Xantusia_vigilis_C9A;Rank=1

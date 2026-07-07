@@ -1,0 +1,12 @@
+Notechis_scutatus C9B — COMPLETED 2026-07-01 (now a full intact functional gene)
+
+Exon 1 and Exon 2 were recovered from Illumina WGS reads (SRA ERR2714264) blasted against the
+C9 exons; the assembly gap that had hidden exon 1 (and a mis-set exon-2 boundary) is now resolved.
+FINAL C9B: 11 exons, 1752 nt / 583 aa, ATG start, terminal stop, 0 internal stops = INTACT/FUNCTIONAL.
+  exon_1 (77 nt, read-derived): ATGTCTTCTGCTGTGCTTCTTGTAGGAGTTCTCTGCATTTTAGGAGCAAATGGTTTTGCCTCTGAAGGGAAAGCAAG
+  exon_2 (94 nt, read-derived): GTTGAAAAGGGAACCTAATGCTCCAGCGCCCATTGATTGCTTGCTGACTACCTGGAGTGCTTGGGGACCATGTAGTCCGTGCTCAAAAGAAAGA
+  exons 3-11: from the assembled locus (orphan scaffold NW_020719678 exons 3-6 + main scaffold
+              NW_020716626.1:11,074,675-11,083,116 exons 7-11).
+Genomic C9A (DAB2-proximal, complete) = NW_020716626.1:11,106,491-11,139,037.
+Supersedes: the "near-intact (exon1 gap)" call (2026-06-30) and the earlier "5-exon remnant" call.
+Notechis is a genuine TWO-copy, both-functional species (C9A + C9B).

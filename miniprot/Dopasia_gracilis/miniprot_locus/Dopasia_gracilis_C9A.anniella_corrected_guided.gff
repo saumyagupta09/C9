@@ -1,0 +1,15 @@
+##gff-version 3
+##PAF	Anniella_corrected	646	0	646	-	CM125122.1:23110000-23150000	40001	6618	32941	1518	1938	0	AS:i:2333	ms:i:2671	np:i:563	fs:i:3	st:i:0	da:i:0	do:i:0	cg:Z:22M2169V31M4975N37M2G10M2285U48M2783V46M1871N23M2I2G35M7I3M1I5M3I60M1916N80M1766U39M2243U60M1907N70M2G5M2530U50M	cs:Z::22*agR~gt2166ag-g:1*acgP:1*cagE:3*ctaP:2*gtcI:7*agtG:6*tccP:1*gcaR:3~gt4975ag:7*aagN*tatF:8*gtgL:5*cgcQ:1*agcR:3*gacE:6*aagE*ttA:3*agtK:4*cagE:1*gG~gt2282ag-ga:3*aagQ*agtN:12*ctcF:4*gacN:12*gtcI:5*attM:5*catR*ggG~gt2780ag-t*gtgL:7*aagR*ggaA*agcR*ccaA:8*atgR:1*acaD:5*aatH:3*tacF:7*gcaG:5~gt1871ag:7*agaT:2*aacS*tatF*gagD:3*actS*tcaT:1*accK*catQ:1*ttcY+NS*agR*cagE:3*aggK:7*actN:4*aaaR*actA*gcaE:1*gcgT*ccaS:2*gacE:1*ggaK*gatE*gtaA:1*gtgA:2*gcaS+EMEEAAL*gggP*acaL:1+T*gatE:3*ccgA+LPS*aatE*ccgM:1*gatE:4*gctL*ccaS:1*aatT:1*ggtE:2*atgA:1*gctH*ttgS:7*gtcT:1*gttA:3*ataV*ggaA:1*cgtN:2*ttcL:19*aaaQ~gt1916ag:1*caaR:35*agtI:12*atgL:7*aagR:1*ataT*gttL:2*aaaT:8*gaaQ:4*aaaR:1*gG~gt1763ag-ga:2*gttA:10*ataL:1*attF:1*ataM*gctD:1*gaaG*ggtA*cttF*aatT:1*gaaQ*cgtH*gaaG:6*cagE*gatG*cgtS:1*caaK*gG~gt2240ag-gt:2*ttgS:2*aagN:3*catN:33*gtcI:16~gt1907ag:4*tctA:8*gacA*tctA:4*caaR:3*caaE:23*attM:4*aggK:11*gacE:5*cgT:4*ccaA*gG~gt2527ag-gc:1*gtaL:13*tcgQ:1*gaaD:4*attV:9*cccR:5*cggP:1*gcaT:1*gaaA*cagE:6
+CM125122.1:23110000-23150000	miniprot	mRNA	6616	32941	2671	-	.	ID=MP000001;Rank=1;Identity=0.7833;Positive=0.8715;Frameshift=3;Target=Anniella_corrected 1 646
+CM125122.1:23110000-23150000	miniprot	CDS	32874	32941	112	-	0	Parent=MP000001;Rank=1;Identity=1.0000;Target=Anniella_corrected 1 22
+CM125122.1:23110000-23150000	miniprot	CDS	30614	30707	145	-	1	Parent=MP000001;Rank=1;Identity=0.7742;Target=Anniella_corrected 23 54
+CM125122.1:23110000-23150000	miniprot	CDS	25495	25638	216	-	0	Parent=MP000001;Rank=1;Identity=0.7959;Frameshift=1;Target=Anniella_corrected 55 102
+CM125122.1:23110000-23150000	miniprot	CDS	23065	23212	246	-	2	Parent=MP000001;Rank=1;Identity=0.8571;Target=Anniella_corrected 103 151
+CM125122.1:23110000-23150000	miniprot	CDS	20146	20284	210	-	1	Parent=MP000001;Rank=1;Identity=0.7826;Target=Anniella_corrected 152 198
+CM125122.1:23110000-23150000	miniprot	CDS	17895	18274	332	-	0	Parent=MP000001;Rank=1;Identity=0.5857;Frameshift=1;Target=Anniella_corrected 199 338
+CM125122.1:23110000-23150000	miniprot	CDS	15738	15978	391	-	0	Parent=MP000001;Rank=1;Identity=0.8889;Target=Anniella_corrected 339 418
+CM125122.1:23110000-23150000	miniprot	CDS	13855	13974	130	-	2	Parent=MP000001;Rank=1;Identity=0.6000;Target=Anniella_corrected 419 458
+CM125122.1:23110000-23150000	miniprot	CDS	11433	11614	280	-	2	Parent=MP000001;Rank=1;Identity=0.9333;Target=Anniella_corrected 459 519
+CM125122.1:23110000-23150000	miniprot	CDS	9298	9525	354	-	0	Parent=MP000001;Rank=1;Identity=0.8701;Frameshift=1;Target=Anniella_corrected 520 595
+CM125122.1:23110000-23150000	miniprot	CDS	6616	6770	255	-	2	Parent=MP000001;Rank=1;Identity=0.8200;Target=Anniella_corrected 596 646
+CM125122.1:23110000-23150000	miniprot	stop_codon	6616	6618	0	-	0	Parent=MP000001;Rank=1

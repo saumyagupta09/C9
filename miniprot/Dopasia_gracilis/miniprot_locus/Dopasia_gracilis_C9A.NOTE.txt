@@ -1,0 +1,8 @@
+PSEUDOGENE - CONFIRMED (EXCLUDED from final folder).
+- Long anguimorph exon-6 (380bp) is real (v3 12-exon split was an extraction artifact).
+- 3 frameshifts (exons 3,6,10), guide-independent (Elgaria/truncated-Anniella/corrected-Anniella all give 3-4).
+- SRA-blast of all 11 exons vs Ophisaurus SRA (closest Anguinae; Dopasia has no own reads):
+  every exon incl exon-6 insertion + frameshift exons tiles at 98-100% per-read identity, 0 gaps,
+  90bp reads. => sequence is REAL and conserved, frameshifts are genuine genomic features,
+  NOT assembly errors. Pseudogenization likely ancestral to Anguinae (Dopasia+Ophisaurus).
+Result: sra_blast/Dopasia_gracilis_on_Ophisaurus_sra.out

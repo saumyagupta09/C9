@@ -1,0 +1,27 @@
+##gff-version 3
+NW_024096824.1	miniprot	mRNA	2067749	2083748	2666	-	.	ID=Crotalus_tigris_C9A;Rank=1;Identity=0.8285;Positive=0.9091;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Crotalus_tigris_C9A
+NW_024096824.1	miniprot	CDS	2083672	2083748	100	-	0	Parent=Crotalus_tigris_C9A;Rank=1;Identity=0.8077;Target=Pantherophis_obsoletus_C9A_1 1 25
+NW_024096824.1	miniprot	CDS	2082331	2082424	147	-	1	Parent=Crotalus_tigris_C9A;Rank=1;Identity=0.7742;Target=Pantherophis_obsoletus_C9A_1 26 57
+NW_024096824.1	miniprot	CDS	2081470	2081617	234	-	0	Parent=Crotalus_tigris_C9A;Rank=1;Identity=0.8200;Target=Pantherophis_obsoletus_C9A_1 58 106
+NW_024096824.1	miniprot	CDS	2080327	2080474	244	-	2	Parent=Crotalus_tigris_C9A;Rank=1;Identity=0.8367;Target=Pantherophis_obsoletus_C9A_1 107 155
+NW_024096824.1	miniprot	CDS	2078412	2078550	234	-	1	Parent=Crotalus_tigris_C9A;Rank=1;Identity=0.9130;Target=Pantherophis_obsoletus_C9A_1 156 202
+NW_024096824.1	miniprot	CDS	2076536	2076748	277	-	0	Parent=Crotalus_tigris_C9A;Rank=1;Identity=0.7465;Target=Pantherophis_obsoletus_C9A_1 203 273
+NW_024096824.1	miniprot	CDS	2073856	2074096	390	-	0	Parent=Crotalus_tigris_C9A;Rank=1;Identity=0.8889;Target=Pantherophis_obsoletus_C9A_1 274 353
+NW_024096824.1	miniprot	CDS	2071489	2071614	166	-	2	Parent=Crotalus_tigris_C9A;Rank=1;Identity=0.7619;Target=Pantherophis_obsoletus_C9A_1 354 395
+NW_024096824.1	miniprot	CDS	2069918	2070099	260	-	2	Parent=Crotalus_tigris_C9A;Rank=1;Identity=0.8500;Target=Pantherophis_obsoletus_C9A_1 396 456
+NW_024096824.1	miniprot	CDS	2068313	2068541	371	-	0	Parent=Crotalus_tigris_C9A;Rank=1;Identity=0.8701;Target=Pantherophis_obsoletus_C9A_1 457 532
+NW_024096824.1	miniprot	CDS	2067749	2067903	243	-	2	Parent=Crotalus_tigris_C9A;Rank=1;Identity=0.7800;Target=Pantherophis_obsoletus_C9A_1 533 583
+NW_024096824.1	miniprot	stop_codon	2067749	2067751	0	-	0	Parent=Crotalus_tigris_C9A;Rank=1
+NW_024096824.1	miniprot	mRNA	2037732	2056124	2362	-	.	ID=Crotalus_tigris_C9B;Rank=1;Identity=0.7324;Positive=0.8473;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Crotalus_tigris_C9B
+NW_024096824.1	miniprot	CDS	2056048	2056124	113	-	0	Parent=Crotalus_tigris_C9B;Rank=1;Identity=0.9231;Target=Pantherophis_obsoletus_C9A_1 1 25
+NW_024096824.1	miniprot	CDS	2055123	2055216	142	-	1	Parent=Crotalus_tigris_C9B;Rank=1;Identity=0.7419;Target=Pantherophis_obsoletus_C9A_1 26 57
+NW_024096824.1	miniprot	CDS	2054275	2054422	240	-	0	Parent=Crotalus_tigris_C9B;Rank=1;Identity=0.8400;Target=Pantherophis_obsoletus_C9A_1 58 106
+NW_024096824.1	miniprot	CDS	2052624	2052771	238	-	2	Parent=Crotalus_tigris_C9B;Rank=1;Identity=0.8367;Target=Pantherophis_obsoletus_C9A_1 107 155
+NW_024096824.1	miniprot	CDS	2050369	2050507	218	-	1	Parent=Crotalus_tigris_C9B;Rank=1;Identity=0.8478;Target=Pantherophis_obsoletus_C9A_1 156 202
+NW_024096824.1	miniprot	CDS	2048780	2048992	177	-	0	Parent=Crotalus_tigris_C9B;Rank=1;Identity=0.4930;Target=Pantherophis_obsoletus_C9A_1 203 273
+NW_024096824.1	miniprot	CDS	2046390	2046630	347	-	0	Parent=Crotalus_tigris_C9B;Rank=1;Identity=0.7901;Target=Pantherophis_obsoletus_C9A_1 274 353
+NW_024096824.1	miniprot	CDS	2043221	2043346	85	-	2	Parent=Crotalus_tigris_C9B;Rank=1;Identity=0.3810;Target=Pantherophis_obsoletus_C9A_1 354 395
+NW_024096824.1	miniprot	CDS	2039730	2039911	228	-	2	Parent=Crotalus_tigris_C9B;Rank=1;Identity=0.7667;Target=Pantherophis_obsoletus_C9A_1 396 456
+NW_024096824.1	miniprot	CDS	2038436	2038664	365	-	0	Parent=Crotalus_tigris_C9B;Rank=1;Identity=0.8442;Target=Pantherophis_obsoletus_C9A_1 457 532
+NW_024096824.1	miniprot	CDS	2037732	2037886	209	-	2	Parent=Crotalus_tigris_C9B;Rank=1;Identity=0.6400;Target=Pantherophis_obsoletus_C9A_1 533 583
+NW_024096824.1	miniprot	stop_codon	2037732	2037734	0	-	0	Parent=Crotalus_tigris_C9B;Rank=1

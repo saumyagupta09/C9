@@ -1,0 +1,14 @@
+##gff-version 3
+##PAF	kuhli	595	0	595	-	mw	29001	1479	27526	1437	1785	0	AS:i:2264	ms:i:2601	np:i:527	fs:i:0	st:i:1	da:i:0	do:i:51	cg:Z:25M3977V39M3613N40M1I4M1I5M1976U49M933V46M616N58M2I13M1697N80M1506U21M4I13M1137U60M2116N76M6733U52M	cs:Z::1*agtY*gtcA:5*gggR:8*agcT:1*gtcI:5*agS~gt3974ag-c:3*gaaQ*gcgV:8*agcG:2*accP:1*atcV:2*ttgS:17~gt3613ag:7*aaaI:6*acgK*tcaP:3*catP:3*aaaR:14*gacE:1+E*ggaE:3+N:1*cagR:3*gG~gt1973ag-ga:4*aaaQ:12*tacF:10*gccS:13*attT:2*caaK:2*aacQ*ggG~gt930ag-a:2*attV:6*gacG:17*gggR:14*gtcI*agtN:2~gt616ag:1*aaaN*gatE:1*aaaR:3*tttS:4*aacE:2*gatV:11*gatG:15*gctT:3*acaI*gagG:6*cctA:1+TN:7*aaaE:2*agtN*gaaG:1~gt1697ag:1*ctaQ:6*gcaG:1*gtgI:5*ttaI:13*aagE:3*cgtH:6*atgV:8*atgT:4*tatF:8*ctaI:8*aatR*cagR:3*gagA:1*gG~gt1503ag-ga:3*gagQ*gatN:8*caaD:1*caaA*gttR:1*agtA*tcgM*cctQ+GFIL*tatF:1*aacH:1*aagN:1*aaaT*agaK:5*gV~gt1134ag-tg:4*gaaG:4*cgcH*aatS*gtgM:1*cctA:5*acaA*aggS:1*actI:2*cacE:17*ttaI*tggR:3*atcT*cttI*gccT:3*gttA:2*gaaD*tatF*aaaI~gt2116ag:7*ataV:1*gtgA:1*ataM:11*caaR:5*gctV*actA:29*tttY:3*gtgL:6*tcaY:1*cgtQ:2*gA~gt6730ag-ca:1*agaT*tggF:15*caaR:1*aaaE:12*caaK:1*ggtR:4*gtaE:1*cctA:1*ataL:3*cacR:3
+mw	miniprot	mRNA	1480	27526	2601	-	.	ID=MP000001;Rank=1;Identity=0.8050;Positive=0.8857;StopCodon=1;Target=kuhli 1 595
+mw	miniprot	CDS	27450	27526	109	-	0	Parent=MP000001;Rank=1;Identity=0.8077;Target=kuhli 1 25
+mw	miniprot	CDS	23358	23475	205	-	1	Parent=MP000001;Rank=1;Identity=0.8462;Target=kuhli 26 65
+mw	miniprot	CDS	19597	19744	210	-	0	Parent=MP000001;Rank=1;Identity=0.8077;Target=kuhli 66 116
+mw	miniprot	CDS	17473	17623	253	-	2	Parent=MP000001;Rank=1;Identity=0.8800;Target=kuhli 117 166
+mw	miniprot	CDS	16404	16542	242	-	1	Parent=MP000001;Rank=1;Identity=0.8913;Target=kuhli 167 213
+mw	miniprot	CDS	15575	15787	263	-	0	Parent=MP000001;Rank=1;Identity=0.7808;Target=kuhli 214 286
+mw	miniprot	CDS	13637	13877	372	-	0	Parent=MP000001;Rank=1;Identity=0.8395;Target=kuhli 287 366
+mw	miniprot	CDS	12029	12133	104	-	2	Parent=MP000001;Rank=1;Identity=0.5641;Target=kuhli 367 405
+mw	miniprot	CDS	10713	10894	204	-	2	Parent=MP000001;Rank=1;Identity=0.7000;Target=kuhli 406 466
+mw	miniprot	CDS	8368	8596	389	-	0	Parent=MP000001;Rank=1;Identity=0.8701;Target=kuhli 467 542
+mw	miniprot	CDS	1480	1637	250	-	2	Parent=MP000001;Rank=1;Identity=0.8077;StopCodon=1;Target=kuhli 543 595

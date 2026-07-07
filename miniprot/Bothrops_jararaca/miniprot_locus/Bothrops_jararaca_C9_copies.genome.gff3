@@ -1,0 +1,27 @@
+##gff-version 3
+JAGTXL010020792.1	miniprot	mRNA	50468	69828	2655	+	.	ID=Bothrops_jararaca_C9A;Rank=1;Identity=0.8233;Positive=0.9039;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Bothrops_jararaca_C9A
+JAGTXL010020792.1	miniprot	CDS	50468	50544	101	+	0	Parent=Bothrops_jararaca_C9A;Rank=1;Identity=0.8077;Target=Pantherophis_obsoletus_C9A_1 1 25
+JAGTXL010020792.1	miniprot	CDS	51789	51882	146	+	1	Parent=Bothrops_jararaca_C9A;Rank=1;Identity=0.7419;Target=Pantherophis_obsoletus_C9A_1 26 57
+JAGTXL010020792.1	miniprot	CDS	52604	52751	229	+	0	Parent=Bothrops_jararaca_C9A;Rank=1;Identity=0.8000;Target=Pantherophis_obsoletus_C9A_1 58 106
+JAGTXL010020792.1	miniprot	CDS	53757	53904	228	+	2	Parent=Bothrops_jararaca_C9A;Rank=1;Identity=0.7755;Target=Pantherophis_obsoletus_C9A_1 107 155
+JAGTXL010020792.1	miniprot	CDS	55765	55903	239	+	1	Parent=Bothrops_jararaca_C9A;Rank=1;Identity=0.9348;Target=Pantherophis_obsoletus_C9A_1 156 202
+JAGTXL010020792.1	miniprot	CDS	57592	57804	278	+	0	Parent=Bothrops_jararaca_C9A;Rank=1;Identity=0.7606;Target=Pantherophis_obsoletus_C9A_1 203 273
+JAGTXL010020792.1	miniprot	CDS	60297	60537	390	+	0	Parent=Bothrops_jararaca_C9A;Rank=1;Identity=0.8889;Target=Pantherophis_obsoletus_C9A_1 274 353
+JAGTXL010020792.1	miniprot	CDS	63076	63201	171	+	2	Parent=Bothrops_jararaca_C9A;Rank=1;Identity=0.7857;Target=Pantherophis_obsoletus_C9A_1 354 395
+JAGTXL010020792.1	miniprot	CDS	67429	67610	253	+	2	Parent=Bothrops_jararaca_C9A;Rank=1;Identity=0.8167;Target=Pantherophis_obsoletus_C9A_1 396 456
+JAGTXL010020792.1	miniprot	CDS	69029	69257	371	+	0	Parent=Bothrops_jararaca_C9A;Rank=1;Identity=0.8701;Target=Pantherophis_obsoletus_C9A_1 457 532
+JAGTXL010020792.1	miniprot	CDS	69674	69828	249	+	2	Parent=Bothrops_jararaca_C9A;Rank=1;Identity=0.8000;Target=Pantherophis_obsoletus_C9A_1 533 583
+JAGTXL010020792.1	miniprot	stop_codon	69826	69828	0	+	0	Parent=Bothrops_jararaca_C9A;Rank=1
+JAGTXL010020792.1	miniprot	mRNA	80376	98040	2369	+	.	ID=Bothrops_jararaca_C9B;Rank=1;Identity=0.7341;Positive=0.8491;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Bothrops_jararaca_C9B
+JAGTXL010020792.1	miniprot	CDS	80376	80452	113	+	0	Parent=Bothrops_jararaca_C9B;Rank=1;Identity=0.9231;Target=Pantherophis_obsoletus_C9A_1 1 25
+JAGTXL010020792.1	miniprot	CDS	81272	81365	146	+	1	Parent=Bothrops_jararaca_C9B;Rank=1;Identity=0.7742;Target=Pantherophis_obsoletus_C9A_1 26 57
+JAGTXL010020792.1	miniprot	CDS	82066	82213	236	+	0	Parent=Bothrops_jararaca_C9B;Rank=1;Identity=0.8200;Target=Pantherophis_obsoletus_C9A_1 58 106
+JAGTXL010020792.1	miniprot	CDS	83665	83812	239	+	2	Parent=Bothrops_jararaca_C9B;Rank=1;Identity=0.8367;Target=Pantherophis_obsoletus_C9A_1 107 155
+JAGTXL010020792.1	miniprot	CDS	85872	86010	218	+	1	Parent=Bothrops_jararaca_C9B;Rank=1;Identity=0.8478;Target=Pantherophis_obsoletus_C9A_1 156 202
+JAGTXL010020792.1	miniprot	CDS	87318	87530	189	+	0	Parent=Bothrops_jararaca_C9B;Rank=1;Identity=0.5211;Target=Pantherophis_obsoletus_C9A_1 203 273
+JAGTXL010020792.1	miniprot	CDS	89922	90162	346	+	0	Parent=Bothrops_jararaca_C9B;Rank=1;Identity=0.7901;Target=Pantherophis_obsoletus_C9A_1 274 353
+JAGTXL010020792.1	miniprot	CDS	92725	92850	85	+	2	Parent=Bothrops_jararaca_C9B;Rank=1;Identity=0.3810;Target=Pantherophis_obsoletus_C9A_1 354 395
+JAGTXL010020792.1	miniprot	CDS	95885	96066	228	+	2	Parent=Bothrops_jararaca_C9B;Rank=1;Identity=0.7667;Target=Pantherophis_obsoletus_C9A_1 396 456
+JAGTXL010020792.1	miniprot	CDS	97108	97336	365	+	0	Parent=Bothrops_jararaca_C9B;Rank=1;Identity=0.8442;Target=Pantherophis_obsoletus_C9A_1 457 532
+JAGTXL010020792.1	miniprot	CDS	97886	98040	204	+	2	Parent=Bothrops_jararaca_C9B;Rank=1;Identity=0.6200;Target=Pantherophis_obsoletus_C9A_1 533 583
+JAGTXL010020792.1	miniprot	stop_codon	98038	98040	0	+	0	Parent=Bothrops_jararaca_C9B;Rank=1

@@ -1,0 +1,15 @@
+##gff-version 3
+##PAF	Pantherophis_obsoletus_C9A_1	583	0	583	+	NW_015386198.1:311403-345580	34178	10000	30012	1440	1749	0	AS:i:2283	ms:i:2657	np:i:531	fs:i:0	st:i:0	da:i:0	do:i:0	cg:Z:25M1228V31M720N49M1174U48M1699V46M1685N71M2864N80M2231U41M4200U60M1448N76M1032U50M	cs:Z::2*actS:2*tttL:8*gaaG:2*agtV:6*acaA*agR~gt1225ag-g:3*aacE*cttP:11*accA:1*actS:5*agtI:3*aaaE:2~gt720ag:4*aatS:1*gtgL:10*actI*gcaE:5*gcgE*tacS:3*gaaR*agtT*ttgP:3*gagG:5*aatK:7*gG~gt1171ag-ga*tttY:9*aagT:11*aatH:1*gaaD:3*cgcL:4*gatN:1*gacE*attV*gagD:10*ggG~gt1696ag-t:6*aaaT:6*cacQ:29*aatS:2~gt1685ag:5*cacR:9*ataA:2*atgI:3*tacF:3*tcaT:5*agcN:11*ataV*acaS*gttT*gatT:3*agcG:1*catN:2*aaaR:1*accS:3*gatE:3*aaaN*gccI:3~gt2864ag:11*aatQ:19*gatE:13*tgtF:10*gcaS:1*aagR:2*attV:6*atgI:10*catQ*gG~gt2228ag-gg:2*aaaA*ggtE:3*gaaR:7*cttI:2*accA:2*attV:3*aaaT*tcgA:8*tctT*ggtS*ggaR:3*aV~gt4197ag-ct:1*gacE*atgL*aaaR*aagQ*attS*gagG:2*caaK:24*gtcA*aagR*gtaL*gttI:3*cagH:12*actV:5~gt1448ag*ataL*gccT:14*ataT:21*cagH:13*caaR:6*ccgS*tttL:3*gaaD:7*agtT:3*gA~gt1029ag-ct:6*agcN:1*agcN:3*aacS:2*gccT:2*agtN*ggaR:22*gcaT*accS:2*ccaT:1*tatH:1
+NW_015386198.1:311403-345580	miniprot	mRNA	10001	30015	2657	+	.	ID=MP000001;Rank=1;Identity=0.8233;Positive=0.9108;Target=Pantherophis_obsoletus_C9A_1 1 583
+NW_015386198.1:311403-345580	miniprot	CDS	10001	10077	97	+	0	Parent=MP000001;Rank=1;Identity=0.8077;Target=Pantherophis_obsoletus_C9A_1 1 25
+NW_015386198.1:311403-345580	miniprot	CDS	11303	11396	152	+	1	Parent=MP000001;Rank=1;Identity=0.8065;Target=Pantherophis_obsoletus_C9A_1 26 57
+NW_015386198.1:311403-345580	miniprot	CDS	12117	12264	224	+	0	Parent=MP000001;Rank=1;Identity=0.7800;Target=Pantherophis_obsoletus_C9A_1 58 106
+NW_015386198.1:311403-345580	miniprot	CDS	13436	13583	240	+	2	Parent=MP000001;Rank=1;Identity=0.8163;Target=Pantherophis_obsoletus_C9A_1 107 155
+NW_015386198.1:311403-345580	miniprot	CDS	15280	15418	239	+	1	Parent=MP000001;Rank=1;Identity=0.9348;Target=Pantherophis_obsoletus_C9A_1 156 202
+NW_015386198.1:311403-345580	miniprot	CDS	17104	17316	286	+	0	Parent=MP000001;Rank=1;Identity=0.7606;Target=Pantherophis_obsoletus_C9A_1 203 273
+NW_015386198.1:311403-345580	miniprot	CDS	20181	20421	392	+	0	Parent=MP000001;Rank=1;Identity=0.9012;Target=Pantherophis_obsoletus_C9A_1 274 353
+NW_015386198.1:311403-345580	miniprot	CDS	22650	22775	158	+	2	Parent=MP000001;Rank=1;Identity=0.7143;Target=Pantherophis_obsoletus_C9A_1 354 395
+NW_015386198.1:311403-345580	miniprot	CDS	26973	27154	242	+	2	Parent=MP000001;Rank=1;Identity=0.7833;Target=Pantherophis_obsoletus_C9A_1 396 456
+NW_015386198.1:311403-345580	miniprot	CDS	28603	28831	378	+	0	Parent=MP000001;Rank=1;Identity=0.8831;Target=Pantherophis_obsoletus_C9A_1 457 532
+NW_015386198.1:311403-345580	miniprot	CDS	29861	30015	249	+	2	Parent=MP000001;Rank=1;Identity=0.8000;Target=Pantherophis_obsoletus_C9A_1 533 583
+NW_015386198.1:311403-345580	miniprot	stop_codon	30013	30015	0	+	0	Parent=MP000001;Rank=1

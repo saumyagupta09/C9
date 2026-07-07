@@ -1,0 +1,6 @@
+Whole-chromosome miniprot run.
+Query (input): ../../QUERY_ashu_C9_prot.faa (curated C9 proteins)
+Target (input): genome assembly = /media/ashutosh/disk3/Open_seminar/C9_related/Squamata/Squamata_genomes/genome_dir/Mediodactylus_kotschyi/GCA_965636955.1_rMedKot1.hap1.1_genomic.fna
+Output: Mediodactylus_kotschyi.gff (gene model, genome coords)
+Command: miniprot -t4 --gff <genome.fa> ashu_C9_prot.fa > Mediodactylus_kotschyi.gff
+IGV: load the genome assembly above + Mediodactylus_kotschyi.gff

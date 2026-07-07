@@ -1,0 +1,10 @@
+Evolutionary hypothesis,Foreground lineage / paralogue,Background,RELAX,codeml,aBSREL,Biological interpretation
+Evolution of ancestral snake C9A (Boidae/Pythonidae),Boidae/Pythonidae C9A,Remaining snake C9A,"NS (K=0.97, p=0.87)","NS (omega 0.59 vs 0.67, p=0.38)",None,Retained ancestral selective regime.
+Evolution of ancestral snake C9A (Colubridae),Colubrid C9A,Remaining snake C9A,"Relaxed (K=0.78, p=0.045)","Lower omega (0.53 vs 0.71, p=0.023)",1 branch: Chrysopelea C9A (p=0.033),Relaxed constraint with one lineage under episodic positive selection.
+Evolution of ancestral snake C9A (Viperidae),Viperid C9A,Remaining snake C9A,"NS (K=0.88, p=0.41)","NS (0.51 vs 0.68, p=0.077)",None,Conserved selective regime.
+Evolution of ancestral snake C9A (Elapidae),Elapid C9A,Remaining snake C9A,"Intensified (K=1.73, p=3.9e-5)","Elevated omega >1 (1.02 vs 0.55, p=1.3e-6)","Naja C9A (6.8e-4), Laticauda C9A (2.9e-9)",Lineage-specific adaptive (positive) evolution in venomous elapids.
+Evolution of duplicated paralogue,All snake C9B,All snake C9A,"Relaxed (K=0.81, p=0.019)","Lower omega (0.48 vs 0.68, p=2.8e-4)","Laticauda C9B (1.5e-6), Hemorrhois C9B (1.4e-3)",Relaxation of selective constraint following tandem duplication.
+Evolution of colubrid-specific paralogue,All C9C,C9A + C9B,"NS (K=0.89, p=0.50)","NS (0.63 vs 0.52, p=0.28)",None (no C9C branches),Functional constraint re-established following triplication.
+Independent Anolis duplication (derived copy),Anolis C9B,Other iguanian C9A,"NS (K=1.20, p=0.57)","NS (0.40 vs 0.32, p=0.28)",None,No evidence of altered selective constraint.
+Independent Anolis duplication (ancestral-position copy),Anolis C9A,Other iguanian C9A,"NS (K=0.62, p=0.43)","Elevated omega (0.54 vs 0.31, p=6.8e-4)",None,Increased evolutionary rate without detectable change in selection intensity.
+Site-specific selection (all datasets),"Snake C9A, duplicated-snake, colubrid alignments",-,-,-,MEME/FEL: 71-88% of diversifying sites in the MACPF pore-forming domain,Predominantly purifying selection with episodic positive selection concentrated in the MACPF domain.

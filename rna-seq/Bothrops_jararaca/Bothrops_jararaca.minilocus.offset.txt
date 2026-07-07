@@ -1,0 +1,9 @@
+species	Bothrops_jararaca
+clade	Viperidae
+scaffold	JAGTXL010020792.1
+window	JAGTXL010020792.1:25468-103502
+offset	25467
+new_seqname	Bothrops_jararaca_C9locus
+length	78035
+note	NO RNA-seq reads (no detectable C9 expression); reference+exons only
+map	genomic_pos = local_pos + offset

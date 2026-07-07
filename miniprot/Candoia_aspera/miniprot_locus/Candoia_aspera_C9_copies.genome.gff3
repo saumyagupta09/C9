@@ -1,0 +1,14 @@
+##gff-version 3
+NC_086154.1	miniprot	mRNA	246407995	246423846	2518	+	.	ID=Candoia_aspera_C9A;Rank=1;Identity=0.7736;Positive=0.8679;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Candoia_aspera_C9A
+NC_086154.1	miniprot	CDS	246407995	246408071	103	+	0	Parent=Candoia_aspera_C9A;Rank=1;Identity=0.8462;Target=Pantherophis_obsoletus_C9A_1 1 25
+NC_086154.1	miniprot	CDS	246411552	246411645	162	+	1	Parent=Candoia_aspera_C9A;Rank=1;Identity=0.8710;Target=Pantherophis_obsoletus_C9A_1 26 57
+NC_086154.1	miniprot	CDS	246412272	246412419	194	+	0	Parent=Candoia_aspera_C9A;Rank=1;Identity=0.6800;Target=Pantherophis_obsoletus_C9A_1 58 106
+NC_086154.1	miniprot	CDS	246413341	246413488	239	+	2	Parent=Candoia_aspera_C9A;Rank=1;Identity=0.8367;Target=Pantherophis_obsoletus_C9A_1 107 155
+NC_086154.1	miniprot	CDS	246415276	246415414	216	+	1	Parent=Candoia_aspera_C9A;Rank=1;Identity=0.8261;Target=Pantherophis_obsoletus_C9A_1 156 202
+NC_086154.1	miniprot	CDS	246416693	246416905	262	+	0	Parent=Candoia_aspera_C9A;Rank=1;Identity=0.7042;Target=Pantherophis_obsoletus_C9A_1 203 273
+NC_086154.1	miniprot	CDS	246417617	246417857	360	+	0	Parent=Candoia_aspera_C9A;Rank=1;Identity=0.8395;Target=Pantherophis_obsoletus_C9A_1 274 353
+NC_086154.1	miniprot	CDS	246418461	246418586	154	+	2	Parent=Candoia_aspera_C9A;Rank=1;Identity=0.6667;Target=Pantherophis_obsoletus_C9A_1 354 395
+NC_086154.1	miniprot	CDS	246419444	246419625	245	+	2	Parent=Candoia_aspera_C9A;Rank=1;Identity=0.7667;Target=Pantherophis_obsoletus_C9A_1 396 456
+NC_086154.1	miniprot	CDS	246422012	246422240	354	+	0	Parent=Candoia_aspera_C9A;Rank=1;Identity=0.8052;Target=Pantherophis_obsoletus_C9A_1 457 532
+NC_086154.1	miniprot	CDS	246423692	246423846	229	+	2	Parent=Candoia_aspera_C9A;Rank=1;Identity=0.7000;Target=Pantherophis_obsoletus_C9A_1 533 583
+NC_086154.1	miniprot	stop_codon	246423844	246423846	0	+	0	Parent=Candoia_aspera_C9A;Rank=1

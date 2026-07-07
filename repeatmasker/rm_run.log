@@ -1,0 +1,45 @@
+START Fri Jun 26 13:16:34 IST 2026
+RepeatMasker version 4.2.4
+Search Engine: NCBI/RMBLAST [ 2.17.1+ ]
+
+Using FamDB: /opt/FamDB-Dfam-4.0
+  Title    : Dfam
+  Version  : 4.0
+  Date     : 2026-05-22
+  Families : 30,659
+
+Species/Taxa Search:
+  Homo sapiens [NCBI Taxonomy ID: 9606]
+  Lineage: root;cellular organisms;Eukaryota;Opisthokonta;Metazoa;
+           Eumetazoa;Bilateria;Deuterostomia;Chordata;
+           Craniata <chordates>;Vertebrata <vertebrates>;
+           Gnathostomata <vertebrates>;Teleostomi;Euteleostomi;
+           Sarcopterygii;Dipnotetrapodomorpha;Tetrapoda;Amniota;
+           Mammalia;Theria <mammals>;Eutheria;Boreoeutheria;
+           Euarchontoglires;Primates;Haplorrhini;Simiiformes
+Including only curated families:
+  1387/1387 families in ancestor taxa; 52/52 lineage-specific families
+
+Building general libraries in: /media/ashutosh/disk3/Open_seminar/C9_related/Squamata/Squamata_genomes/C9_copy_number_2026/repeatmasker_final/rm_home/.RepeatMaskerCache/CONS-Dfam_4.0/general
+Building species libraries in: /media/ashutosh/disk3/Open_seminar/C9_related/Squamata/Squamata_genomes/C9_copy_number_2026/repeatmasker_final/rm_home/.RepeatMaskerCache/CONS-Dfam_4.0/homo_sapiens
+
+analyzing file /media/ashutosh/disk3/Open_seminar/C9_related/Squamata/Squamata_genomes/C9_copy_number_2026/repeatmasker_final/all_finalized_cds.fa
+
+Checking for E. coli insertion elements
+
+Checking for E. coli insertion elements
+identifying Simple Repeats in batch 2 of 2
+identifying Simple Repeats in batch 1 of 2
+identifying Simple Repeats in batch 1 of 2
+identifying Simple Repeats in batch 2 of 2
+
+
+ProcessRepeats: Adjudicating alignments
+
+ProcessRepeats: Masking sequences
+
+ProcessRepeats: Generating table output
+
+done
+EXIT=0 Fri Jun 26 13:17:22 IST 2026
+DONE

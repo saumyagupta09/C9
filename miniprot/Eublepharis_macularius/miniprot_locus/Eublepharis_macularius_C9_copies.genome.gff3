@@ -1,0 +1,12 @@
+##gff-version 3
+NC_072797.1	miniprot	mRNA	24714413	24735135	1967	-	.	ID=Eublepharis_macularius_C9A;Rank=1;Identity=0.6298;Positive=0.7647;Target=Anolis_carolinensis_C9A_1 14 587;Name=Eublepharis_macularius_C9A
+NC_072797.1	miniprot	CDS	24735004	24735135	154	-	0	Parent=Eublepharis_macularius_C9A;Rank=1;Identity=0.6136;Target=Anolis_carolinensis_C9A_1 14 57
+NC_072797.1	miniprot	CDS	24729620	24729764	187	-	0	Parent=Eublepharis_macularius_C9A;Rank=1;Identity=0.6531;Target=Anolis_carolinensis_C9A_1 58 105
+NC_072797.1	miniprot	CDS	24728091	24728241	184	-	2	Parent=Eublepharis_macularius_C9A;Rank=1;Identity=0.7059;Target=Anolis_carolinensis_C9A_1 106 154
+NC_072797.1	miniprot	CDS	24726585	24726723	218	-	1	Parent=Eublepharis_macularius_C9A;Rank=1;Identity=0.8043;Target=Anolis_carolinensis_C9A_1 155 201
+NC_072797.1	miniprot	CDS	24724214	24724432	142	-	0	Parent=Eublepharis_macularius_C9A;Rank=1;Identity=0.4474;Target=Anolis_carolinensis_C9A_1 202 277
+NC_072797.1	miniprot	CDS	24722828	24723068	317	-	0	Parent=Eublepharis_macularius_C9A;Rank=1;Identity=0.7284;Target=Anolis_carolinensis_C9A_1 278 357
+NC_072797.1	miniprot	CDS	24720976	24721107	73	-	2	Parent=Eublepharis_macularius_C9A;Rank=1;Identity=0.3864;Target=Anolis_carolinensis_C9A_1 358 399
+NC_072797.1	miniprot	CDS	24717868	24718049	177	-	2	Parent=Eublepharis_macularius_C9A;Rank=1;Identity=0.5500;Target=Anolis_carolinensis_C9A_1 400 460
+NC_072797.1	miniprot	CDS	24715330	24715558	309	-	0	Parent=Eublepharis_macularius_C9A;Rank=1;Identity=0.7273;Target=Anolis_carolinensis_C9A_1 461 536
+NC_072797.1	miniprot	CDS	24714413	24714564	206	-	2	Parent=Eublepharis_macularius_C9A;Rank=1;Identity=0.6600;Target=Anolis_carolinensis_C9A_1 537 587

@@ -1,0 +1,14 @@
+##gff-version 3
+JAWDJD010000002.1	miniprot	mRNA	29297865	29341189	2265	-	.	ID=Bradypodion_pumilum_C9A;Rank=1;Identity=0.6778;Positive=0.8114;Target=Anolis_carolinensis_C9A_1 1 591;Name=Bradypodion_pumilum_C9A
+JAWDJD010000002.1	miniprot	CDS	29341113	29341189	71	-	0	Parent=Bradypodion_pumilum_C9A;Rank=1;Identity=0.5769;Target=Anolis_carolinensis_C9A_1 1 25
+JAWDJD010000002.1	miniprot	CDS	29338348	29338441	141	-	1	Parent=Bradypodion_pumilum_C9A;Rank=1;Identity=0.6774;Target=Anolis_carolinensis_C9A_1 26 57
+JAWDJD010000002.1	miniprot	CDS	29335674	29335818	219	-	0	Parent=Bradypodion_pumilum_C9A;Rank=1;Identity=0.7347;Target=Anolis_carolinensis_C9A_1 58 105
+JAWDJD010000002.1	miniprot	CDS	29324464	29324611	219	-	2	Parent=Bradypodion_pumilum_C9A;Rank=1;Identity=0.8163;Target=Anolis_carolinensis_C9A_1 106 154
+JAWDJD010000002.1	miniprot	CDS	29322597	29322735	234	-	1	Parent=Bradypodion_pumilum_C9A;Rank=1;Identity=0.8696;Target=Anolis_carolinensis_C9A_1 155 201
+JAWDJD010000002.1	miniprot	CDS	29320026	29320277	187	-	0	Parent=Bradypodion_pumilum_C9A;Rank=1;Identity=0.5000;Target=Anolis_carolinensis_C9A_1 202 277
+JAWDJD010000002.1	miniprot	CDS	29317298	29317538	361	-	0	Parent=Bradypodion_pumilum_C9A;Rank=1;Identity=0.8148;Target=Anolis_carolinensis_C9A_1 278 357
+JAWDJD010000002.1	miniprot	CDS	29315281	29315406	87	-	2	Parent=Bradypodion_pumilum_C9A;Rank=1;Identity=0.4048;Target=Anolis_carolinensis_C9A_1 358 399
+JAWDJD010000002.1	miniprot	CDS	29301502	29301680	174	-	2	Parent=Bradypodion_pumilum_C9A;Rank=1;Identity=0.5667;Target=Anolis_carolinensis_C9A_1 400 460
+JAWDJD010000002.1	miniprot	CDS	29299562	29299790	340	-	0	Parent=Bradypodion_pumilum_C9A;Rank=1;Identity=0.7532;Target=Anolis_carolinensis_C9A_1 461 536
+JAWDJD010000002.1	miniprot	CDS	29297865	29298031	232	-	2	Parent=Bradypodion_pumilum_C9A;Rank=1;Identity=0.6852;Target=Anolis_carolinensis_C9A_1 537 591
+JAWDJD010000002.1	miniprot	stop_codon	29297865	29297867	0	-	0	Parent=Bradypodion_pumilum_C9A;Rank=1

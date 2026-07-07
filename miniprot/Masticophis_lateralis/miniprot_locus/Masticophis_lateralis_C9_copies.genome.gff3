@@ -1,0 +1,27 @@
+##gff-version 3
+JAUDYJ010000002.1	miniprot	mRNA	262440194	262464243	2764	+	.	ID=Masticophis_lateralis_C9A;Rank=1;Identity=0.8765;Positive=0.9262;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Masticophis_lateralis_C9A
+JAUDYJ010000002.1	miniprot	CDS	262440194	262440270	97	+	0	Parent=Masticophis_lateralis_C9A;Rank=1;Identity=0.8077;Target=Pantherophis_obsoletus_C9A_1 1 25
+JAUDYJ010000002.1	miniprot	CDS	262444161	262444254	164	+	1	Parent=Masticophis_lateralis_C9A;Rank=1;Identity=0.9032;Target=Pantherophis_obsoletus_C9A_1 26 57
+JAUDYJ010000002.1	miniprot	CDS	262445671	262445818	225	+	0	Parent=Masticophis_lateralis_C9A;Rank=1;Identity=0.8000;Target=Pantherophis_obsoletus_C9A_1 58 106
+JAUDYJ010000002.1	miniprot	CDS	262447147	262447294	235	+	2	Parent=Masticophis_lateralis_C9A;Rank=1;Identity=0.8571;Target=Pantherophis_obsoletus_C9A_1 107 155
+JAUDYJ010000002.1	miniprot	CDS	262449254	262449392	229	+	1	Parent=Masticophis_lateralis_C9A;Rank=1;Identity=0.8913;Target=Pantherophis_obsoletus_C9A_1 156 202
+JAUDYJ010000002.1	miniprot	CDS	262451187	262451399	293	+	0	Parent=Masticophis_lateralis_C9A;Rank=1;Identity=0.8028;Target=Pantherophis_obsoletus_C9A_1 203 273
+JAUDYJ010000002.1	miniprot	CDS	262454972	262455212	401	+	0	Parent=Masticophis_lateralis_C9A;Rank=1;Identity=0.9383;Target=Pantherophis_obsoletus_C9A_1 274 353
+JAUDYJ010000002.1	miniprot	CDS	262459270	262459395	162	+	2	Parent=Masticophis_lateralis_C9A;Rank=1;Identity=0.7619;Target=Pantherophis_obsoletus_C9A_1 354 395
+JAUDYJ010000002.1	miniprot	CDS	262461141	262461322	285	+	2	Parent=Masticophis_lateralis_C9A;Rank=1;Identity=0.9333;Target=Pantherophis_obsoletus_C9A_1 396 456
+JAUDYJ010000002.1	miniprot	CDS	262462294	262462522	397	+	0	Parent=Masticophis_lateralis_C9A;Rank=1;Identity=0.9351;Target=Pantherophis_obsoletus_C9A_1 457 532
+JAUDYJ010000002.1	miniprot	CDS	262464089	262464243	276	+	2	Parent=Masticophis_lateralis_C9A;Rank=1;Identity=0.9200;Target=Pantherophis_obsoletus_C9A_1 533 583
+JAUDYJ010000002.1	miniprot	stop_codon	262464241	262464243	0	+	0	Parent=Masticophis_lateralis_C9A;Rank=1
+JAUDYJ010000002.1	miniprot	mRNA	262475923	262503575	2319	+	.	ID=Masticophis_lateralis_C9B;Rank=1;Identity=0.7256;Positive=0.8370;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Masticophis_lateralis_C9B
+JAUDYJ010000002.1	miniprot	CDS	262475923	262475999	103	+	0	Parent=Masticophis_lateralis_C9B;Rank=1;Identity=0.8462;Donor=AT;Target=Pantherophis_obsoletus_C9A_1 1 25
+JAUDYJ010000002.1	miniprot	CDS	262476854	262476947	139	+	1	Parent=Masticophis_lateralis_C9B;Rank=1;Identity=0.7097;Target=Pantherophis_obsoletus_C9A_1 26 57
+JAUDYJ010000002.1	miniprot	CDS	262478154	262478301	251	+	0	Parent=Masticophis_lateralis_C9B;Rank=1;Identity=0.9000;Target=Pantherophis_obsoletus_C9A_1 58 106
+JAUDYJ010000002.1	miniprot	CDS	262480152	262480299	243	+	2	Parent=Masticophis_lateralis_C9B;Rank=1;Identity=0.8571;Target=Pantherophis_obsoletus_C9A_1 107 155
+JAUDYJ010000002.1	miniprot	CDS	262485056	262485194	214	+	1	Parent=Masticophis_lateralis_C9B;Rank=1;Identity=0.8261;Target=Pantherophis_obsoletus_C9A_1 156 202
+JAUDYJ010000002.1	miniprot	CDS	262492767	262492979	184	+	0	Parent=Masticophis_lateralis_C9B;Rank=1;Identity=0.5211;Target=Pantherophis_obsoletus_C9A_1 203 273
+JAUDYJ010000002.1	miniprot	CDS	262496825	262497065	351	+	0	Parent=Masticophis_lateralis_C9B;Rank=1;Identity=0.8272;Target=Pantherophis_obsoletus_C9A_1 274 353
+JAUDYJ010000002.1	miniprot	CDS	262499607	262499732	87	+	2	Parent=Masticophis_lateralis_C9B;Rank=1;Identity=0.4286;Target=Pantherophis_obsoletus_C9A_1 354 395
+JAUDYJ010000002.1	miniprot	CDS	262501020	262501192	203	+	2	Parent=Masticophis_lateralis_C9B;Rank=1;Identity=0.7000;Target=Pantherophis_obsoletus_C9A_1 396 456
+JAUDYJ010000002.1	miniprot	CDS	262502346	262502574	343	+	0	Parent=Masticophis_lateralis_C9B;Rank=1;Identity=0.7792;Target=Pantherophis_obsoletus_C9A_1 457 532
+JAUDYJ010000002.1	miniprot	CDS	262503421	262503575	201	+	2	Parent=Masticophis_lateralis_C9B;Rank=1;Identity=0.6000;Target=Pantherophis_obsoletus_C9A_1 533 583
+JAUDYJ010000002.1	miniprot	stop_codon	262503573	262503575	0	+	0	Parent=Masticophis_lateralis_C9B;Rank=1

@@ -1,0 +1,200 @@
+                                 , Acritoscincus_duperreyi_C9A
+                                ,|
+                                ||, Carinascincus_ocellatus_C9A
+                              __|||
+                             |  | | Cryptoblepharus_egeriae_C9A
+                             |  |
+                            ,|  | Plestiodon_gilberti_C9A
+                            ||
+                            || ____ Hemicordylus_capensis_C9A
+                            |||
+                            | |__ Xantusia_vigilis_C9A
+                            |
+                            |   , Lacerta_agilis_C9A
+                            | __|
+                            ||  |, Podarcis_raffonei_C9A
+                            ||  ||
+                            ||   | Zootoca_vivipara_C9A
+                           _||
+                          | ||__ Rhineura_floridana_C9A
+                          | |
+                          | |_______ Aspidoscelis_tigris_C9A
+                          | |
+                          | |    ____ Correlophus_ciliatus_C9A
+                          | |   |
+                          | |   |       _ Gekko_japonicus_C9A
+                          | |  ,|     ,|
+                          | |  ||_____|| Gekko_kuhli_C9A
+                          | |  ||     |
+                          | |__||     |_ Mediodactylus_kotschyi_C9A
+                       ___|    ||
+                      |   |    ||_ Teratoscincus_roborowskii_C9A
+                      |   |    |
+                      |   |    |__ Eublepharis_macularius_C9A
+                      |   |
+                      |   |     __ Anniella_stebbinsi_C9A
+                      |   | ___|
+                      |   ||   |__ Elgaria_multicarinata_C9A
+                      |   ||
+                      |   ||       _ Anolis_carolinensis_C9A
+                      |   ||     _|
+                      |   ||    | |_ Anolis_sagrei_C9A
+                      |   ||   ,|
+                      |   ||   || , Anolis_carolinensis_C9B
+                      |    |   ||_|
+                      |    |   |  |_ Anolis_sagrei_C9B
+                      |    |  _|
+                      |    | | | __ Cyclura_pinguis_C9A
+                      |    | | ,|
+                      |    | | || Gambelia_wislizenii_C9A
+                      |    | | |
+                      |    |_| |  , Phrynosoma_blainvillii_C9A
+                      |      | |__|
+                      |      |    | Sceloporus_undulatus_C9A
+                      |      |
+                      |      |    ____ Furcifer_pardalis_C9A
+                      |      |___|
+                      |          |___ Pogona_vitticeps_C9A
+                      |
+                      |       , Arizona_elegans_C9A
+                      |       |
+                      |       , Pantherophis_obsoletus_C9A
+                      |      ,|
+                      |      || Pituophis_catenifer_C9A
+                      |      ||
+                      |      || Hemorrhois_hippocrepis_C9A
+                      |      |
+                      |      |, Arizona_elegans_C9B
+                      |      ||
+                      |      || Pituophis_catenifer_C9B
+                      |      |
+                      |     ,| , Hydrophis_cyanocinctus_C9A
+                      |     || |
+                      |     ||,| Hydrophis_major_C9A
+                      |     ||||
+                      |     |,|| Notechis_scutatus_C9A
+                      |     |||
+                      |     ||| Pseudonaja_textilis_C9A
+                      |     ||
+  ____________________|     ||__ Naja_naja_C9A
+ |                    |     |
+ |                    |     |  , Thamnophis_elegans_C9A
+ |                    |     |__|
+ |                    |     |  | Thamnophis_elegans_C9B
+ |                    |     |
+ |                    |     |         , Arizona_elegans_C9C
+ |                    |     |         |
+ |                    |     |         |, Pantherophis_obsoletus_C9B
+ |                    |     |         ||
+ |                    |     |         || Pantherophis_obsoletus_C9C
+ |                    |     |         ||
+ |                    |     |         || Pituophis_catenifer_C9C
+ |                    |     |         |
+ |                    |     |         |, Ptyas_mucosa_C9A
+ |                    |     |         ||
+ |                    |     |         || Ptyas_mucosa_C9B
+ |                    |     |         |
+ |                    |     |         |, Hemorrhois_hippocrepis_C9B
+ |                    |     |        ,||
+ |                    |     |        ||| Hemorrhois_hippocrepis_C9C
+ |                    |     |        ||
+ |                    |     |        |, Masticophis_lateralis_C9A
+ |                    |     |       ,||
+ |                    |     |       ||| Masticophis_lateralis_C9B
+ |                    |     |       ||
+ |                    |     |       ||, Malpolon_monspessulanus_C9A
+ |                    |     |       |||
+ |                    |     |       | | Malpolon_monspessulanus_C9B
+ |                    |    ,|       |
+ |                    |    ||       | , Bungarus_multicinctus_C9A
+ |                    |    ||      _|,|
+ |                    |    ||     | ||| Bungarus_multicinctus_C9B
+ |                    |    ||     | ||
+ |                    |    ||     | ||, Hydrophis_cyanocinctus_C9B
+ |                    |    ||     | |||
+ |                    |    ||     | ||| Hydrophis_major_C9B
+ |                    |    ||     | |||
+ |                    |    ||     | ||| Pseudonaja_textilis_C9B
+ |                    |    ||     | |||
+ |                    |    ||    _|  |, Laticauda_colubrina_C9A
+ |                    |    ||   | |  ||
+ |                    |    ||   | |  || Laticauda_colubrina_C9B
+ |                    |    ||   | |  |
+ |                    |    ||   | |  |__ Notechis_scutatus_C9B
+ |                    |    ||   | |
+ |                    |    ||   | |, Bothrops_jararaca_C9B
+ |                    |    ||   | ||
+ |                    |    || __| |, Crotalus_adamanteus_C9B
+ |                    |    |||  | ||
+ |                    |____|||  | || Crotalus_tigris_C9B
+ |                         |||  |  |
+ |                         |||  |  , Vipera_berus_C9B
+ |                         |||  |  |
+ |                         |||  |  | Vipera_seoanei_C9B
+ |                         |||  |
+ |                         |||  | Protobothrops_mucrosquamatus_C9B
+ |                         |,|
+_|                         ||| Protobothrops_mucrosquamatus_C9A
+ |                         |||
+ |                         ||, Bothrops_jararaca_C9A
+ |                         |||
+ |                         ||, Crotalus_adamanteus_C9A
+ |                         |||
+ |                         ||| Crotalus_tigris_C9A
+ |                         ||
+ |                         ||, Vipera_berus_C9A
+ |                         |||
+ |                         | | Vipera_seoanei_C9A
+ |                         |
+ |                         |, Candoia_aspera_C9A
+ |                         ||
+ |                          |_ Liasis_olivaceus_C9A
+ |
+ |                 _ Python_bivittatus_C8A
+ |                |
+ |                | , Protobothrops_mucrosquamatus_C8A
+ |              __| |
+ |             |  | | Crotalus_tigris_C8A
+ |             |  | |
+ |             |  |_|, Notechis_scutatus_C8A
+ |             |    ,|
+ |             |    || Pseudonaja_textilis_C8A
+ |             |    |
+ |_____________|    , Thamnophis_elegans_C8A
+ |             |    |
+ |             |    |_ Pantherophis_guttatus_C8A
+ |             |
+ |             |   ______ Gekko_japonicus_C8A
+ |             | ,|
+ |             | ||  , Podarcis_muralis_C8A
+ |             | ||__|
+ |             |_|   |, Lacerta_agilis_C8A
+ |               |   ||
+ |               |    | Zootoca_vivipara_C8A
+ |               |
+ |               |___ Pogona_vitticeps_C8A
+ |
+ |                              , Python_bivittatus_C8B
+ |                              |
+ |                              | , Protobothrops_mucrosquamatus_C8B
+ |                              |,|
+ |                           ___||| Crotalus_tigris_C8B
+ |                          |   ||
+ |                          |   ||, Notechis_scutatus_C8B
+ |                          |   |,|
+ |                          |   ||| Pseudonaja_textilis_C8B
+ |                          |    |
+ |                         ,|    | Pantherophis_guttatus_C8B
+ |                         ||    |
+ |                         ||    | Thamnophis_elegans_C8B
+ |                         ||
+ |                         ||, Podarcis_muralis_C8B
+ |                        _|||
+ |                       | ||| Zootoca_vivipara_C8B
+ |                       | | |
+ |_______________________| | | Lacerta_agilis_C8B
+                         | |
+                         | |__ Pogona_vitticeps_C8B
+                         |
+                         |___ Gekko_japonicus_C8B
+

@@ -1,0 +1,27 @@
+##gff-version 3
+NC_045543.1	miniprot	mRNA	127792995	127814515	2627	+	.	ID=Thamnophis_elegans_C9A;Rank=1;Identity=0.8233;Positive=0.8834;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Thamnophis_elegans_C9A
+NC_045543.1	miniprot	CDS	127792995	127793071	103	+	0	Parent=Thamnophis_elegans_C9A;Rank=1;Identity=0.8846;Target=Pantherophis_obsoletus_C9A_1 1 25
+NC_045543.1	miniprot	CDS	127794750	127794843	165	+	1	Parent=Thamnophis_elegans_C9A;Rank=1;Identity=0.8710;Target=Pantherophis_obsoletus_C9A_1 26 57
+NC_045543.1	miniprot	CDS	127796476	127796623	223	+	0	Parent=Thamnophis_elegans_C9A;Rank=1;Identity=0.8000;Target=Pantherophis_obsoletus_C9A_1 58 106
+NC_045543.1	miniprot	CDS	127799198	127799345	238	+	2	Parent=Thamnophis_elegans_C9A;Rank=1;Identity=0.8367;Target=Pantherophis_obsoletus_C9A_1 107 155
+NC_045543.1	miniprot	CDS	127801990	127802128	235	+	1	Parent=Thamnophis_elegans_C9A;Rank=1;Identity=0.9130;Target=Pantherophis_obsoletus_C9A_1 156 202
+NC_045543.1	miniprot	CDS	127802713	127802925	245	+	0	Parent=Thamnophis_elegans_C9A;Rank=1;Identity=0.6901;Target=Pantherophis_obsoletus_C9A_1 203 273
+NC_045543.1	miniprot	CDS	127804825	127805065	384	+	0	Parent=Thamnophis_elegans_C9A;Rank=1;Identity=0.8889;Target=Pantherophis_obsoletus_C9A_1 274 353
+NC_045543.1	miniprot	CDS	127807155	127807280	148	+	2	Parent=Thamnophis_elegans_C9A;Rank=1;Identity=0.6905;Target=Pantherophis_obsoletus_C9A_1 354 395
+NC_045543.1	miniprot	CDS	127810628	127810809	256	+	2	Parent=Thamnophis_elegans_C9A;Rank=1;Identity=0.8000;Target=Pantherophis_obsoletus_C9A_1 396 456
+NC_045543.1	miniprot	CDS	127812610	127812838	369	+	0	Parent=Thamnophis_elegans_C9A;Rank=1;Identity=0.8831;Target=Pantherophis_obsoletus_C9A_1 457 532
+NC_045543.1	miniprot	CDS	127814361	127814515	261	+	2	Parent=Thamnophis_elegans_C9A;Rank=1;Identity=0.8200;Target=Pantherophis_obsoletus_C9A_1 533 583
+NC_045543.1	miniprot	stop_codon	127814513	127814515	0	+	0	Parent=Thamnophis_elegans_C9A;Rank=1
+NC_045543.1	miniprot	mRNA	127825389	127849519	2215	+	.	ID=Thamnophis_elegans_C9B;Rank=1;Identity=0.6810;Positive=0.8182;Target=Pantherophis_obsoletus_C9A_1 1 583;Name=Thamnophis_elegans_C9B
+NC_045543.1	miniprot	CDS	127825389	127825465	109	+	0	Parent=Thamnophis_elegans_C9B;Rank=1;Identity=0.8846;Target=Pantherophis_obsoletus_C9A_1 1 25
+NC_045543.1	miniprot	CDS	127827068	127827161	156	+	1	Parent=Thamnophis_elegans_C9B;Rank=1;Identity=0.7742;Target=Pantherophis_obsoletus_C9A_1 26 57
+NC_045543.1	miniprot	CDS	127828588	127828735	218	+	0	Parent=Thamnophis_elegans_C9B;Rank=1;Identity=0.7600;Target=Pantherophis_obsoletus_C9A_1 58 106
+NC_045543.1	miniprot	CDS	127830728	127830875	246	+	2	Parent=Thamnophis_elegans_C9B;Rank=1;Identity=0.8367;Target=Pantherophis_obsoletus_C9A_1 107 155
+NC_045543.1	miniprot	CDS	127835374	127835512	219	+	1	Parent=Thamnophis_elegans_C9B;Rank=1;Identity=0.8478;Target=Pantherophis_obsoletus_C9A_1 156 202
+NC_045543.1	miniprot	CDS	127837152	127837358	152	+	0	Parent=Thamnophis_elegans_C9B;Rank=1;Identity=0.4366;Target=Pantherophis_obsoletus_C9A_1 203 273
+NC_045543.1	miniprot	CDS	127839924	127840164	335	+	0	Parent=Thamnophis_elegans_C9B;Rank=1;Identity=0.7901;Target=Pantherophis_obsoletus_C9A_1 274 353
+NC_045543.1	miniprot	CDS	127842268	127842393	70	+	2	Parent=Thamnophis_elegans_C9B;Rank=1;Identity=0.2857;Target=Pantherophis_obsoletus_C9A_1 354 395
+NC_045543.1	miniprot	CDS	127845303	127845484	180	+	2	Parent=Thamnophis_elegans_C9B;Rank=1;Identity=0.6333;Target=Pantherophis_obsoletus_C9A_1 396 456
+NC_045543.1	miniprot	CDS	127848234	127848462	326	+	0	Parent=Thamnophis_elegans_C9B;Rank=1;Identity=0.7403;Target=Pantherophis_obsoletus_C9A_1 457 532
+NC_045543.1	miniprot	CDS	127849365	127849519	204	+	2	Parent=Thamnophis_elegans_C9B;Rank=1;Identity=0.6000;Target=Pantherophis_obsoletus_C9A_1 533 583
+NC_045543.1	miniprot	stop_codon	127849517	127849519	0	+	0	Parent=Thamnophis_elegans_C9B;Rank=1

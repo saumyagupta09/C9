@@ -1,0 +1,8 @@
+species	Xantusia_vigilis
+clade	Scincoidea
+scaffold	CM123437.1
+window	CM123437.1:30090910-30261660
+offset	30090909
+new_seqname	Xantusia_vigilis_C9locus
+length	170751
+note	genomic_pos = local_pos + offset

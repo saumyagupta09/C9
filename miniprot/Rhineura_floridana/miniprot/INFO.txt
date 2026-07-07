@@ -1,0 +1,6 @@
+Whole-chromosome miniprot run.
+Query (input): ../../QUERY_ashu_C9_prot.faa (curated C9 proteins)
+Target (input): genome assembly = /media/ashutosh/disk3/Open_seminar/C9_related/Squamata/Squamata_genomes/genome_dir/Rhineura_floridana/GCF_030035675.1_rRhiFlo1.hap2_genomic.fna
+Output: Rhineura_floridana.gff (gene model, genome coords)
+Command: miniprot -t4 --gff <genome.fa> ashu_C9_prot.fa > Rhineura_floridana.gff
+IGV: load the genome assembly above + Rhineura_floridana.gff

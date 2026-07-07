@@ -1,0 +1,6 @@
+Whole-chromosome miniprot run.
+Query (input): ../../QUERY_ashu_C9_prot.faa (curated C9 proteins)
+Target (input): genome assembly = /media/ashutosh/disk3/Open_seminar/C9_related/Squamata/Squamata_genomes/_new_downloads/Pantherophis_obsoletus/GCA_012654085.1_UNIGE_PanObs_1.0_genomic.fna
+Output: Pantherophis_obsoletus.gff (gene model, genome coords)
+Command: miniprot -t4 --gff <genome.fa> ashu_C9_prot.fa > Pantherophis_obsoletus.gff
+IGV: load the genome assembly above + Pantherophis_obsoletus.gff

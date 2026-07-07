@@ -1,0 +1,9 @@
+species	Python_bivittatus
+clade	Boidae/Pythonidae
+scaffold	NW_006536677.1
+window	NW_006536677.1:58373-101186
+offset	58372
+new_seqname	Python_bivittatus_C9locus
+length	42814
+note	reads=2968 (from python_all.bam)
+map	genomic_pos = local_pos + offset

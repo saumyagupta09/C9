@@ -1,0 +1,10 @@
+Protobothrops_mucrosquamatus C9B — genuine 5'-truncated REMNANT (exons 8-11 only); SRA-read confirmed.
+
+C9B = only the C-terminal exons 8-11 (a 5'-truncated remnant; exons 1-7 deleted at the locus).
+SRA-read validation (2026-07-02): Crotalus tigris C9B (a close viper C9B) blasted vs Protobothrops
+Illumina reads (DRR049668/DRR049669). The Crotalus-C9B bait DOES detect Protobothrops C9B - abundant
+candidate-C9B reads at exons 8-11 (e.g. 57/57 at exon 8; 24 biallelic sites at exon 10) - yet finds
+ZERO candidate-C9B reads at exons 1-7 (every read there is Protobothrops C9A). Since the same bait
+captures C9B at 8-11, its absence at 1-7 means exons 1-7 are genuinely deleted, not a capture/assembly
+artifact (contrast Naja/Notechis, which were small assembly indels). C9B stays a degraded/remnant
+pseudogene. SAM: Deliverables/sra_blast/Crotalus_tigris_C9B_on_Protobothrops_sra.sam.

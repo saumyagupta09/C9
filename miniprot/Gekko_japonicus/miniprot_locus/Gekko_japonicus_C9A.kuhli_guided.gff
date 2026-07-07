@@ -1,0 +1,14 @@
+##gff-version 3
+##PAF	kuhli	595	0	595	-	jw	38001	3628	36764	1638	1785	0	AS:i:2639	ms:i:2983	np:i:571	fs:i:0	st:i:1	da:i:0	do:i:66	cg:Z:25M6785V39M2842N51M3512U49M3452V46M525N73M3611N80M1634U38M2272U60M5221N76M1515U52M	cs:Z::25*agS~gt6782ag-c:9*aaaT*ggaR:1*tctP:5*atcV*aatD:1*ttgS:8*tcaP:7*agtR~gt2842ag:7*aaaI:4*agaG:10*aaaR:14*gacE:1*ggaE:6*caaR:3*gG~gt3509ag-ga:42*attT:6*ggG~gt3449ag-a:2*attV:43~gt525ag:13*gacE*aagE:1*gctV:11*gatG:16*agtN:3*gaaG:18*gtgE:1*agtN*gaaG:1~gt3611ag:34*aatH:6*atgV:9*tacH:3*tatF*acaA:16*aagR:4*gagA:1*gG~gt1631ag-ga:3*gagQ:11*gtcA:5*agtG*tctF*cttI:14*gV~gt2269ag-tg:11*gtgM:3*gttI:3*atgA:29*ctcI:8*tatF:1~gt5221ag:1*catY:7*gtgA:13*caaR:17*ccaQ:22*atgL:11*gA~gt1512ag-ca:18*caaR:19*cacQ:13
+jw	miniprot	mRNA	3629	36764	2983	-	.	ID=MP000001;Rank=1;Identity=0.9176;Positive=0.9597;StopCodon=1;Target=kuhli 1 595
+jw	miniprot	CDS	36688	36764	134	-	0	Parent=MP000001;Rank=1;Identity=1.0000;Target=kuhli 1 25
+jw	miniprot	CDS	29788	29905	186	-	1	Parent=MP000001;Rank=1;Identity=0.7949;Target=kuhli 26 65
+jw	miniprot	CDS	26792	26945	260	-	0	Parent=MP000001;Rank=1;Identity=0.8846;Target=kuhli 66 116
+jw	miniprot	CDS	23132	23282	272	-	2	Parent=MP000001;Rank=1;Identity=0.9800;Target=kuhli 117 166
+jw	miniprot	CDS	19544	19682	262	-	1	Parent=MP000001;Rank=1;Identity=0.9783;Target=kuhli 167 213
+jw	miniprot	CDS	18800	19018	313	-	0	Parent=MP000001;Rank=1;Identity=0.8767;Target=kuhli 214 286
+jw	miniprot	CDS	14948	15188	397	-	0	Parent=MP000001;Rank=1;Identity=0.9136;Target=kuhli 287 366
+jw	miniprot	CDS	13200	13316	183	-	2	Parent=MP000001;Rank=1;Identity=0.8718;Target=kuhli 367 405
+jw	miniprot	CDS	10749	10930	277	-	2	Parent=MP000001;Rank=1;Identity=0.9167;Target=kuhli 406 466
+jw	miniprot	CDS	5299	5527	409	-	0	Parent=MP000001;Rank=1;Identity=0.9351;Target=kuhli 467 542
+jw	miniprot	CDS	3629	3786	290	-	2	Parent=MP000001;Rank=1;Identity=0.9615;StopCodon=1;Target=kuhli 543 595

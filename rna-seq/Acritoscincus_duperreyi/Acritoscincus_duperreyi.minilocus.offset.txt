@@ -1,0 +1,8 @@
+species	Acritoscincus_duperreyi
+clade	Scincoidea
+scaffold	CM084875.2
+window	CM084875.2:16617826-16738226
+offset	16617825
+new_seqname	Acritoscincus_duperreyi_C9locus
+length	120401
+note	genomic_pos = local_pos + offset

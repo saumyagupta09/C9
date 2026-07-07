@@ -1,0 +1,6 @@
+Whole-chromosome miniprot run.
+Query (input): ../../QUERY_ashu_C9_prot.faa (curated C9 proteins)
+Target (input): genome assembly = /media/ashutosh/disk3/Open_seminar/C9_related/Squamata/Squamata_genomes/genome_dir/Anolis_sagrei/GCF_037176765.1_rAnoSag1.mat_genomic.fna
+Output: Anolis_sagrei.gff (gene model, genome coords)
+Command: miniprot -t4 --gff <genome.fa> ashu_C9_prot.fa > Anolis_sagrei.gff
+IGV: load the genome assembly above + Anolis_sagrei.gff

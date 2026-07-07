@@ -1,0 +1,29 @@
+C9A = DAB2-proximal copy (synteny naming per Sharma et al. 2022: nearest DAB2 = C9A).
+This copy is a REAL, intact, full-length but DIVERGENT C9 paralog.
+
+Structure: 11 exons (canonical snake lengths 77 94 148 148 139 213 241 126 182 229
+155), CDS 1752 bp / 583 aa, clean ORF (M start, single terminal stop, 0 internal
+stops). Genomic locus NW_024096824.1:2067749-2083748 (minus strand).
+
+DIVERGENCE: only ~85.5% identical to the FYB1-proximal copy (C9B) and to BOTH of
+Ashu's curated Crotalus_tigris references. It is a genuinely divergent paralog
+(a neofunctionalisation-style candidate) -- and a Crotalus-genus feature
+(C. adamanteus likewise has two ~85% divergent C9 copies).
+
+QUADRUPLE-CONCORDANT, identical across independent sources:
+  - genome (bedtools getfasta at the locus) == miniprot model == 100%
+  - NCBI RefSeq "complement component C9-like" GeneID 120310040 / XM_039347948.1
+    (583 aa) == this sequence at 100%.
+So this copy is genome- and NCBI-confirmed.
+
+ASHU DISCREPANCY (3rd known, after Gekko_japonicus + A. carolinensis): Ashu's
+curated set does NOT contain this DAB2-proximal divergent copy. Both his
+"Crotalus_tigris_C9A" and "_C9B" are variants of the FYB1-proximal CONSERVED copy
+(our C9B): Ashu "C9A" == our C9B / NCBI "C9" XM_039347947 at 100% (so his "C9A"
+label is on the FYB1-proximal copy = should be C9B by synteny), Ashu "C9B" = 97.9%
+to our C9B. The real divergent C9A was simply not curated by Ashu.
+
+The previous gold "C9A" here was a CHIMERA (= a copy of the conserved C9B/Ashu-"C9A"
+sequence; originals saved as *.CHIMERA.bak). Replaced with this genome+NCBI-confirmed
+DAB2-proximal copy. C9B (FYB1-proximal, conserved) is unchanged and Ashu/NCBI-
+confirmed. See CORRECTION_LOG.md.

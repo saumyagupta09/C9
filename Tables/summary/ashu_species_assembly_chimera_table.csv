@@ -1,0 +1,23 @@
+species,clade,assembly_accession,ncbi_assembly_level,contig_N50,scaffold_N50,n_scaffolds,effectively_contig_level,copy_number_in_species,copies_in_github_ashu_alignment,chimera_likelihood,notes
+Gekko_japonicus,Gekkota,GCF_001447785.1,Scaffold,29575,707733,191499,no,1,1,No,
+Lacerta_agilis,Lacertoidea,GCF_009819535.1,Chromosome,6613248,86565987,28,no,1,1,No,
+Podarcis_muralis,Lacertoidea,GCF_004329235.1,Chromosome,714612,92398148,2160,no,1,1,No,
+Zootoca_vivipara,Lacertoidea,GCF_963506605.1,Chromosome,3447840,96056580,48,no,1,1,No,
+Anolis_carolinensis,Iguania,GCF_035594765.1,Chromosome,26091274,288964324,211,no,2,2,No,
+Pogona_vitticeps,Iguania,GCF_047335585.1,Chromosome,202516942,274873533,16,no,1,1,No,
+Sceloporus_undulatus,Iguania,GCF_019175285.1,Chromosome,75501,275632209,45012,no,1,1,No,
+Python_bivittatus,Boidae/Pythonidae,GCF_000186305.1,Scaffold,10658,213970,39112,no,1,1,No,1/11 exon off dominant scaffold but single-copy (no paralog to chimerize)
+Chrysopelea_ornata,Colubridae,GCA_019457695.2,Scaffold,1484,1564,1119672,YES,1,1,Yes,scaffold N50=1.5kb (shattered); C9A reconstructed across ~10 contigs; C9B unrecoverable; curated C9A could itself be a mosaic
+Pantherophis_obsoletus,Colubridae,GCA_012654085.1,Scaffold,38205,14519768,36795,no,3,2,No,
+Pituophis_catenifer,Colubridae,GCF_029215685.1,Scaffold,26555075,216834086,649,no,3,2,No,
+Ptyas_mucosa,Colubridae,GCA_012654045.1,Scaffold,41154,15963960,21198,no,2,2,No,
+Thamnophis_elegans,Colubridae,GCF_009769535.1,Chromosome,4620601,100851885,365,no,2,1,No,
+Bothrops_jararaca,Viperidae,GCA_018340635.1,Scaffold,162550,164310,27698,no,2,2,No,
+Crotalus_tigris,Viperidae,GCF_016545835.1,Contig,2106662,2106662,4228,no,2,2,No,
+Protobothrops_mucrosquamatus,Viperidae,GCF_001527695.2,Scaffold,21948,424052,52279,no,2,1,No,
+Vipera_berus,Viperidae,GCA_964194415.1,Chromosome,4688414,218396773,478,no,2,1,No,
+Hydrophis_cyanocinctus,Elapidae,GCA_019473425.1,Chromosome,18985681,264245889,1163,no,2,2,No,
+Laticauda_colubrina,Elapidae,GCA_015471245.1,Scaffold,38278,39959644,20583,no,2,2,No,
+Naja_naja,Elapidae,GCA_009733165.1,Chromosome,302474,224088900,1897,no,2,1,No,C9A + C9B both functional. C9B was mis-called a 25-stop pseudogene; SRA-read blast (2026-07-02) showed a ~5 bp assembly-deletion frameshift and corrected it to an intact 583-aa ORF. Two functional copies.
+Notechis_scutatus,Elapidae,GCF_900518725.1,Scaffold,31763,5997050,52414,no,2,2,No (verified),"C9A re-derived from isolated contiguous Copy-1 = 100% identical to finalized -> NOT a chimera (self-blast coords scattered only because Copy-1/Copy-2 are near-identical tandem duplicates). C9B = near-intact 2nd copy, exon 1 in assembly gap (was mis-called a 5-exon pseudogene)."
+Pseudonaja_textilis,Elapidae,GCF_900518735.1,Scaffold,50443,14685528,28550,no,2,2,No,

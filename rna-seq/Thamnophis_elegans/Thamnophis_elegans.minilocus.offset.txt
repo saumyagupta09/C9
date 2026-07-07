@@ -1,0 +1,8 @@
+species	Thamnophis_elegans
+clade	Colubridae
+scaffold	NC_045543.1
+window	NC_045543.1:127746631-127939919
+offset	127746630
+new_seqname	Thamnophis_elegans_C9locus
+length	193289
+note	genomic_pos = local_pos + offset

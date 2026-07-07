@@ -1,0 +1,14 @@
+##gff-version 3
+JAUMIR010000002.1	miniprot	mRNA	416257838	416296519	2520	+	.	ID=Gambelia_wislizenii_C9A;Rank=1;Identity=0.7614;Positive=0.8596;Target=Anolis_carolinensis_C9A_1 1 591;Name=Gambelia_wislizenii_C9A
+JAUMIR010000002.1	miniprot	CDS	416257838	416257914	79	+	0	Parent=Gambelia_wislizenii_C9A;Rank=1;Identity=0.6538;Target=Anolis_carolinensis_C9A_1 1 25
+JAUMIR010000002.1	miniprot	CDS	416264842	416264935	173	+	1	Parent=Gambelia_wislizenii_C9A;Rank=1;Identity=0.9032;Target=Anolis_carolinensis_C9A_1 26 57
+JAUMIR010000002.1	miniprot	CDS	416267875	416268019	243	+	0	Parent=Gambelia_wislizenii_C9A;Rank=1;Identity=0.8571;Target=Anolis_carolinensis_C9A_1 58 105
+JAUMIR010000002.1	miniprot	CDS	416269111	416269258	248	+	2	Parent=Gambelia_wislizenii_C9A;Rank=1;Identity=0.8980;Target=Anolis_carolinensis_C9A_1 106 154
+JAUMIR010000002.1	miniprot	CDS	416278248	416278386	243	+	1	Parent=Gambelia_wislizenii_C9A;Rank=1;Identity=0.9130;Target=Anolis_carolinensis_C9A_1 155 201
+JAUMIR010000002.1	miniprot	CDS	416281898	416282125	216	+	0	Parent=Gambelia_wislizenii_C9A;Rank=1;Identity=0.5658;Target=Anolis_carolinensis_C9A_1 202 277
+JAUMIR010000002.1	miniprot	CDS	416286253	416286493	371	+	0	Parent=Gambelia_wislizenii_C9A;Rank=1;Identity=0.8395;Target=Anolis_carolinensis_C9A_1 278 357
+JAUMIR010000002.1	miniprot	CDS	416288023	416288148	105	+	2	Parent=Gambelia_wislizenii_C9A;Rank=1;Identity=0.4524;Target=Anolis_carolinensis_C9A_1 358 399
+JAUMIR010000002.1	miniprot	CDS	416291886	416292067	216	+	2	Parent=Gambelia_wislizenii_C9A;Rank=1;Identity=0.6500;Target=Anolis_carolinensis_C9A_1 400 460
+JAUMIR010000002.1	miniprot	CDS	416294329	416294557	379	+	0	Parent=Gambelia_wislizenii_C9A;Rank=1;Identity=0.8701;Target=Anolis_carolinensis_C9A_1 461 536
+JAUMIR010000002.1	miniprot	CDS	416296353	416296519	247	+	2	Parent=Gambelia_wislizenii_C9A;Rank=1;Identity=0.7593;Target=Anolis_carolinensis_C9A_1 537 591
+JAUMIR010000002.1	miniprot	stop_codon	416296517	416296519	0	+	0	Parent=Gambelia_wislizenii_C9A;Rank=1

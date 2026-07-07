@@ -1,0 +1,6 @@
+Whole-chromosome miniprot run.
+Query (input): ../../QUERY_ashu_C9_prot.faa (curated C9 proteins)
+Target (input): genome assembly = /media/ashutosh/disk3/Open_seminar/C9_related/Squamata/Squamata_genomes/genome_dir/Vipera_berus/GCA_964194415.1_rVipBer3.hap1.1_genomic.fna
+Output: Vipera_berus.gff (gene model, genome coords)
+Command: miniprot -t4 --gff <genome.fa> ashu_C9_prot.fa > Vipera_berus.gff
+IGV: load the genome assembly above + Vipera_berus.gff

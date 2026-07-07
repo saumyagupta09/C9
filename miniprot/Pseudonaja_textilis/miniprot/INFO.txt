@@ -1,0 +1,6 @@
+Whole-chromosome miniprot run.
+Query (input): ../../QUERY_ashu_C9_prot.faa (curated C9 proteins)
+Target (input): genome assembly = /media/ashutosh/disk3/Open_seminar/C9_related/Squamata/Squamata_genomes/_new_downloads/Pseudonaja_textilis/GCF_900518735.1_EBS10Xv2-PRI_genomic.fna
+Output: Pseudonaja_textilis.gff (gene model, genome coords)
+Command: miniprot -t4 --gff <genome.fa> ashu_C9_prot.fa > Pseudonaja_textilis.gff
+IGV: load the genome assembly above + Pseudonaja_textilis.gff

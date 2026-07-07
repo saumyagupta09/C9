@@ -1,0 +1,14 @@
+   SW   perc perc perc  query                position in query    matching repeat           position in repeat
+score   div. del. ins.  sequence             begin end   (left)   repeat   class/family   begin  end    (left)  ID
+
+   13   18.5  0.0  5.1  Arizona_elegans_C9C   1144  1184  (568) + A-rich   Low_complexity      1     39    (0)   1  
+   12   11.5  3.3  3.3  Bothrops_jararaca_C9A    111   140 (1612) + (TGAC)n  Simple_repeat      1     30    (0)   2  
+  226   21.1  0.0  0.0  Chrysopelea_ornata_C9A    968  1019  (736) + X7B_LINE LINE/CR1      101    152   (98)   3  
+  239   23.8  6.2  0.0  Crotalus_adamanteus_C9B    941  1020  (732) + X7B_LINE LINE/CR1           69    153   (97)   4  
+   14   20.3  0.0  4.8  Crotalus_adamanteus_C9B   1143  1186  (566) + A-rich   Low_complexity      1     42    (0)   5  
+   12   30.4  0.0  0.0  Crotalus_tigris_C9B    355   398 (1354) + (GAT)n   Simple_repeat      1     44    (0)   6  
+  264   18.5  0.0  0.0  Malpolon_monspessulanus_C9B    965  1018  (731) + X7B_LINE LINE/CR1      101    154   (96)   7  
+   13   24.5  4.5  3.0  Masticophis_lateralis_C9B   1138  1203  (540) + A-rich   Low_complexity      1     67    (0)   8  
+   15   22.7  3.3  3.3  Pantherophis_obsoletus_C9C   1144  1203  (549) + A-rich   Low_complexity      1     60    (0)   9  
+   13   18.5  0.0  5.1  Pituophis_catenifer_C9C   1144  1184  (568) + A-rich   Low_complexity      1     39    (0)  10  
+  228    9.7  0.0  0.0  Ptyas_mucosa_C9A    968   998  (754) + X7B_LINE LINE/CR1      101    131  (119)  11  

@@ -1,0 +1,5 @@
+##gff-version 3
+##PAF	Pantherophis_obsoletus_C9A_1	583	0	70	+	JAHWGE010677461.1:1-11177	1476	132	1216	150	210	0	AS:i:224	ms:i:266	np:i:53	fs:i:0	st:i:0	da:i:0	do:i:45	cg:Z:25M877V44M	cs:Z::5*tttL:11*ggtV:7*agR~gt874ag-g*ttgV*aaaT:14*accA:1*ggtS:5*aatI:3*agtE*cacE:1*gtaY*agtR*ggcS*attR:1*gtaI*attL*tcaK*attF*tccG*ttaQ*aaaF:1
+JAHWGE010677461.1:1-11177	miniprot	mRNA	133	1216	266	+	.	ID=MP000001;Rank=1;Identity=0.7143;Positive=0.7571;Target=Pantherophis_obsoletus_C9A_1 1 70
+JAHWGE010677461.1:1-11177	miniprot	CDS	133	209	111	+	0	Parent=MP000001;Rank=1;Identity=0.9231;Target=Pantherophis_obsoletus_C9A_1 1 25
+JAHWGE010677461.1:1-11177	miniprot	CDS	1084	1216	155	+	1	Parent=MP000001;Rank=1;Identity=0.5909;Target=Pantherophis_obsoletus_C9A_1 26 70

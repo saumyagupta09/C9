@@ -1,0 +1,15 @@
+RELAX summary: iguania_anolis_4A_FGanoleC9B.RELAX.json
+============================================================
+
+Relaxation/intensification parameter K = 1.195421845439226
+LRT = 0.3284087604333763
+p-value = 0.5665975732650502
+verdict: not significant
+
+Model fits (Log-L, AIC-c, parameters):
+  General descriptive: LogL=-10403.60588967697, AIC-c=20926.19347652532, np=59
+  MG94xREV with separate rates for branch sets: LogL=-10514.55979124189, AIC-c=21103.50830241742, np=37
+  Nucleotide GTR: LogL=-10818.58744833341, AIC-c=21695.25476447183, np=29
+  RELAX alternative: LogL=-10424.80599008289, AIC-c=20934.11163433649, np=42
+  RELAX null: LogL=-10424.97019446311, AIC-c=20932.41673747394, np=41
+  RELAX partitioned descriptive: LogL=-10424.31946672647, AIC-c=20939.21186453514, np=45

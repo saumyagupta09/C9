@@ -1,0 +1,8 @@
+species	Candoia_aspera
+clade	Boidae,Pythonidae
+scaffold	NC_086154.1
+window	NC_086154.1:246363661-246502730
+offset	246363660
+new_seqname	Candoia_aspera_C9locus
+length	139070
+note	genomic_pos = local_pos + offset

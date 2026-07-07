@@ -1,0 +1,12 @@
+dataset,foreground,K,LRT,p_value,signif,verdict
+colubrid_C9A_C9B_C9C,FGC9A,0.9547,0.0295,0.864,ns,ns
+colubrid_C9A_C9B_C9C,FGC9B,0.8426,0.383,0.536,ns,ns
+colubrid_C9A_C9B_C9C,FGC9C,0.8917,0.449,0.503,ns,ns
+duplicated_snakes_C9A_C9B,FGC9A,0.9098,0.9496,0.33,ns,ns
+duplicated_snakes_C9A_C9B,FGC9B,0.8077,5.5255,0.0187,YES,relaxed (K<1)
+iguania_anolis,4A_FGanoleC9B,1.1954,0.3284,0.567,ns,ns
+iguania_anolis,4B_FGanoleC9A,0.6208,0.611,0.434,ns,ns
+snakes_C9A,FGboidae,0.9743,0.0255,0.873,ns,ns
+snakes_C9A,FGcolubridae,0.7786,4.0284,0.0447,YES,relaxed (K<1)
+snakes_C9A,FGelapidae,1.7317,16.9187,3.9e-05,YES,intensified (K>1)
+snakes_C9A,FGviperidae,0.8815,0.6811,0.409,ns,ns

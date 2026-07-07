@@ -1,0 +1,8 @@
+# Pantherophis exon-11 read alleles from Pituophis_C9B_on_Pantherophis_sra.sam (reads SRR10405238)
+# Per-read classification: 15 reads = C9A, 2 reads = C9C, 0 = distinct C9B.
+# Query (Pituophis C9B e11) is 97% to Pantherophis C9A but only 81% to C9C -> strong C9A capture bias;
+# few C9C reads, and NO distinct C9B exon-11 reads -> consistent with genuine C9B exon-11 deletion.
+>Pantherophis_exon11_A_C9A  (15 reads; 95-100% to obsoletus C9A)
+GTCAAACTGCCATTGATGGGAACTGGAACTGCTGGTCTAACTGGTCCACGTGTCAGAATGGTGAACGTCAGCGAACAAGAGAGTGTAATAATCCTGCACCTGGATCTGGGGGCAAAACATGTCCTGGAACAACTGTAGAATCAGGCCATTGTTAA
+>Pantherophis_exon11_B_C9C  (2 reads; 97-98% to obsoletus C9C; earlier mis-labelled 'candidate C9B')
+NNNNNNNNGCCATTCATGGGAGCTGGAGCTGCTGGTCTAACTGGTCCACCTGTCAGCAAGGACAACGCCGGCGAACAAGAAAATGTGATAATCCTGCCCCTGGATATAGGGGCAAGTCATGCCCTGGAACAAGTGTAGAAACAGGCCATTGTTAA

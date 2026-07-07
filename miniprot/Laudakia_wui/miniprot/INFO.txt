@@ -1,0 +1,6 @@
+Whole-chromosome miniprot run.
+Query (input): ../../QUERY_ashu_C9_prot.faa (curated C9 proteins)
+Target (input): genome assembly = /media/ashutosh/disk3/Open_seminar/C9_related/Squamata/Squamata_genomes/genome_dir/Laudakia_wui/GCA_040285375.1_ASM4028537v1_genomic.fna
+Output: Laudakia_wui.gff (gene model, genome coords)
+Command: miniprot -t4 --gff <genome.fa> ashu_C9_prot.fa > Laudakia_wui.gff
+IGV: load the genome assembly above + Laudakia_wui.gff

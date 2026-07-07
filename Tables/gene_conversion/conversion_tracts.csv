@@ -1,0 +1,13 @@
+species,copy1,copy2,tract_start,tract_end,note
+Arizona_elegans,Arizona_elegans_C9A,Arizona_elegans_C9B,900,990,bg=94.6
+Arizona_elegans,Arizona_elegans_C9A,Arizona_elegans_C9B,1410,1500,bg=94.6
+Crotalus_tigris,Crotalus_tigris_C9A,Crotalus_tigris_C9B,510,600,bg=85.2
+Hemorrhois_hippocrepis,Hemorrhois_hippocrepis_C9A,Hemorrhois_hippocrepis_C9B,810,990,bg=94.1
+Hemorrhois_hippocrepis,Hemorrhois_hippocrepis_C9A,Hemorrhois_hippocrepis_C9B,1320,1410,bg=94.1
+Laticauda_colubrina,Laticauda_colubrina_C9A,Laticauda_colubrina_C9B,1080,1170,bg=85.0
+Malpolon_monspessulanus,Malpolon_monspessulanus_C9A,Malpolon_monspessulanus_C9B,1410,1500,bg=84.0
+Pantherophis_obsoletus,Pantherophis_obsoletus_C9A,Pantherophis_obsoletus_C9B,1290,1380,bg=94.9
+Pituophis_catenifer,Pituophis_catenifer_C9A,Pituophis_catenifer_C9B,900,1020,bg=95.1
+Pituophis_catenifer,Pituophis_catenifer_C9A,Pituophis_catenifer_C9B,1410,1590,bg=95.1
+Thamnophis_elegans,Thamnophis_elegans_C9A,Thamnophis_elegans_C9B,510,600,bg=79.9
+Vipera_berus,Vipera_berus_C9A,Vipera_berus_C9B,1440,1560,bg=85.6

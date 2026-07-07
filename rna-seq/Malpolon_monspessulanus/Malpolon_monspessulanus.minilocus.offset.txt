@@ -1,0 +1,8 @@
+species	Malpolon_monspessulanus
+clade	Colubridae
+scaffold	OZ184073.1
+window	OZ184073.1:285530498-285718366
+offset	285530497
+new_seqname	Malpolon_monspessulanus_C9locus
+length	187869
+note	genomic_pos = local_pos + offset

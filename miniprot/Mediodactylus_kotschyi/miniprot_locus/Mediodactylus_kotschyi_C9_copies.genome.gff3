@@ -1,0 +1,12 @@
+##gff-version 3
+OZ281146.1	miniprot	mRNA	22323482	22345479	1714	-	.	ID=Mediodactylus_kotschyi_C9A;Rank=1;Identity=0.5453;Positive=0.7334;Target=Anolis_carolinensis_C9A_1 17 588;Name=Mediodactylus_kotschyi_C9A
+OZ281146.1	miniprot	CDS	22345357	22345479	148	-	0	Parent=Mediodactylus_kotschyi_C9A;Rank=1;Identity=0.6098;Target=Anolis_carolinensis_C9A_1 17 57
+OZ281146.1	miniprot	CDS	22341596	22341743	183	-	0	Parent=Mediodactylus_kotschyi_C9A;Rank=1;Identity=0.6800;Target=Anolis_carolinensis_C9A_1 58 105
+OZ281146.1	miniprot	CDS	22339472	22339622	164	-	2	Parent=Mediodactylus_kotschyi_C9A;Rank=1;Identity=0.6000;Target=Anolis_carolinensis_C9A_1 106 154
+OZ281146.1	miniprot	CDS	22338403	22338541	203	-	1	Parent=Mediodactylus_kotschyi_C9A;Rank=1;Identity=0.7174;Target=Anolis_carolinensis_C9A_1 155 201
+OZ281146.1	miniprot	CDS	22337574	22337786	105	-	0	Parent=Mediodactylus_kotschyi_C9A;Rank=1;Identity=0.3816;Target=Anolis_carolinensis_C9A_1 202 277
+OZ281146.1	miniprot	CDS	22335636	22335876	286	-	0	Parent=Mediodactylus_kotschyi_C9A;Rank=1;Identity=0.6173;Target=Anolis_carolinensis_C9A_1 278 357
+OZ281146.1	miniprot	CDS	22334028	22334132	55	-	2	Parent=Mediodactylus_kotschyi_C9A;Rank=1;Identity=0.3571;Target=Anolis_carolinensis_C9A_1 358 399
+OZ281146.1	miniprot	CDS	22332712	22332893	122	-	2	Parent=Mediodactylus_kotschyi_C9A;Rank=1;Identity=0.4000;Target=Anolis_carolinensis_C9A_1 400 460
+OZ281146.1	miniprot	CDS	22330367	22330595	264	-	0	Parent=Mediodactylus_kotschyi_C9A;Rank=1;Identity=0.5714;Target=Anolis_carolinensis_C9A_1 461 536
+OZ281146.1	miniprot	CDS	22323482	22323636	184	-	2	Parent=Mediodactylus_kotschyi_C9A;Rank=1;Identity=0.5686;Target=Anolis_carolinensis_C9A_1 537 588

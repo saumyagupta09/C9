@@ -1,0 +1,1 @@
+exons1-10_used(exon11_from_RNAseq)

@@ -1,0 +1,8 @@
+species	Bungarus_multicinctus
+clade	Elapidae
+scaffold	CM042834.1
+window	CM042834.1:256239725-256452028
+offset	256239724
+new_seqname	Bungarus_multicinctus_C9locus
+length	212304
+note	genomic_pos = local_pos + offset
